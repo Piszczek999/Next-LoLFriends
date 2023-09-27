@@ -8,7 +8,7 @@ import MatchTile from "./MatchTile";
 
 async function clientGetMatch(matchId: string, region: string) {
   const res = await fetch(
-    `http://localhost:3000/api/match/${servers[region]}/${matchId}`
+    `${process.env.NEXT_PUBLIC_HOSTNAME}/api/match/${servers[region]}/${matchId}`
   );
   const match = (await res.json()) as Match;
 

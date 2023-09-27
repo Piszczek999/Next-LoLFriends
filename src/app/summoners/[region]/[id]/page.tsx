@@ -6,7 +6,7 @@ import SummonerStatistics from "./SummonerStatistics";
 
 async function getSummoner(name: string, region: string) {
   const res = await fetch(
-    `http://localhost:3000/api/summoner/${region}/${name}`,
+    `${process.env.NEXT_PUBLIC_HOSTNAME}/api/summoner/${region}/${name}`,
     {
       next: { revalidate: 60 * 5 },
     }
