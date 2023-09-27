@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-slate-700 text-slate-200;
+  @apply text-slate-200 bg-gradient-to-t from-slate-700 to-slate-600;
 }

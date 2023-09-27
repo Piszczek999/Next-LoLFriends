@@ -1,6 +1,8 @@
+import { Database } from "@/types/supabase";
 import { createClient } from "@supabase/supabase-js";
 
-export default createClient(
-  process.env.SUPABASE_URL!,
-  process.env.SUPABASE_ANON_KEY!
+export const serviceSupabase = createClient<Database>(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.SERVICE_ROLE_KEY!,
+  { auth: { persistSession: false } }
 );
