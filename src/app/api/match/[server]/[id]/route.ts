@@ -33,13 +33,13 @@ export async function GET(
   }
 
   match.info.participants.forEach(async (participant) => {
-    const asda = await serviceSupabase
+    const { error } = await serviceSupabase
       .from("participant")
       .upsert({ ...participant, match_id: match.metadata.matchId });
-    console.log(asda.error);
+    if (error && error.code !== "23503") console.warn(error.message);
   });
 
-  console.log("api/match/region/id performed");
+  console.info("api/match/region/id performed");
 
   return NextResponse.json(match);
 }

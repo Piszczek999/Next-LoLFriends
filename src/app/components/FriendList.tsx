@@ -8,16 +8,16 @@ import { DetailedHTMLProps, HTMLAttributes, useEffect, useState } from "react";
 export default function FriendList(
   props: DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>
 ) {
-  const supabase = createClientComponentClient<Database>();
+  // const supabase = createClientComponentClient<Database>();
   const [friends, setFriends] = useState<FriendshipDB[] | null>(null);
 
-  useEffect(() => {
-    const getFriends = async () => {
-      const { data: friends } = await supabase.from("friendship").select();
-      setFriends(friends);
-    };
-    getFriends();
-  }, []);
+  // useEffect(() => {
+  //   const getFriends = async () => {
+  //     const { data: friends } = await supabase.from("friendship").select();
+  //     setFriends(friends);
+  //   };
+  //   getFriends();
+  // }, []);
 
   return (
     <aside {...props}>

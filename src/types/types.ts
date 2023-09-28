@@ -6,9 +6,21 @@ export type MatchDB = Database["public"]["Tables"]["match"]["Row"];
 export type LeagueDB = Database["public"]["Tables"]["league"]["Row"];
 export type ParticipantDB = Database["public"]["Tables"]["participant"]["Row"];
 
+export type MatchData = {
+  error?: FetchError;
+  match?: Match;
+};
+
 export type SummonerData = {
-  leagues: LeagueDB[];
-  summoner: SummonerDB;
+  error?: FetchError;
+  summoner?: SummonerDB;
+  leagues?: LeagueDB[];
+  matches?: string[];
+};
+
+export type FetchError = {
+  status_code?: number;
+  message: string;
 };
 
 // MATCH DATA

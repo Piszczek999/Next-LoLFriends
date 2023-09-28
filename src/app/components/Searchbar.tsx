@@ -29,7 +29,7 @@ export default function Searchbar() {
       setSummoners(data);
     };
     getSummoners();
-  }, [inputValue]);
+  }, [supabase, inputValue]);
 
   function onSubmit(e: React.KeyboardEvent<HTMLInputElement>) {
     if (e.key === "Enter") router.push(`/summoners/${region}/${inputValue}`);

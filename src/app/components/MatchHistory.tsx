@@ -2,17 +2,28 @@
 
 import { useEffect, useState } from "react";
 
-import type { Match } from "@/types/types";
+import type { Match, MatchData } from "@/types/types";
 import { servers } from "@/utils/constants";
 import MatchTile from "./MatchTile";
+import { error } from "console";
 
-async function clientGetMatch(matchId: string, region: string) {
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_HOSTNAME}/api/match/${servers[region]}/${matchId}`
-  );
-  const match = (await res.json()) as Match;
+async function clientGetMatch(
+  matchId: string,
+  region: string
+): Promise<MatchData> {
+  const res = await fetch(`/api/match/${servers[region]}/${matchId}`);
 
-  return match as Match;
+  if (!res.ok)
+    return {
+      error: {
+        message: res.statusText,
+        status_code: res.status,
+      },
+    };
+
+  const match: Match = await res.json();
+
+  return { match };
 }
 
 export default function MatchHistory({
@@ -25,7 +36,7 @@ export default function MatchHistory({
   region: string;
 }) {
   const [visibleMatches, setVisibleMatches] = useState(5);
-  const [matches, setMatches] = useState<Match[]>([]);
+  const [matches, setMatches] = useState<MatchData[]>([]);
   const [loading, setLoading] = useState(true);
 
   const loadMoreMatches = () => {
@@ -36,21 +47,21 @@ export default function MatchHistory({
     const fetchMatches = async () => {
       setLoading(true);
       console.log(matchIds.slice(visibleMatches - 5, visibleMatches));
-      const additionalMatches = await Promise.all(
+      const additionalMatchesData = await Promise.all(
         matchIds
           .slice(visibleMatches - 5, visibleMatches)
-          .map<Promise<Match>>((matchId) => clientGetMatch(matchId, region))
+          .map((matchId) => clientGetMatch(matchId, region))
       );
-      setMatches((prevMatches) => [...prevMatches, ...additionalMatches]);
+      setMatches((prevMatches) => [...prevMatches, ...additionalMatchesData]);
       setLoading(false);
     };
     fetchMatches();
-  }, [visibleMatches]);
+  }, [matchIds, region, visibleMatches]);
 
   return (
     <div className="flex flex-col gap-1 grow">
-      {matches.map((match) => (
-        <MatchTile key={match.metadata.matchId} puuid={puuid} match={match} />
+      {matches.map((matchData, i) => (
+        <MatchTile key={i} puuid={puuid} matchData={matchData} />
       ))}
       {loading &&
         [1, 2, 3, 4, 5].map((e) => (

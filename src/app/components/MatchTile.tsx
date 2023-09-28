@@ -1,6 +1,6 @@
 "use client";
 
-import { Match, Participant } from "@/types/types";
+import { Match, MatchData, Participant } from "@/types/types";
 import { queues, regions, runes, spells } from "@/utils/constants";
 import Image from "next/image";
 import Link from "next/link";
@@ -49,12 +49,16 @@ function getDate(timestamp: number) {
   return formattedDateTime;
 }
 export default function MatchTile({
-  match,
+  matchData,
   puuid,
 }: {
-  match: Match;
+  matchData: MatchData;
   puuid: string;
 }) {
+  if (matchData.error)
+    return <pre>{JSON.stringify(matchData.error, null, 2)}</pre>;
+
+  const match = matchData.match!;
   const participant = getPlayer(match, puuid);
 
   if (!participant) return null;
@@ -159,7 +163,7 @@ export default function MatchTile({
         )}% KP`}</p>
       </div>
 
-      <div className="flex basis-56">
+      <div className="sm:flex basis-56 hidden ">
         <div className="flex flex-col gap-px w-24 whitespace-nowrap overflow-hidden mx-1">
           {match.info.participants
             .filter((player) => player.teamId === 100)
