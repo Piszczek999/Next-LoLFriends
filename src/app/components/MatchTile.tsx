@@ -91,7 +91,7 @@ export default function MatchTile({
         <div>
           <Image
             className="rounded-full"
-            src={`/img/champion/${participant.championName}.png`}
+            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${participant.championName}.png`}
             alt={"image of" + participant.championName}
             width={50}
             height={50}
@@ -99,14 +99,18 @@ export default function MatchTile({
           <div className="flex gap-1 items-center justify-center">
             <Image
               className="bg-slate-800 rounded-full"
-              src={`/img/Styles/${runes[getPrimaryRune(participant)]}`}
+              src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
+                runes[getPrimaryRune(participant)]
+              }`}
               alt=""
               width={20}
               height={20}
             />
             <Image
               className="bg-slate-800 rounded-full p-1"
-              src={`/img/Styles/${runes[getSecondaryRune(participant)]}`}
+              src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
+                runes[getSecondaryRune(participant)]
+              }`}
               alt=""
               width={20}
               height={20}
@@ -116,14 +120,18 @@ export default function MatchTile({
         <div className="flex flex-col gap-1">
           <Image
             className="rounded"
-            src={`/img/spell/${spells[participant.summoner1Id]}.png`}
+            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/spell/${
+              spells[participant.summoner1Id]
+            }.png`}
             alt=""
             width={25}
             height={25}
           />
           <Image
             className="rounded"
-            src={`/img/spell/${spells[participant.summoner2Id]}.png`}
+            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/spell/${
+              spells[participant.summoner2Id]
+            }.png`}
             alt=""
             width={25}
             height={25}
@@ -136,7 +144,7 @@ export default function MatchTile({
           item ? (
             <Image
               key={item}
-              src={`/img/item/${item}.png`}
+              src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/item/${item}.png`}
               alt=""
               width={30}
               height={30}
@@ -171,7 +179,7 @@ export default function MatchTile({
               <div key={r} className="flex items-center gap-1">
                 <Image
                   className="rounded"
-                  src={`/img/champion/${player.championName}.png`}
+                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${player.championName}.png`}
                   alt=""
                   width={16}
                   height={16}
@@ -197,7 +205,7 @@ export default function MatchTile({
               <div key={r} className="flex items-center gap-1">
                 <Image
                   className="rounded"
-                  src={`/img/champion/${player.championName}.png`}
+                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${player.championName}.png`}
                   alt=""
                   width={16}
                   height={16}
