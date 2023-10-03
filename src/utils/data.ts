@@ -4071,11 +4071,11 @@ export const CHAMPIONS = [
       "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/Ezreal.png",
   },
   {
-    id: "Fiddlesticks",
-    name: "Fiddlesticks",
+    id: "FiddleSticks",
+    name: "FiddleSticks",
     title: "the Ancient Fear",
     imageUrl:
-      "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/Fiddlesticks.png",
+      "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/FiddleSticks.png",
   },
   {
     id: "Fiora",

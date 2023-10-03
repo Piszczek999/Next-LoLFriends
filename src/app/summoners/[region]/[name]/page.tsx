@@ -1,8 +1,7 @@
-import SummonerHeader from "./SummonerHeader";
 import MatchHistory from "@/app/components/MatchHistory";
+import SummonerHeader from "./SummonerHeader";
 import SummonerStatistics from "./SummonerStatistics";
 import { getSummoner } from "./fetching";
-import { getChampionsData } from "@/utils/generatingData";
 
 export const revalidate = 60;
 

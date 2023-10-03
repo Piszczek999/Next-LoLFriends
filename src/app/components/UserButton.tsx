@@ -4,6 +4,7 @@ import { Database } from "@/types/supabase";
 import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import { User } from "@supabase/supabase-js";
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { type DetailedHTMLProps, type HTMLAttributes, useState } from "react";
 
@@ -13,16 +14,10 @@ type Props = {
 
 export default function UserButton({ user, ...props }: Props) {
   const [visible, setVisible] = useState(false);
-  const supabase = createClientComponentClient<Database>();
   const router = useRouter();
 
   const toggleVisibility = () => {
     setVisible(!visible);
-  };
-
-  const handleSignOut = async () => {
-    await supabase.auth.signOut();
-    router.refresh();
   };
 
   if (user) {
@@ -34,6 +29,7 @@ export default function UserButton({ user, ...props }: Props) {
             src={"/user-icon.png"}
             alt="User Image"
             width={40}
+            height={40}
           />
         </button>
         {visible && (
@@ -44,15 +40,17 @@ export default function UserButton({ user, ...props }: Props) {
                 src={"/user-icon.png"}
                 alt="User Image"
                 width={64}
+                height={64}
               />
               <div className="flex flex-col">
                 <p className="text-left text-xl">{user.email}</p>
-                <p>{user.email}</p>
               </div>
             </div>
-            <button className="btn" onClick={handleSignOut}>
-              Sign Out
-            </button>
+            <form action="/auth/sign-out" method="post">
+              <button className="w-full text-center hover:bg-slate-750">
+                Logout
+              </button>
+            </form>
           </div>
         )}
       </div>
