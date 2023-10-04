@@ -1,5 +1,10 @@
 import "./globals.css";
-import "./images.css";
+import "./css/champion-id-48.css";
+import "./css/champion-id-24.css";
+import "./css/champion-id-16.css";
+import "./css/item-id-24.css";
+import "./css/summoner-id-24.css";
+import "tippy.js/dist/tippy.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Navbar from "./components/Navbar";
