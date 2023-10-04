@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import type { Match, MatchData } from "@/types/types";
 import { servers } from "@/utils/constants";
 import MatchTile from "./MatchTile";
-import { CHAMPIONS, ITEMS } from "@/utils/data";
+import { CHAMPIONS, ITEMS, SPRITES } from "@/utils/data";
 
 async function clientGetMatch(
   matchId: string,
@@ -72,15 +72,16 @@ export default function MatchHistory({
         };
       });
     };
-    const promises = [
-      ...CHAMPIONS.map((champion) => loadImage(champion.imageUrl)),
-      ...ITEMS.map((item) => loadImage(item.imageUrl)),
-    ];
-    Promise.all(promises).then(() => setLoadingImages(false));
+    Promise.all(SPRITES.map(loadImage)).then(() => setLoadingImages(false));
   }, []);
 
   return (
     <div className="flex flex-col gap-1 grow">
+      <img
+        src="https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+        alt="fond"
+        className="champion-81-16"
+      />
       {loadingImages ? (
         <h2>Loading...</h2>
       ) : (

@@ -1,4 +1,5 @@
 import "./globals.css";
+import "./images.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Navbar from "./components/Navbar";

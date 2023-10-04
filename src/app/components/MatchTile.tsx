@@ -89,15 +89,15 @@ export default function MatchTile({
 
       <div className="flex gap-1 basis-20 shrink-0">
         <div>
-          <img
-            className="rounded-full"
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${participant.championName}.png`}
+          <Image
+            className={`rounded-full champion-${participant.championId}-48`}
+            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
             alt={"image of" + participant.championName}
             width={50}
             height={50}
           />
           <div className="flex gap-1 items-center justify-center">
-            <img
+            <Image
               className="bg-slate-800 rounded-full"
               src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
                 runes[getPrimaryRune(participant)]
@@ -106,7 +106,7 @@ export default function MatchTile({
               width={20}
               height={20}
             />
-            <img
+            <Image
               className="bg-slate-800 rounded-full p-1"
               src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
                 runes[getSecondaryRune(participant)]
@@ -118,7 +118,7 @@ export default function MatchTile({
           </div>
         </div>
         <div className="flex flex-col gap-1">
-          <img
+          <Image
             className="rounded"
             src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/spell/${
               spells[participant.summoner1Id]
@@ -127,7 +127,7 @@ export default function MatchTile({
             width={25}
             height={25}
           />
-          <img
+          <Image
             className="rounded"
             src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/spell/${
               spells[participant.summoner2Id]
@@ -142,7 +142,7 @@ export default function MatchTile({
       <div className="grid grid-cols-4 gap-[2px] shrink-0">
         {playerItems.map((item) =>
           item ? (
-            <img
+            <Image
               key={item}
               src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/item/${item}.png`}
               alt=""
@@ -177,9 +177,9 @@ export default function MatchTile({
             .filter((player) => player.teamId === 100)
             .map((player, r) => (
               <div key={r} className="flex items-center gap-1">
-                <img
-                  className="rounded"
-                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${player.championName}.png`}
+                <Image
+                  className={`rounded-full champion-${player.championId}-16`}
+                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
                   alt=""
                   width={16}
                   height={16}
@@ -203,9 +203,9 @@ export default function MatchTile({
             .filter((player) => player.teamId === 200)
             .map((player, r) => (
               <div key={r} className="flex items-center gap-1">
-                <img
-                  className="rounded"
-                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${player.championName}.png`}
+                <Image
+                  className={`rounded-full champion-${player.championId}-16`}
+                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
                   alt=""
                   width={16}
                   height={16}
