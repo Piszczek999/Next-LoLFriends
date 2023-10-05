@@ -2,6 +2,14 @@ import MatchHistory from "@/app/components/MatchHistory";
 import SummonerHeader from "./SummonerHeader";
 import SummonerStatistics from "./SummonerStatistics";
 import { getSummoner } from "./fetching";
+import {
+  getChampionClasses16,
+  getChampionClasses24,
+  getChampionsData,
+  getItemsData,
+  getSummonersData,
+  getSummonerClasses24,
+} from "@/utils/generatingData";
 
 export const revalidate = 60;
 
@@ -22,7 +30,7 @@ export default async function page({
     return <pre>{JSON.stringify(error, null, 2)}</pre>;
   }
 
-  // const data = await getChampionsData();
+  // const data = await getSummonerClasses24();
   // return <pre>{data}</pre>;
 
   if (!summoner) return <main>Summoner not found</main>;

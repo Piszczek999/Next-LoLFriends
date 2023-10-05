@@ -4,6 +4,8 @@ import { Match, MatchData, Participant } from "@/types/types";
 import { queues, regions, runes, spells } from "@/utils/constants";
 import Image from "next/image";
 import Link from "next/link";
+import Tippy from "@tippyjs/react";
+import { ITEMS } from "@/utils/LoL-data";
 
 function getPlayer(match: Match, puuid: string) {
   return match.info.participants.find((player) => player.puuid == puuid);
@@ -74,30 +76,34 @@ export default function MatchTile({
   ];
 
   return (
-    <div className="flex gap-4 shadow px-2 bg-slate-700 items-center h-24 text-slate-400">
-      <div className="basis-24">
+    <div className="relative flex gap-4 shadow px-2 bg-slate-700 items-center h-[80px] text-slate-400 overflow-hidden">
+      {participant.win ? (
+        <p className="absolute left-0 text-8xl text-green-500 text-opacity-20 font-bold">
+          VICTORY
+        </p>
+      ) : (
+        <p className="absolute left-0 text-8xl text-red-500 text-opacity-20 font-bold">
+          DEFEAT
+        </p>
+      )}
+      <div className="flex flex-col gap-2 basis-24 z-[1]">
         <p className="text-xs">{queues[match.info.queueId]}</p>
-        {participant.win && (
-          <p className="text-lg text-green-500 font-medium">Victory</p>
-        )}
-        {!participant.win && (
-          <p className="text-lg text-red-500 font-medium">Defeat</p>
-        )}
+
         <p className="text-xs">{getGameDuration(match)}</p>
         <p className="text-xs">{getDate(match.info.gameEndTimestamp)}</p>
       </div>
 
-      <div className="flex gap-1 basis-20 shrink-0">
+      <div className="flex gap-1 basis-20 shrink-0 z-[1]">
         <div>
-          <img
-            className="rounded-full"
+          <Image
+            className={`rounded-full`}
             src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${participant.championName}.png`}
             alt={"image of" + participant.championName}
-            width={50}
-            height={50}
+            width={48}
+            height={48}
           />
           <div className="flex gap-1 items-center justify-center">
-            <img
+            <Image
               className="bg-slate-800 rounded-full"
               src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
                 runes[getPrimaryRune(participant)]
@@ -106,7 +112,7 @@ export default function MatchTile({
               width={20}
               height={20}
             />
-            <img
+            <Image
               className="bg-slate-800 rounded-full p-1"
               src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
                 runes[getSecondaryRune(participant)]
@@ -117,48 +123,56 @@ export default function MatchTile({
             />
           </div>
         </div>
-        <div className="flex flex-col gap-1">
-          <img
-            className="rounded"
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/spell/${
-              spells[participant.summoner1Id]
-            }.png`}
+        <div className="flex flex-col gap-1 z-[1]">
+          <Image
+            className={`rounded summoner-${participant.summoner1Id}-24`}
+            src={
+              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+            }
             alt=""
-            width={25}
-            height={25}
+            width={24}
+            height={24}
           />
-          <img
-            className="rounded"
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/spell/${
-              spells[participant.summoner2Id]
-            }.png`}
+          <Image
+            className={`rounded summoner-${participant.summoner2Id}-24`}
+            src={
+              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+            }
             alt=""
-            width={25}
-            height={25}
+            width={24}
+            height={24}
           />
         </div>
       </div>
 
-      <div className="grid grid-cols-4 gap-[2px] shrink-0">
+      <div className="grid grid-cols-4 gap-[2px] shrink-0 z-[1]">
         {playerItems.map((item) =>
           item ? (
-            <img
+            <Tippy
               key={item}
-              src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/item/${item}.png`}
-              alt=""
-              width={30}
-              height={30}
-            />
+              content={
+                ITEMS.find((itemData) => itemData.id == item.toString())?.name
+              }
+              placement="top"
+            >
+              <Image
+                className={`item-${item}-24`}
+                src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
+                alt=""
+                width={24}
+                height={24}
+              />
+            </Tippy>
           ) : (
             <div
               key={item}
-              className="h-[30px] bg-slate-800 border-2 border-slate-750"
+              className="h-[24px] bg-slate-800 border-2 border-slate-750"
             ></div>
           )
         )}
       </div>
 
-      <div className="text-center basis-24 shrink-0">
+      <div className="text-center basis-24 shrink-0 z-[1]">
         <p className="font-medium text-slate-200">{`${participant.kills} / ${participant.deaths} / ${participant.assists}`}</p>
         <p className="text-xs text-slate-400">{`${
           participant.totalMinionsKilled
@@ -171,57 +185,63 @@ export default function MatchTile({
         )}% KP`}</p>
       </div>
 
-      <div className="sm:flex basis-56 grow hidden ">
-        <div className="flex flex-col gap-px basis-[80px] grow whitespace-nowrap overflow-hidden mx-1">
+      <div className="sm:flex flex-col basis-56 grow hidden">
+        <div className="flex gap-px">
           {match.info.participants
             .filter((player) => player.teamId === 100)
             .map((player, r) => (
-              <div key={r} className="flex items-center gap-1">
-                <img
-                  className="rounded"
-                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${player.championName}.png`}
-                  alt=""
-                  width={16}
-                  height={16}
-                  key={player.championName}
-                />
-                <Link
-                  href={`/summoners/${Object.keys(regions).find(
-                    (key) =>
-                      regions[key] === match.info.platformId.toLowerCase()
-                  )}/${player.summonerName}`}
-                >
-                  <p className="text-xs" title={player.summonerName}>
-                    {player.summonerName}
-                  </p>
-                </Link>
-              </div>
+              <Tippy key={r} content={player.summonerName} placement="top">
+                <div className="flex items-center gap-1">
+                  <Link
+                    className="relative"
+                    href={`/summoners/${Object.keys(regions).find(
+                      (key) =>
+                        regions[key] === match.info.platformId.toLowerCase()
+                    )}/${player.summonerName}`}
+                  >
+                    <Image
+                      className={`rounded champion-${player.championId}-24`}
+                      src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
+                      alt=""
+                      width={16}
+                      height={16}
+                      key={player.championName}
+                    />
+                    {player.summonerId == participant.summonerId && (
+                      <div className="absolute w-[24px] h-[24px] top-0 border-2 border-slate-300 rounded"></div>
+                    )}
+                  </Link>
+                </div>
+              </Tippy>
             ))}
         </div>
-        <div className="flex flex-col gap-px basis-[80px] grow whitespace-nowrap overflow-hidden mx-1">
+        <div className="flex gap-px">
           {match.info.participants
             .filter((player) => player.teamId === 200)
             .map((player, r) => (
-              <div key={r} className="flex items-center gap-1">
-                <img
-                  className="rounded"
-                  src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${player.championName}.png`}
-                  alt=""
-                  width={16}
-                  height={16}
-                  key={player.championName}
-                />
-                <Link
-                  href={`/summoners/${Object.keys(regions).find(
-                    (key) =>
-                      regions[key] === match.info.platformId.toLowerCase()
-                  )}/${player.summonerName}`}
-                >
-                  <p className="text-xs" title={player.summonerName}>
-                    {player.summonerName}
-                  </p>
-                </Link>
-              </div>
+              <Tippy key={r} content={player.summonerName} placement="top">
+                <div className="flex items-center gap-1">
+                  <Link
+                    className="relative"
+                    href={`/summoners/${Object.keys(regions).find(
+                      (key) =>
+                        regions[key] === match.info.platformId.toLowerCase()
+                    )}/${player.summonerName}`}
+                  >
+                    <Image
+                      className={`rounded champion-${player.championId}-24`}
+                      src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
+                      alt=""
+                      width={16}
+                      height={16}
+                      key={player.championName}
+                    />
+                    {player.summonerId == participant.summonerId && (
+                      <div className="absolute w-[24px] h-[24px] top-0 border-2 border-slate-300 rounded"></div>
+                    )}
+                  </Link>
+                </div>
+              </Tippy>
             ))}
         </div>
       </div>

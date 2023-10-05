@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import type { Match, MatchData } from "@/types/types";
 import { servers } from "@/utils/constants";
 import MatchTile from "./MatchTile";
-import { CHAMPIONS, ITEMS } from "@/utils/data";
+import { CHAMPIONS, ITEMS } from "@/utils/LoL-data";
 
 async function clientGetMatch(
   matchId: string,
@@ -38,7 +38,6 @@ export default function MatchHistory({
   const [visibleMatches, setVisibleMatches] = useState(5);
   const [matches, setMatches] = useState<MatchData[]>([]);
   const [loadingMatches, setLoadingMatches] = useState(true);
-  const [loadingImages, setLoadingImages] = useState(true);
 
   const loadMoreMatches = () => {
     setVisibleMatches(visibleMatches + 5);
@@ -59,50 +58,24 @@ export default function MatchHistory({
     fetchMatches();
   }, [matchIds, region, visibleMatches]);
 
-  useEffect(() => {
-    const loadImage = (url: string) => {
-      return new Promise((resolve, reject) => {
-        const loadImg = new Image();
-        loadImg.src = url;
-        loadImg.onload = () => {
-          resolve(true);
-        };
-        loadImg.onerror = (err) => {
-          reject(err);
-        };
-      });
-    };
-    const promises = [
-      ...CHAMPIONS.map((champion) => loadImage(champion.imageUrl)),
-      ...ITEMS.map((item) => loadImage(item.imageUrl)),
-    ];
-    Promise.all(promises).then(() => setLoadingImages(false));
-  }, []);
-
   return (
     <div className="flex flex-col gap-1 grow">
-      {loadingImages ? (
-        <h2>Loading...</h2>
-      ) : (
-        <>
-          {matches.map((matchData, i) => (
-            <MatchTile key={i} puuid={puuid} matchData={matchData} />
-          ))}
-          {loadingMatches &&
-            [1, 2, 3, 4, 5].map((e) => (
-              <div
-                key={e}
-                className="flex h-24 gap-4 shadow px-2 bg-slate-750 items-center"
-              >
-                <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
-                <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
-                <div className="basis-32 h-5/6 bg-slate-700 rounded"></div>
-                <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
-                <div className="basis-56 h-5/6 bg-slate-700 rounded"></div>
-              </div>
-            ))}
-        </>
-      )}
+      {matches.map((matchData, i) => (
+        <MatchTile key={i} puuid={puuid} matchData={matchData} />
+      ))}
+      {loadingMatches &&
+        [1, 2, 3, 4, 5].map((e) => (
+          <div
+            key={e}
+            className="flex h-24 gap-4 shadow px-2 bg-slate-750 items-center"
+          >
+            <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
+            <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
+            <div className="basis-32 h-5/6 bg-slate-700 rounded"></div>
+            <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
+            <div className="basis-56 h-5/6 bg-slate-700 rounded"></div>
+          </div>
+        ))}
 
       <button
         className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition"
