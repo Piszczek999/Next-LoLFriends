@@ -2,13 +2,15 @@ import { Participant } from "@/types/types";
 import { ITEMS } from "@/utils/LoL-data";
 import Tippy from "@tippyjs/react";
 import Image from "next/image";
-import { type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { useContext, type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { MatchContext } from "./MatchTile";
 
-type Props = {
-  participant: Participant;
-} & DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
+type Props = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
 
-export default function SummonerItems({ participant, ...props }: Props) {
+export default function SummonerItems({ ...props }: Props) {
+  const { participant } = useContext(MatchContext);
+  if (!participant) return <p>Context is null</p>;
+
   const playerItems = [
     participant.item0,
     participant.item1,
@@ -26,7 +28,20 @@ export default function SummonerItems({ participant, ...props }: Props) {
           <Tippy
             key={item}
             content={
-              ITEMS.find((itemData) => itemData.id == item.toString())?.name
+              <>
+                <p>
+                  {
+                    ITEMS.find((itemData) => itemData.id == item.toString())
+                      ?.name
+                  }
+                </p>
+                <p className="text-slate-400">
+                  {
+                    ITEMS.find((itemData) => itemData.id == item.toString())
+                      ?.plaintext
+                  }
+                </p>
+              </>
             }
             placement="top"
           >

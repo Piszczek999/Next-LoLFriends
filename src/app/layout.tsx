@@ -27,7 +27,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <Navbar />
         <div className="flex flex-col md:flex-row pt-[68px] min-h-screen">
-          <div className="mx-auto xl:basis-[1024px] w-full xl:w-auto bg-slate-700">
+          <div className="mx-auto xl:basis-[1024px] w-full bg-slate-700">
             {children}
           </div>
           <FriendList className="relative right-0 basis-[200px] h-auto bg-slate-750 shrink-0" />

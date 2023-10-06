@@ -3,13 +3,15 @@ import { SUMMONERS } from "@/utils/LoL-data";
 import { runes } from "@/utils/constants";
 import Tippy from "@tippyjs/react";
 import Image from "next/image";
-import { type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { useContext, type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { MatchContext } from "./MatchTile";
 
-type Props = {
-  participant: Participant;
-} & DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
+type Props = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
 
-export default function SummonerLoadout({ participant, ...props }: Props) {
+export default function SummonerLoadout({ ...props }: Props) {
+  const { participant } = useContext(MatchContext);
+  if (!participant) return <p>Context is null</p>;
+
   function getPrimaryRune(player: Participant) {
     if (player.perks.styles[0]?.selections[0]?.perk) {
       return player.perks.styles[0].selections[0].perk;

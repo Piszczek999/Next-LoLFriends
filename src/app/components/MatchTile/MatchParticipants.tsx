@@ -1,20 +1,16 @@
-import { Match, Participant } from "@/types/types";
 import { regions } from "@/utils/constants";
 import Tippy from "@tippyjs/react";
 import Image from "next/image";
 import Link from "next/link";
-import { type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { useContext, type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { MatchContext } from "./MatchTile";
 
-type Props = {
-  participant: Participant;
-  match: Match;
-} & DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
+type Props = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
 
-export default function MatchParticipants({
-  match,
-  participant,
-  ...props
-}: Props) {
+export default function MatchParticipants({ ...props }: Props) {
+  const { participant, match } = useContext(MatchContext);
+  if (!participant || !match) return <p>Context is null</p>;
+
   return (
     <div {...props}>
       <div className="flex gap-px">

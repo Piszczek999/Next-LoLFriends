@@ -20,7 +20,7 @@ export default function Navbar() {
       setUser(data.user);
     };
     getUser();
-  }, []);
+  });
 
   useEffect(() => {
     const getProfile = async () => {

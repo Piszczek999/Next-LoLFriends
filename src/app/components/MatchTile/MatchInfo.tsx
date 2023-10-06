@@ -1,12 +1,14 @@
 import { Match } from "@/types/types";
 import { queues } from "@/utils/constants";
-import { type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { type DetailedHTMLProps, type HTMLAttributes, useContext } from "react";
+import { MatchContext } from "./MatchTile";
 
-type Props = {
-  match: Match;
-} & DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
+type Props = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
 
-export default function MatchInfo({ match, ...props }: Props) {
+export default function MatchInfo({ ...props }: Props) {
+  const { match } = useContext(MatchContext);
+  if (!match) return <p>MatchContext is null</p>;
+
   function getFormattedTime(match: Match) {
     const totalSeconds = match.info.gameDuration;
 

@@ -21,7 +21,7 @@ export default function FriendList(
       setUser(data.user);
     };
     getUser();
-  }, []);
+  });
 
   useEffect(() => {
     const getFriends = async () => {
@@ -39,7 +39,7 @@ export default function FriendList(
       setFriends([...friends]);
     };
     getFriends();
-  }, []);
+  }, [user]);
 
   return (
     <aside {...props}>
