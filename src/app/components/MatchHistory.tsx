@@ -5,7 +5,6 @@ import { useEffect, useState } from "react";
 import type { Match, MatchData } from "@/types/types";
 import { servers } from "@/utils/constants";
 import MatchTile from "./MatchTile/MatchTile";
-import { CHAMPIONS, ITEMS } from "@/utils/LoL-data";
 
 async function clientGetMatch(
   matchId: string,
