@@ -1,12 +1,9 @@
 "use client";
 
-import { Database } from "@/types/supabase";
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import { User } from "@supabase/supabase-js";
 import Image from "next/image";
-import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { type DetailedHTMLProps, type HTMLAttributes, useState } from "react";
+import { useState, type DetailedHTMLProps, type HTMLAttributes } from "react";
 
 type Props = {
   user: User | undefined;
