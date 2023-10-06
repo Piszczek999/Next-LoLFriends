@@ -5,7 +5,7 @@ import { queues, regions, runes, spells } from "@/utils/constants";
 import Image from "next/image";
 import Link from "next/link";
 import Tippy from "@tippyjs/react";
-import { ITEMS } from "@/utils/LoL-data";
+import { ITEMS, SUMMONERS } from "@/utils/LoL-data";
 
 function getPlayer(match: Match, puuid: string) {
   return match.info.participants.find((player) => player.puuid == puuid);
@@ -86,7 +86,7 @@ export default function MatchTile({
           DEFEAT
         </p>
       )}
-      <div className="flex flex-col gap-2 basis-24 z-[1]">
+      <div className="flex flex-col gap-2 basis-24 z-[1] text-slate-300">
         <p className="text-xs">{queues[match.info.queueId]}</p>
 
         <p className="text-xs">{getGameDuration(match)}</p>
@@ -124,24 +124,68 @@ export default function MatchTile({
           </div>
         </div>
         <div className="flex flex-col gap-1 z-[1]">
-          <Image
-            className={`rounded summoner-${participant.summoner1Id}-24`}
-            src={
-              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+          <Tippy
+            content={
+              <>
+                <p>
+                  {
+                    SUMMONERS.find(
+                      (spell) => spell.key == participant.summoner1Id.toString()
+                    )?.name
+                  }
+                </p>
+                <p className="text-slate-400">
+                  {
+                    SUMMONERS.find(
+                      (spell) => spell.key == participant.summoner1Id.toString()
+                    )?.description
+                  }
+                </p>
+              </>
             }
-            alt=""
-            width={24}
-            height={24}
-          />
-          <Image
-            className={`rounded summoner-${participant.summoner2Id}-24`}
-            src={
-              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+            placement="top"
+          >
+            <Image
+              className={`rounded summoner-${participant.summoner1Id}-24`}
+              src={
+                "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+              }
+              alt=""
+              width={24}
+              height={24}
+            />
+          </Tippy>
+          <Tippy
+            content={
+              <>
+                <p>
+                  {
+                    SUMMONERS.find(
+                      (spell) => spell.key == participant.summoner2Id.toString()
+                    )?.name
+                  }
+                </p>
+                <p className="text-slate-400">
+                  {
+                    SUMMONERS.find(
+                      (spell) => spell.key == participant.summoner2Id.toString()
+                    )?.description
+                  }
+                </p>
+              </>
             }
-            alt=""
-            width={24}
-            height={24}
-          />
+            placement="top"
+          >
+            <Image
+              className={`rounded summoner-${participant.summoner2Id}-24`}
+              src={
+                "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+              }
+              alt=""
+              width={24}
+              height={24}
+            />
+          </Tippy>
         </div>
       </div>
 
@@ -151,7 +195,20 @@ export default function MatchTile({
             <Tippy
               key={item}
               content={
-                ITEMS.find((itemData) => itemData.id == item.toString())?.name
+                <>
+                  <p>
+                    {
+                      ITEMS.find((itemData) => itemData.id == item.toString())
+                        ?.name
+                    }
+                  </p>
+                  <p className="text-slate-400">
+                    {
+                      ITEMS.find((itemData) => itemData.id == item.toString())
+                        ?.plaintext
+                    }
+                  </p>
+                </>
               }
               placement="top"
             >
@@ -185,7 +242,7 @@ export default function MatchTile({
         )}% KP`}</p>
       </div>
 
-      <div className="sm:flex flex-col basis-56 grow hidden">
+      <div className="sm:flex flex-col basis-[126px] hidden shrink-0">
         <div className="flex gap-px">
           {match.info.participants
             .filter((player) => player.teamId === 100)
