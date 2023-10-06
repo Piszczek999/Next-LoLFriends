@@ -61,6 +61,9 @@ export default function Login() {
           </button>
           <Messages />
         </form>
+        <form action="/auth/sign-in-github" method="post">
+          <button>Sign in with Github</button>
+        </form>
       </div>
     </main>
   );

@@ -12,23 +12,20 @@ export interface Database {
       friendship: {
         Row: {
           created_at: string
-          friendshipId: number
-          receiver_user_id: string | null
-          sender_user_id: string | null
+          receiver_user_id: string
+          sender_user_id: string
           status: string | null
         }
         Insert: {
           created_at?: string
-          friendshipId?: number
-          receiver_user_id?: string | null
-          sender_user_id?: string | null
+          receiver_user_id: string
+          sender_user_id?: string
           status?: string | null
         }
         Update: {
           created_at?: string
-          friendshipId?: number
-          receiver_user_id?: string | null
-          sender_user_id?: string | null
+          receiver_user_id?: string
+          sender_user_id?: string
           status?: string | null
         }
         Relationships: [
@@ -543,6 +540,31 @@ export interface Database {
           }
         ]
       }
+      profile: {
+        Row: {
+          email: string | null
+          id: string
+          name: string | null
+        }
+        Insert: {
+          email?: string | null
+          id: string
+          name?: string | null
+        }
+        Update: {
+          email?: string | null
+          id?: string
+          name?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "profile_id_fkey"
+            columns: ["id"]
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
       summoner: {
         Row: {
           accountId: string
@@ -580,34 +602,6 @@ export interface Database {
         Relationships: [
           {
             foreignKeyName: "summoner_user_id_fkey"
-            columns: ["user_id"]
-            referencedRelation: "users"
-            referencedColumns: ["id"]
-          }
-        ]
-      }
-      todos: {
-        Row: {
-          created_at: string
-          id: number
-          title: string | null
-          user_id: string | null
-        }
-        Insert: {
-          created_at?: string
-          id?: number
-          title?: string | null
-          user_id?: string | null
-        }
-        Update: {
-          created_at?: string
-          id?: number
-          title?: string | null
-          user_id?: string | null
-        }
-        Relationships: [
-          {
-            foreignKeyName: "todos_user_id_fkey"
             columns: ["user_id"]
             referencedRelation: "users"
             referencedColumns: ["id"]

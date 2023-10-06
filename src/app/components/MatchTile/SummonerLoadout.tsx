@@ -1,5 +1,7 @@
 import { Participant } from "@/types/types";
+import { SUMMONERS } from "@/utils/LoL-data";
 import { runes } from "@/utils/constants";
+import Tippy from "@tippyjs/react";
 import Image from "next/image";
 import { type DetailedHTMLProps, type HTMLAttributes } from "react";
 
@@ -54,24 +56,68 @@ export default function SummonerLoadout({ participant, ...props }: Props) {
         </div>
       </div>
       <div className="flex flex-col gap-1 z-[1]">
-        <Image
-          className={`rounded summoner-${participant.summoner1Id}-24`}
-          src={
-            "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+        <Tippy
+          content={
+            <>
+              <p>
+                {
+                  SUMMONERS.find(
+                    (spell) => spell.key == participant.summoner1Id.toString()
+                  )?.name
+                }
+              </p>
+              <p className="text-slate-400">
+                {
+                  SUMMONERS.find(
+                    (spell) => spell.key == participant.summoner1Id.toString()
+                  )?.description
+                }
+              </p>
+            </>
           }
-          alt=""
-          width={24}
-          height={24}
-        />
-        <Image
-          className={`rounded summoner-${participant.summoner2Id}-24`}
-          src={
-            "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+          placement="top"
+        >
+          <Image
+            className={`rounded summoner-${participant.summoner1Id}-24`}
+            src={
+              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+            }
+            alt=""
+            width={24}
+            height={24}
+          />
+        </Tippy>
+        <Tippy
+          content={
+            <>
+              <p>
+                {
+                  SUMMONERS.find(
+                    (spell) => spell.key == participant.summoner2Id.toString()
+                  )?.name
+                }
+              </p>
+              <p className="text-slate-400">
+                {
+                  SUMMONERS.find(
+                    (spell) => spell.key == participant.summoner2Id.toString()
+                  )?.description
+                }
+              </p>
+            </>
           }
-          alt=""
-          width={24}
-          height={24}
-        />
+          placement="top"
+        >
+          <Image
+            className={`rounded summoner-${participant.summoner2Id}-24`}
+            src={
+              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
+            }
+            alt=""
+            width={24}
+            height={24}
+          />
+        </Tippy>
       </div>
     </div>
   );

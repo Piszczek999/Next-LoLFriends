@@ -64,7 +64,7 @@ export default function MatchTile({
       <MatchParticipants
         match={match}
         participant={participant}
-        className="sm:flex flex-col basis-56 grow hidden"
+        className="sm:flex flex-col basis-[126px] hidden shrink-0"
       />
     </div>
   );

@@ -5,6 +5,7 @@ export type FriendshipDB = Database["public"]["Tables"]["friendship"]["Row"];
 export type MatchDB = Database["public"]["Tables"]["match"]["Row"];
 export type LeagueDB = Database["public"]["Tables"]["league"]["Row"];
 export type ParticipantDB = Database["public"]["Tables"]["participant"]["Row"];
+export type ProfileDB = Database["public"]["Tables"]["profile"]["Row"];
 
 export type MatchData = {
   error?: FetchError;
