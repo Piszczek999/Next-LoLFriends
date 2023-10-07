@@ -4,14 +4,13 @@ import { ProfileDB } from "@/types/types";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useState, type DetailedHTMLProps, type HTMLAttributes } from "react";
+import { useAuth } from "../auth/Auth";
 
-type Props = {
-  profile: ProfileDB | null;
-} & DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
+type Props = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
 
-export default function UserButton({ profile, ...props }: Props) {
+export default function UserButton({ ...props }: Props) {
   const [visible, setVisible] = useState(false);
-  const router = useRouter();
+  const { profile } = useAuth();
 
   const toggleVisibility = () => {
     setVisible(!visible);

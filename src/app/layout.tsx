@@ -9,6 +9,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Navbar from "./components/Navbar";
 import FriendList from "./components/FriendList";
+import { AuthProvider } from "./auth/Auth";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -25,13 +26,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Navbar />
-        <div className="flex flex-col md:flex-row pt-[68px] min-h-screen">
-          <div className="mx-auto xl:basis-[1024px] w-full bg-slate-700">
-            {children}
+        <AuthProvider>
+          <Navbar />
+          <div className="flex flex-col md:flex-row pt-[68px] min-h-screen">
+            <div className="mx-auto xl:basis-[1024px] w-full bg-slate-700">
+              {children}
+            </div>
+            <FriendList className="relative right-0 basis-[200px] h-auto bg-slate-750 shrink-0" />
           </div>
-          <FriendList className="relative right-0 basis-[200px] h-auto bg-slate-750 shrink-0" />
-        </div>
+        </AuthProvider>
       </body>
     </html>
   );
