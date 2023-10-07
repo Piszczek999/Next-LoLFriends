@@ -2,14 +2,6 @@ import MatchHistory from "@/app/components/MatchHistory";
 import SummonerHeader from "./SummonerHeader";
 import SummonerStatistics from "./SummonerStatistics";
 import { getSummoner } from "./fetching";
-import {
-  getChampionClasses16,
-  getChampionClasses24,
-  getChampionsData,
-  getItemsData,
-  getSummonersData,
-  getSummonerClasses24,
-} from "@/utils/generatingData";
 
 export const revalidate = 60;
 
@@ -26,7 +18,7 @@ export default async function page({
   const { summoner, leagues, matches, error } = await getSummoner(region, name);
 
   if (error) {
-    console.error(error);
+    if (error.status_code == 403) return <p>Riot API key has expired</p>;
     return <pre>{JSON.stringify(error, null, 2)}</pre>;
   }
 

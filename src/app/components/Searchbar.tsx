@@ -46,11 +46,10 @@ export default function Searchbar() {
       >
         <button className="p-1">{region}</button>
         {isRegionVisible && (
-          <div className="absolute bg-slate-700 flex flex-col border-[1px] border-slate-800 shadow-lg">
+          <div className="absolute bg-slate-700 flex flex-col border-[1px] border-slate-800 shadow-lg overflow-y-scroll h-[140px] gap-1">
             {Object.keys(regions).map((region, i) => (
               <button
                 key={i}
-                className="p-1"
                 onClick={() => {
                   setIsRegionVisible(false);
                   setRegion(region);

@@ -19,7 +19,12 @@ export default function UserButton({ ...props }: Props) {
   if (profile) {
     return (
       <div {...props}>
-        <button onClick={toggleVisibility}>
+        <button
+          onFocus={() => setVisible(true)}
+          onBlur={(e) => {
+            if (!e.currentTarget.contains(e.relatedTarget)) setVisible(false);
+          }}
+        >
           <Image
             className="rounded-full border-2 border-slate-500"
             src={"/user-icon.png"}
@@ -27,29 +32,27 @@ export default function UserButton({ ...props }: Props) {
             width={40}
             height={40}
           />
-        </button>
-        {visible && (
-          <div className="absolute right-0 top-12 flex flex-col border-2 border-slate-900 bg-slate-800 p-2 shadow-lg">
-            <div className="flex gap-2 border-b-2 border-slate-900 pb-2">
-              <Image
-                className="rounded-full border-2 border-slate-500"
-                src={"/user-icon.png"}
-                alt="User Image"
-                width={64}
-                height={64}
-              />
-              <div className="flex flex-col">
-                <p className="text-left text-xl">{profile.name}</p>
-                <p className="text-left text-xl">{profile.email}</p>
+          {visible && (
+            <div className="absolute right-0 flex flex-col border-2 border-slate-800 bg-slate-700 p-2 shadow-lg">
+              <div className="flex flex-col items-center border-b-2 border-slate-750 pb-2">
+                <Image
+                  className="rounded-full border-2 border-slate-500"
+                  src={"/user-icon.png"}
+                  alt="User Image"
+                  width={64}
+                  height={64}
+                />
+                <p className="text-lg">{profile.name}</p>
+                <p className="text-sm text-slate-400">{profile.email}</p>
               </div>
+              <form action="/auth/sign-out" method="post">
+                <button className="w-full text-center hover:bg-slate-750">
+                  Logout
+                </button>
+              </form>
             </div>
-            <form action="/auth/sign-out" method="post">
-              <button className="w-full text-center hover:bg-slate-750">
-                Logout
-              </button>
-            </form>
-          </div>
-        )}
+          )}
+        </button>
       </div>
     );
   } else null;

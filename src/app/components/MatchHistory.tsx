@@ -1,28 +1,23 @@
 "use client";
 
 import { useEffect, useState } from "react";
-
 import type { Match, MatchData } from "@/types/types";
 import { servers } from "@/utils/constants";
 import MatchTile from "./MatchTile/MatchTile";
 
-async function clientGetMatch(
-  matchId: string,
-  region: string
-): Promise<MatchData> {
-  const res = await fetch(`/api/match/${servers[region]}/${matchId}`);
+async function fetchMatches(matchIds: string[], region: string) {
+  const res = await fetch(
+    `/api/match/${servers[region]}/?matchIds=${matchIds.join(",")}`
+  );
 
-  if (!res.ok)
-    return {
-      error: {
-        message: res.statusText,
-        status_code: res.status,
-      },
-    };
+  if (!res.ok) {
+    return [];
+  }
 
-  const match: Match = await res.json();
-
-  return { match };
+  const { matches, error }: MatchData = await res.json();
+  if (error) console.error(error);
+  if (matches) return matches;
+  else null;
 }
 
 export default function MatchHistory({
@@ -35,49 +30,42 @@ export default function MatchHistory({
   region: string;
 }) {
   const [visibleMatches, setVisibleMatches] = useState(5);
-  const [matches, setMatches] = useState<MatchData[]>([]);
+  const [matches, setMatches] = useState<Match[]>([]);
   const [loadingMatches, setLoadingMatches] = useState(true);
 
   const loadMoreMatches = () => {
-    setVisibleMatches(visibleMatches + 5);
+    setVisibleMatches((prevVisibleMatches) => prevVisibleMatches + 5);
   };
 
   useEffect(() => {
-    const fetchMatches = async () => {
+    const fetchAndSetMatches = async () => {
       setLoadingMatches(true);
-      console.log(matchIds.slice(visibleMatches - 5, visibleMatches));
-      const additionalMatchesData = await Promise.all(
-        matchIds
-          .slice(visibleMatches - 5, visibleMatches)
-          .map((matchId) => clientGetMatch(matchId, region))
+      const additionalMatchesData = await fetchMatches(
+        matchIds.slice(visibleMatches - 5, visibleMatches),
+        region
       );
-      setMatches((prevMatches) => [...prevMatches, ...additionalMatchesData]);
-      setLoadingMatches(false);
+      if (additionalMatchesData) {
+        setMatches((prevMatches) => [...prevMatches, ...additionalMatchesData]);
+        setLoadingMatches(false);
+      }
     };
-    fetchMatches();
+
+    fetchAndSetMatches();
   }, [matchIds, region, visibleMatches]);
 
   return (
-    <div className="flex flex-col gap-1 grow">
-      {matches.map((matchData, i) => (
-        <MatchTile key={i} puuid={puuid} matchData={matchData} />
-      ))}
-      {loadingMatches &&
-        [1, 2, 3, 4, 5].map((e) => (
-          <div
-            key={e}
-            className="flex h-24 gap-4 shadow px-2 bg-slate-750 items-center"
-          >
-            <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
-            <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
-            <div className="basis-32 h-5/6 bg-slate-700 rounded"></div>
-            <div className="basis-20 h-5/6 bg-slate-700 rounded"></div>
-            <div className="basis-56 h-5/6 bg-slate-700 rounded"></div>
-          </div>
+    <div className="flex flex-col gap-1 grow max-h-[70vh] overflow-y-scroll">
+      {matches
+        .sort((a, b) => b.info.gameEndTimestamp - a.info.gameEndTimestamp)
+        .map((match, index) => (
+          <MatchTile key={index} puuid={puuid} match={match} />
         ))}
-
+      {loadingMatches &&
+        [...Array(5)].map((_, index) => (
+          <div key={index} className="loading-placeholder"></div>
+        ))}
       <button
-        className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition"
+        className="bg-blue-500 text-white w-full mt-2 py-2 rounded-md hover:bg-blue-600 transition"
         onClick={loadMoreMatches}
       >
         Load More

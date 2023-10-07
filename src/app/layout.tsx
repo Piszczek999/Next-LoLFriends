@@ -28,11 +28,11 @@ export default function RootLayout({
       <body className={inter.className}>
         <AuthProvider>
           <Navbar />
-          <div className="flex flex-col md:flex-row pt-[68px] min-h-screen">
+          <div className="flex flex-col md:flex-row pt-[54px] min-h-screen">
             <div className="mx-auto xl:basis-[1024px] w-full bg-slate-700">
               {children}
             </div>
-            <FriendList className="relative right-0 basis-[200px] h-auto bg-slate-750 shrink-0" />
+            <FriendList className="relative right-0 basis-[200px] h-auto from-slate-700 bg-gradient-to-b to-slate-800 shrink-0" />
           </div>
         </AuthProvider>
       </body>

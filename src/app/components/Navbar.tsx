@@ -9,7 +9,7 @@ export default function Navbar() {
   const { session, profile } = useAuth();
 
   return (
-    <nav className="fixed top-0 z-50 w-full bg-slate-900 p-1 shadow-lg px-3 py-3 h-[68px]">
+    <nav className="fixed top-0 z-50 w-full bg-slate-900 p-1 shadow-lg">
       <div className="flex items-center justify-between">
         <div className="flex items-center justify-start gap-2">
           <Link className="border-r-2 border-slate-700 p-2 text-xl" href={"/"}>

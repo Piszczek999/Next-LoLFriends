@@ -8,8 +8,8 @@ export type ParticipantDB = Database["public"]["Tables"]["participant"]["Row"];
 export type ProfileDB = Database["public"]["Tables"]["profile"]["Row"];
 
 export type MatchData = {
-  error?: FetchError;
-  match?: Match;
+  error?: any;
+  matches?: Match[];
 };
 
 export type SummonerData = {

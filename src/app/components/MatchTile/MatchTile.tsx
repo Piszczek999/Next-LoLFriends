@@ -18,23 +18,19 @@ function getPlayer(match: Match, puuid: string) {
 }
 
 export default function MatchTile({
-  matchData,
+  match,
   puuid,
 }: {
-  matchData: MatchData;
+  match: Match;
   puuid: string;
 }) {
-  if (matchData.error)
-    return <pre>{JSON.stringify(matchData.error, null, 2)}</pre>;
-
-  const match = matchData.match!;
   const participant = getPlayer(match, puuid);
 
   if (!participant) return null;
 
   return (
     <MatchContext.Provider value={{ match, participant }}>
-      <div className="relative flex gap-4 shadow px-2 bg-slate-700 items-center h-[80px] text-slate-400 overflow-hidden">
+      <div className="relative flex gap-4 shadow px-2 bg-slate-700 items-center min-h-[80px] text-slate-400 overflow-hidden">
         {participant.win ? (
           <p className="absolute left-0 text-8xl text-green-500 text-opacity-20 font-bold">
             VICTORY

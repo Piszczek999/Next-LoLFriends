@@ -29,13 +29,16 @@ export default function SummonerLoadout({ ...props }: Props) {
   return (
     <div {...props}>
       <div>
-        <Image
-          className={`rounded-full`}
-          src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${participant.championName}.png`}
-          alt={"image of" + participant.championName}
-          width={48}
-          height={48}
-        />
+        <Tippy content={participant.championName}>
+          <Image
+            className={`rounded-full`}
+            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${participant.championName}.png`}
+            alt={"image of" + participant.championName}
+            width={48}
+            height={48}
+          />
+        </Tippy>
+
         <div className="flex gap-1 items-center justify-center">
           <Image
             className="bg-slate-800 rounded-full"
