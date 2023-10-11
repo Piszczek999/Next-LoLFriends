@@ -1,5 +1,7 @@
 import Link from "next/link";
 import Messages from "./messages";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCodeBranch } from "@fortawesome/free-solid-svg-icons";
 
 export default function Login() {
   return (
@@ -26,6 +28,13 @@ export default function Login() {
           Back
         </Link>
 
+        <form action="/auth/sign-in-github" method="post">
+          <button className="flex rounded bg-black">
+            <FontAwesomeIcon icon={faCodeBranch} />
+            Sign in with Github
+          </button>
+        </form>
+
         <form
           className="flex-1 flex flex-col w-full justify-center gap-2 text-foreground"
           action="/auth/sign-in"
@@ -48,6 +57,7 @@ export default function Login() {
             type="password"
             name="password"
             placeholder="••••••••"
+            minLength={8}
             required
           />
           <button className="bg-green-700 rounded px-4 py-2 text-slate-300 mb-2">
@@ -60,9 +70,6 @@ export default function Login() {
             Sign Up
           </button>
           <Messages />
-        </form>
-        <form action="/auth/sign-in-github" method="post">
-          <button>Sign in with Github</button>
         </form>
       </div>
     </main>

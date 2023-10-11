@@ -27,9 +27,7 @@ export async function GET(
   let missingMatches: Match[];
   if (matches.length !== matchIds.length) {
     const foundMatchIds =
-      matches.length == 0
-        ? matchIds
-        : matches.map((match) => match.metadata.matchId);
+      matches.length == 0 ? [] : matches.map((match) => match.metadata.matchId);
     const missingIds = matchIds.filter((id) => !foundMatchIds.includes(id));
     const missingMatchesResponsePromises = missingIds.map((matchId) =>
       fetch(
