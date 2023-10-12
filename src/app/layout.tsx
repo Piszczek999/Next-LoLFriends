@@ -5,6 +5,7 @@ import "./css/champion-id-16.css";
 import "./css/item-id-24.css";
 import "./css/summoner-id-24.css";
 import "tippy.js/dist/tippy.css";
+import "@fortawesome/fontawesome-svg-core/styles.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Navbar from "./components/Navbar";
@@ -28,7 +29,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <AuthProvider>
           <Navbar />
-          <div className="flex flex-col md:flex-row pt-[54px] min-h-screen">
+          <div className="flex flex-col md:flex-row pt-[52px] min-h-screen">
             <div className="mx-auto xl:basis-[1024px] w-full bg-slate-700">
               {children}
             </div>

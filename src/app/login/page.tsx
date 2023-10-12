@@ -1,7 +1,8 @@
 import Link from "next/link";
 import Messages from "./messages";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCodeBranch } from "@fortawesome/free-solid-svg-icons";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faEllipsisVertical } from "@fortawesome/free-solid-svg-icons";
 
 export default function Login() {
   return (
@@ -29,8 +30,8 @@ export default function Login() {
         </Link>
 
         <form action="/auth/sign-in-github" method="post">
-          <button className="flex rounded bg-black">
-            <FontAwesomeIcon icon={faCodeBranch} />
+          <button className="flex gap-2 p-2 rounded bg-black w-full">
+            <FontAwesomeIcon icon={faGithub} size="xl" />
             Sign in with Github
           </button>
         </form>
