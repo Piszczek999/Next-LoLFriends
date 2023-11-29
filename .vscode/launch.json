@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost:3000/api/match/europe?matchIds=EUN1_3496225024%2CEUN1_3496207437%2CEUN1_3492753044%2CEUN1_3492728921%2CEUN1_3492693998",
+            "request": "launch",
+            "url": "http://localhost:3000/api/match/europe?matchIds=EUN1_3496225024%2CEUN1_3496207437%2CEUN1_3492753044%2CEUN1_3492728921%2CEUN1_3492693998"
+        }
+    ]
+}
