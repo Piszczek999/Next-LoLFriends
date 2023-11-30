@@ -47,7 +47,7 @@ export default function SummonerItems({ ...props }: Props) {
           >
             <Image
               className={`item-${item}-24`}
-              src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
+              src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/fond_sprite.png`}
               alt=""
               width={24}
               height={24}

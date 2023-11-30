@@ -7,15 +7,22 @@ export const revalidate = 60;
 
 type Route = {
   region: string;
-  name: string;
+  riotId: string;
 };
 
-export default async function page({
-  params: { name, region },
+export default async function Page({
+  params: { riotId, region },
 }: {
   params: Route;
 }) {
-  const { summoner, leagues, matches, error } = await getSummoner(region, name);
+  let [name, tag] = riotId.split("-");
+  if (!tag) tag = region;
+
+  const { account, summoner, leagues, matches, error } = await getSummoner(
+    region,
+    name,
+    tag
+  );
 
   if (error) {
     if (error.status_code == 403) return <p>Riot API key has expired</p>;
@@ -25,12 +32,12 @@ export default async function page({
   // const data = await getSummonerClasses24();
   // return <pre>{data}</pre>;
 
-  if (!summoner) return <main>Summoner not found</main>;
+  if (!summoner || !account) return <main>Summoner not found</main>;
 
   return (
     <main className="flex flex-col gap-2">
       <div className="bg-slate-800 p-4 shadow-lg">
-        <SummonerHeader summoner={summoner} />
+        <SummonerHeader summoner={summoner} account={account} />
       </div>
       <div className="flex flex-col lg:flex-row gap-2">
         <div className="basis-[256px] bg-slate-750 p-2 shadow-lg">

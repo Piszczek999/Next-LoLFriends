@@ -67,7 +67,9 @@ export default async function SummonerStatistics({
       {leagueData.map((queue, i) => (
         <div key={i} className="bg-slate-700 shadow p- flex">
           <Image
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/rank/TFT_Regalia_${
+            src={`${
+              process.env.NEXT_PUBLIC_SUPABASE_URL
+            }/storage/v1/object/public/LoLFriends/rank/TFT_Regalia_${
               queue.tier.toLowerCase().charAt(0).toUpperCase() +
               queue.tier.slice(1).toLowerCase()
             }.png`}

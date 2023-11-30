@@ -28,7 +28,7 @@ export default function MatchParticipants({ ...props }: Props) {
                 >
                   <Image
                     className={`rounded champion-${player.championId}-24`}
-                    src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
+                    src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/fond_sprite.png`}
                     alt=""
                     width={16}
                     height={16}
@@ -57,7 +57,7 @@ export default function MatchParticipants({ ...props }: Props) {
                 >
                   <Image
                     className={`rounded champion-${player.championId}-24`}
-                    src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png`}
+                    src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/fond_sprite.png`}
                     alt=""
                     width={16}
                     height={16}

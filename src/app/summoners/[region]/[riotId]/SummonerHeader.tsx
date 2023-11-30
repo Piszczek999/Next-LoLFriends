@@ -1,12 +1,18 @@
-import { SummonerDB } from "@/types/types";
+import { Account, SummonerDB } from "@/types/types";
 import Image from "next/image";
 
-export default function SummonerHeader({ summoner }: { summoner: SummonerDB }) {
+export default function SummonerHeader({
+  summoner,
+  account,
+}: {
+  summoner: SummonerDB;
+  account: Account;
+}) {
   return (
     <div className="flex gap-2">
       <div className="relative">
         <Image
-          src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/profileicon/${summoner.profileIconId}.png`}
+          src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/profileicon/${summoner.profileIconId}.png`}
           alt="profileicon"
           width={100}
           height={100}
@@ -19,7 +25,7 @@ export default function SummonerHeader({ summoner }: { summoner: SummonerDB }) {
       </div>
 
       <div className="flex flex-col gap-2">
-        <h1 className="text-2xl">{summoner.name}</h1>
+        <h1 className="text-2xl">{account.gameName}</h1>
         <p>#friends rank</p>
       </div>
     </div>

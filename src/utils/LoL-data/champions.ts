@@ -4,7 +4,7 @@ export const CHAMPIONS = [
     key: "266",
     name: "Aatrox",
     title: "the Darkin Blade",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Aatrox.png",
       sprite: "champion0.png",
@@ -20,7 +20,7 @@ export const CHAMPIONS = [
     key: "103",
     name: "Ahri",
     title: "the Nine-Tailed Fox",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Ahri.png",
       sprite: "champion0.png",
@@ -36,7 +36,7 @@ export const CHAMPIONS = [
     key: "84",
     name: "Akali",
     title: "the Rogue Assassin",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Akali.png",
       sprite: "champion0.png",
@@ -52,7 +52,7 @@ export const CHAMPIONS = [
     key: "166",
     name: "Akshan",
     title: "the Rogue Sentinel",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Akshan.png",
       sprite: "champion0.png",
@@ -68,7 +68,7 @@ export const CHAMPIONS = [
     key: "12",
     name: "Alistar",
     title: "the Minotaur",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Alistar.png",
       sprite: "champion0.png",
@@ -84,7 +84,7 @@ export const CHAMPIONS = [
     key: "32",
     name: "Amumu",
     title: "the Sad Mummy",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Amumu.png",
       sprite: "champion0.png",
@@ -100,7 +100,7 @@ export const CHAMPIONS = [
     key: "34",
     name: "Anivia",
     title: "the Cryophoenix",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Anivia.png",
       sprite: "champion0.png",
@@ -116,7 +116,7 @@ export const CHAMPIONS = [
     key: "1",
     name: "Annie",
     title: "the Dark Child",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Annie.png",
       sprite: "champion0.png",
@@ -132,7 +132,7 @@ export const CHAMPIONS = [
     key: "523",
     name: "Aphelios",
     title: "the Weapon of the Faithful",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Aphelios.png",
       sprite: "champion0.png",
@@ -148,7 +148,7 @@ export const CHAMPIONS = [
     key: "22",
     name: "Ashe",
     title: "the Frost Archer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Ashe.png",
       sprite: "champion0.png",
@@ -164,7 +164,7 @@ export const CHAMPIONS = [
     key: "136",
     name: "Aurelion Sol",
     title: "The Star Forger",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "AurelionSol.png",
       sprite: "champion0.png",
@@ -180,7 +180,7 @@ export const CHAMPIONS = [
     key: "268",
     name: "Azir",
     title: "the Emperor of the Sands",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Azir.png",
       sprite: "champion0.png",
@@ -196,7 +196,7 @@ export const CHAMPIONS = [
     key: "432",
     name: "Bard",
     title: "the Wandering Caretaker",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Bard.png",
       sprite: "champion0.png",
@@ -212,7 +212,7 @@ export const CHAMPIONS = [
     key: "200",
     name: "Bel'Veth",
     title: "the Empress of the Void",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Belveth.png",
       sprite: "champion0.png",
@@ -228,7 +228,7 @@ export const CHAMPIONS = [
     key: "53",
     name: "Blitzcrank",
     title: "the Great Steam Golem",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Blitzcrank.png",
       sprite: "champion0.png",
@@ -244,7 +244,7 @@ export const CHAMPIONS = [
     key: "63",
     name: "Brand",
     title: "the Burning Vengeance",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Brand.png",
       sprite: "champion0.png",
@@ -260,7 +260,7 @@ export const CHAMPIONS = [
     key: "201",
     name: "Braum",
     title: "the Heart of the Freljord",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Braum.png",
       sprite: "champion0.png",
@@ -276,7 +276,7 @@ export const CHAMPIONS = [
     key: "233",
     name: "Briar",
     title: "the Restrained Hunger",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Briar.png",
       sprite: "champion0.png",
@@ -292,7 +292,7 @@ export const CHAMPIONS = [
     key: "51",
     name: "Caitlyn",
     title: "the Sheriff of Piltover",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Caitlyn.png",
       sprite: "champion0.png",
@@ -308,7 +308,7 @@ export const CHAMPIONS = [
     key: "164",
     name: "Camille",
     title: "the Steel Shadow",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Camille.png",
       sprite: "champion0.png",
@@ -324,7 +324,7 @@ export const CHAMPIONS = [
     key: "69",
     name: "Cassiopeia",
     title: "the Serpent's Embrace",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Cassiopeia.png",
       sprite: "champion0.png",
@@ -340,7 +340,7 @@ export const CHAMPIONS = [
     key: "31",
     name: "Cho'Gath",
     title: "the Terror of the Void",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Chogath.png",
       sprite: "champion0.png",
@@ -356,7 +356,7 @@ export const CHAMPIONS = [
     key: "42",
     name: "Corki",
     title: "the Daring Bombardier",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Corki.png",
       sprite: "champion0.png",
@@ -372,7 +372,7 @@ export const CHAMPIONS = [
     key: "122",
     name: "Darius",
     title: "the Hand of Noxus",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Darius.png",
       sprite: "champion0.png",
@@ -388,7 +388,7 @@ export const CHAMPIONS = [
     key: "131",
     name: "Diana",
     title: "Scorn of the Moon",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Diana.png",
       sprite: "champion0.png",
@@ -404,7 +404,7 @@ export const CHAMPIONS = [
     key: "119",
     name: "Draven",
     title: "the Glorious Executioner",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Draven.png",
       sprite: "champion0.png",
@@ -420,7 +420,7 @@ export const CHAMPIONS = [
     key: "36",
     name: "Dr. Mundo",
     title: "the Madman of Zaun",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "DrMundo.png",
       sprite: "champion0.png",
@@ -436,7 +436,7 @@ export const CHAMPIONS = [
     key: "245",
     name: "Ekko",
     title: "the Boy Who Shattered Time",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Ekko.png",
       sprite: "champion0.png",
@@ -452,7 +452,7 @@ export const CHAMPIONS = [
     key: "60",
     name: "Elise",
     title: "the Spider Queen",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Elise.png",
       sprite: "champion0.png",
@@ -468,7 +468,7 @@ export const CHAMPIONS = [
     key: "28",
     name: "Evelynn",
     title: "Agony's Embrace",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion0.png",
     image: {
       full: "Evelynn.png",
       sprite: "champion0.png",
@@ -484,7 +484,7 @@ export const CHAMPIONS = [
     key: "81",
     name: "Ezreal",
     title: "the Prodigal Explorer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Ezreal.png",
       sprite: "champion1.png",
@@ -500,7 +500,7 @@ export const CHAMPIONS = [
     key: "9",
     name: "FiddleSticks",
     title: "the Ancient Fear",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "FiddleSticks.png",
       sprite: "champion1.png",
@@ -516,7 +516,7 @@ export const CHAMPIONS = [
     key: "114",
     name: "Fiora",
     title: "the Grand Duelist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Fiora.png",
       sprite: "champion1.png",
@@ -532,7 +532,7 @@ export const CHAMPIONS = [
     key: "105",
     name: "Fizz",
     title: "the Tidal Trickster",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Fizz.png",
       sprite: "champion1.png",
@@ -548,7 +548,7 @@ export const CHAMPIONS = [
     key: "3",
     name: "Galio",
     title: "the Colossus",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Galio.png",
       sprite: "champion1.png",
@@ -564,7 +564,7 @@ export const CHAMPIONS = [
     key: "41",
     name: "Gangplank",
     title: "the Saltwater Scourge",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Gangplank.png",
       sprite: "champion1.png",
@@ -580,7 +580,7 @@ export const CHAMPIONS = [
     key: "86",
     name: "Garen",
     title: "The Might of Demacia",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Garen.png",
       sprite: "champion1.png",
@@ -596,7 +596,7 @@ export const CHAMPIONS = [
     key: "150",
     name: "Gnar",
     title: "the Missing Link",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Gnar.png",
       sprite: "champion1.png",
@@ -612,7 +612,7 @@ export const CHAMPIONS = [
     key: "79",
     name: "Gragas",
     title: "the Rabble Rouser",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Gragas.png",
       sprite: "champion1.png",
@@ -628,7 +628,7 @@ export const CHAMPIONS = [
     key: "104",
     name: "Graves",
     title: "the Outlaw",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Graves.png",
       sprite: "champion1.png",
@@ -644,7 +644,7 @@ export const CHAMPIONS = [
     key: "887",
     name: "Gwen",
     title: "The Hallowed Seamstress",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Gwen.png",
       sprite: "champion1.png",
@@ -660,7 +660,7 @@ export const CHAMPIONS = [
     key: "120",
     name: "Hecarim",
     title: "the Shadow of War",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Hecarim.png",
       sprite: "champion1.png",
@@ -676,7 +676,7 @@ export const CHAMPIONS = [
     key: "74",
     name: "Heimerdinger",
     title: "the Revered Inventor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Heimerdinger.png",
       sprite: "champion1.png",
@@ -692,7 +692,7 @@ export const CHAMPIONS = [
     key: "420",
     name: "Illaoi",
     title: "the Kraken Priestess",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Illaoi.png",
       sprite: "champion1.png",
@@ -708,7 +708,7 @@ export const CHAMPIONS = [
     key: "39",
     name: "Irelia",
     title: "the Blade Dancer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Irelia.png",
       sprite: "champion1.png",
@@ -724,7 +724,7 @@ export const CHAMPIONS = [
     key: "427",
     name: "Ivern",
     title: "the Green Father",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Ivern.png",
       sprite: "champion1.png",
@@ -740,7 +740,7 @@ export const CHAMPIONS = [
     key: "40",
     name: "Janna",
     title: "the Storm's Fury",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Janna.png",
       sprite: "champion1.png",
@@ -756,7 +756,7 @@ export const CHAMPIONS = [
     key: "59",
     name: "Jarvan IV",
     title: "the Exemplar of Demacia",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "JarvanIV.png",
       sprite: "champion1.png",
@@ -772,7 +772,7 @@ export const CHAMPIONS = [
     key: "24",
     name: "Jax",
     title: "Grandmaster at Arms",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Jax.png",
       sprite: "champion1.png",
@@ -788,7 +788,7 @@ export const CHAMPIONS = [
     key: "126",
     name: "Jayce",
     title: "the Defender of Tomorrow",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Jayce.png",
       sprite: "champion1.png",
@@ -804,7 +804,7 @@ export const CHAMPIONS = [
     key: "202",
     name: "Jhin",
     title: "the Virtuoso",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Jhin.png",
       sprite: "champion1.png",
@@ -820,7 +820,7 @@ export const CHAMPIONS = [
     key: "222",
     name: "Jinx",
     title: "the Loose Cannon",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Jinx.png",
       sprite: "champion1.png",
@@ -836,7 +836,7 @@ export const CHAMPIONS = [
     key: "145",
     name: "Kai'Sa",
     title: "Daughter of the Void",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Kaisa.png",
       sprite: "champion1.png",
@@ -852,7 +852,7 @@ export const CHAMPIONS = [
     key: "429",
     name: "Kalista",
     title: "the Spear of Vengeance",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Kalista.png",
       sprite: "champion1.png",
@@ -868,7 +868,7 @@ export const CHAMPIONS = [
     key: "43",
     name: "Karma",
     title: "the Enlightened One",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Karma.png",
       sprite: "champion1.png",
@@ -884,7 +884,7 @@ export const CHAMPIONS = [
     key: "30",
     name: "Karthus",
     title: "the Deathsinger",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Karthus.png",
       sprite: "champion1.png",
@@ -900,7 +900,7 @@ export const CHAMPIONS = [
     key: "38",
     name: "Kassadin",
     title: "the Void Walker",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Kassadin.png",
       sprite: "champion1.png",
@@ -916,7 +916,7 @@ export const CHAMPIONS = [
     key: "55",
     name: "Katarina",
     title: "the Sinister Blade",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Katarina.png",
       sprite: "champion1.png",
@@ -932,7 +932,7 @@ export const CHAMPIONS = [
     key: "10",
     name: "Kayle",
     title: "the Righteous",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Kayle.png",
       sprite: "champion1.png",
@@ -948,7 +948,7 @@ export const CHAMPIONS = [
     key: "141",
     name: "Kayn",
     title: "the Shadow Reaper",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion1.png",
     image: {
       full: "Kayn.png",
       sprite: "champion1.png",
@@ -964,7 +964,7 @@ export const CHAMPIONS = [
     key: "85",
     name: "Kennen",
     title: "the Heart of the Tempest",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Kennen.png",
       sprite: "champion2.png",
@@ -980,7 +980,7 @@ export const CHAMPIONS = [
     key: "121",
     name: "Kha'Zix",
     title: "the Voidreaver",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Khazix.png",
       sprite: "champion2.png",
@@ -996,7 +996,7 @@ export const CHAMPIONS = [
     key: "203",
     name: "Kindred",
     title: "The Eternal Hunters",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Kindred.png",
       sprite: "champion2.png",
@@ -1012,7 +1012,7 @@ export const CHAMPIONS = [
     key: "240",
     name: "Kled",
     title: "the Cantankerous Cavalier",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Kled.png",
       sprite: "champion2.png",
@@ -1028,7 +1028,7 @@ export const CHAMPIONS = [
     key: "96",
     name: "Kog'Maw",
     title: "the Mouth of the Abyss",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "KogMaw.png",
       sprite: "champion2.png",
@@ -1044,7 +1044,7 @@ export const CHAMPIONS = [
     key: "897",
     name: "K'Sante",
     title: "the Pride of Nazumah",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "KSante.png",
       sprite: "champion2.png",
@@ -1060,7 +1060,7 @@ export const CHAMPIONS = [
     key: "7",
     name: "LeBlanc",
     title: "the Deceiver",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Leblanc.png",
       sprite: "champion2.png",
@@ -1076,7 +1076,7 @@ export const CHAMPIONS = [
     key: "64",
     name: "Lee Sin",
     title: "the Blind Monk",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "LeeSin.png",
       sprite: "champion2.png",
@@ -1092,7 +1092,7 @@ export const CHAMPIONS = [
     key: "89",
     name: "Leona",
     title: "the Radiant Dawn",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Leona.png",
       sprite: "champion2.png",
@@ -1108,7 +1108,7 @@ export const CHAMPIONS = [
     key: "876",
     name: "Lillia",
     title: "the Bashful Bloom",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Lillia.png",
       sprite: "champion2.png",
@@ -1124,7 +1124,7 @@ export const CHAMPIONS = [
     key: "127",
     name: "Lissandra",
     title: "the Ice Witch",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Lissandra.png",
       sprite: "champion2.png",
@@ -1140,7 +1140,7 @@ export const CHAMPIONS = [
     key: "236",
     name: "Lucian",
     title: "the Purifier",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Lucian.png",
       sprite: "champion2.png",
@@ -1156,7 +1156,7 @@ export const CHAMPIONS = [
     key: "117",
     name: "Lulu",
     title: "the Fae Sorceress",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Lulu.png",
       sprite: "champion2.png",
@@ -1172,7 +1172,7 @@ export const CHAMPIONS = [
     key: "99",
     name: "Lux",
     title: "the Lady of Luminosity",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Lux.png",
       sprite: "champion2.png",
@@ -1188,7 +1188,7 @@ export const CHAMPIONS = [
     key: "54",
     name: "Malphite",
     title: "Shard of the Monolith",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Malphite.png",
       sprite: "champion2.png",
@@ -1204,7 +1204,7 @@ export const CHAMPIONS = [
     key: "90",
     name: "Malzahar",
     title: "the Prophet of the Void",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Malzahar.png",
       sprite: "champion2.png",
@@ -1220,7 +1220,7 @@ export const CHAMPIONS = [
     key: "57",
     name: "Maokai",
     title: "the Twisted Treant",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Maokai.png",
       sprite: "champion2.png",
@@ -1236,7 +1236,7 @@ export const CHAMPIONS = [
     key: "11",
     name: "Master Yi",
     title: "the Wuju Bladesman",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "MasterYi.png",
       sprite: "champion2.png",
@@ -1252,7 +1252,7 @@ export const CHAMPIONS = [
     key: "902",
     name: "Milio",
     title: "The Gentle Flame",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Milio.png",
       sprite: "champion2.png",
@@ -1268,7 +1268,7 @@ export const CHAMPIONS = [
     key: "21",
     name: "Miss Fortune",
     title: "the Bounty Hunter",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "MissFortune.png",
       sprite: "champion2.png",
@@ -1284,7 +1284,7 @@ export const CHAMPIONS = [
     key: "62",
     name: "Wukong",
     title: "the Monkey King",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "MonkeyKing.png",
       sprite: "champion2.png",
@@ -1300,7 +1300,7 @@ export const CHAMPIONS = [
     key: "82",
     name: "Mordekaiser",
     title: "the Iron Revenant",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Mordekaiser.png",
       sprite: "champion2.png",
@@ -1316,7 +1316,7 @@ export const CHAMPIONS = [
     key: "25",
     name: "Morgana",
     title: "the Fallen",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Morgana.png",
       sprite: "champion2.png",
@@ -1332,7 +1332,7 @@ export const CHAMPIONS = [
     key: "950",
     name: "Naafiri",
     title: "the Hound of a Hundred Bites",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Naafiri.png",
       sprite: "champion2.png",
@@ -1348,7 +1348,7 @@ export const CHAMPIONS = [
     key: "267",
     name: "Nami",
     title: "the Tidecaller",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Nami.png",
       sprite: "champion2.png",
@@ -1364,7 +1364,7 @@ export const CHAMPIONS = [
     key: "75",
     name: "Nasus",
     title: "the Curator of the Sands",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Nasus.png",
       sprite: "champion2.png",
@@ -1380,7 +1380,7 @@ export const CHAMPIONS = [
     key: "111",
     name: "Nautilus",
     title: "the Titan of the Depths",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Nautilus.png",
       sprite: "champion2.png",
@@ -1396,7 +1396,7 @@ export const CHAMPIONS = [
     key: "518",
     name: "Neeko",
     title: "the Curious Chameleon",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Neeko.png",
       sprite: "champion2.png",
@@ -1412,7 +1412,7 @@ export const CHAMPIONS = [
     key: "76",
     name: "Nidalee",
     title: "the Bestial Huntress",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Nidalee.png",
       sprite: "champion2.png",
@@ -1428,7 +1428,7 @@ export const CHAMPIONS = [
     key: "895",
     name: "Nilah",
     title: "the Joy Unbound",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion2.png",
     image: {
       full: "Nilah.png",
       sprite: "champion2.png",
@@ -1444,7 +1444,7 @@ export const CHAMPIONS = [
     key: "56",
     name: "Nocturne",
     title: "the Eternal Nightmare",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Nocturne.png",
       sprite: "champion3.png",
@@ -1460,7 +1460,7 @@ export const CHAMPIONS = [
     key: "20",
     name: "Nunu & Willump",
     title: "the Boy and His Yeti",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Nunu.png",
       sprite: "champion3.png",
@@ -1476,7 +1476,7 @@ export const CHAMPIONS = [
     key: "2",
     name: "Olaf",
     title: "the Berserker",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Olaf.png",
       sprite: "champion3.png",
@@ -1492,7 +1492,7 @@ export const CHAMPIONS = [
     key: "61",
     name: "Orianna",
     title: "the Lady of Clockwork",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Orianna.png",
       sprite: "champion3.png",
@@ -1508,7 +1508,7 @@ export const CHAMPIONS = [
     key: "516",
     name: "Ornn",
     title: "The Fire below the Mountain",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Ornn.png",
       sprite: "champion3.png",
@@ -1524,7 +1524,7 @@ export const CHAMPIONS = [
     key: "80",
     name: "Pantheon",
     title: "the Unbreakable Spear",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Pantheon.png",
       sprite: "champion3.png",
@@ -1540,7 +1540,7 @@ export const CHAMPIONS = [
     key: "78",
     name: "Poppy",
     title: "Keeper of the Hammer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Poppy.png",
       sprite: "champion3.png",
@@ -1556,7 +1556,7 @@ export const CHAMPIONS = [
     key: "555",
     name: "Pyke",
     title: "the Bloodharbor Ripper",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Pyke.png",
       sprite: "champion3.png",
@@ -1572,7 +1572,7 @@ export const CHAMPIONS = [
     key: "246",
     name: "Qiyana",
     title: "Empress of the Elements",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Qiyana.png",
       sprite: "champion3.png",
@@ -1588,7 +1588,7 @@ export const CHAMPIONS = [
     key: "133",
     name: "Quinn",
     title: "Demacia's Wings",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Quinn.png",
       sprite: "champion3.png",
@@ -1604,7 +1604,7 @@ export const CHAMPIONS = [
     key: "497",
     name: "Rakan",
     title: "The Charmer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Rakan.png",
       sprite: "champion3.png",
@@ -1620,7 +1620,7 @@ export const CHAMPIONS = [
     key: "33",
     name: "Rammus",
     title: "the Armordillo",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Rammus.png",
       sprite: "champion3.png",
@@ -1636,7 +1636,7 @@ export const CHAMPIONS = [
     key: "421",
     name: "Rek'Sai",
     title: "the Void Burrower",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "RekSai.png",
       sprite: "champion3.png",
@@ -1652,7 +1652,7 @@ export const CHAMPIONS = [
     key: "526",
     name: "Rell",
     title: "the Iron Maiden",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Rell.png",
       sprite: "champion3.png",
@@ -1668,7 +1668,7 @@ export const CHAMPIONS = [
     key: "888",
     name: "Renata Glasc",
     title: "the Chem-Baroness",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Renata.png",
       sprite: "champion3.png",
@@ -1684,7 +1684,7 @@ export const CHAMPIONS = [
     key: "58",
     name: "Renekton",
     title: "the Butcher of the Sands",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Renekton.png",
       sprite: "champion3.png",
@@ -1700,7 +1700,7 @@ export const CHAMPIONS = [
     key: "107",
     name: "Rengar",
     title: "the Pridestalker",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Rengar.png",
       sprite: "champion3.png",
@@ -1716,7 +1716,7 @@ export const CHAMPIONS = [
     key: "92",
     name: "Riven",
     title: "the Exile",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Riven.png",
       sprite: "champion3.png",
@@ -1732,7 +1732,7 @@ export const CHAMPIONS = [
     key: "68",
     name: "Rumble",
     title: "the Mechanized Menace",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Rumble.png",
       sprite: "champion3.png",
@@ -1748,7 +1748,7 @@ export const CHAMPIONS = [
     key: "13",
     name: "Ryze",
     title: "the Rune Mage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Ryze.png",
       sprite: "champion3.png",
@@ -1764,7 +1764,7 @@ export const CHAMPIONS = [
     key: "360",
     name: "Samira",
     title: "the Desert Rose",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Samira.png",
       sprite: "champion3.png",
@@ -1780,7 +1780,7 @@ export const CHAMPIONS = [
     key: "113",
     name: "Sejuani",
     title: "Fury of the North",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Sejuani.png",
       sprite: "champion3.png",
@@ -1796,7 +1796,7 @@ export const CHAMPIONS = [
     key: "235",
     name: "Senna",
     title: "the Redeemer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Senna.png",
       sprite: "champion3.png",
@@ -1812,7 +1812,7 @@ export const CHAMPIONS = [
     key: "147",
     name: "Seraphine",
     title: "the Starry-Eyed Songstress",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Seraphine.png",
       sprite: "champion3.png",
@@ -1828,7 +1828,7 @@ export const CHAMPIONS = [
     key: "875",
     name: "Sett",
     title: "the Boss",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Sett.png",
       sprite: "champion3.png",
@@ -1844,7 +1844,7 @@ export const CHAMPIONS = [
     key: "35",
     name: "Shaco",
     title: "the Demon Jester",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Shaco.png",
       sprite: "champion3.png",
@@ -1860,7 +1860,7 @@ export const CHAMPIONS = [
     key: "98",
     name: "Shen",
     title: "the Eye of Twilight",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Shen.png",
       sprite: "champion3.png",
@@ -1876,7 +1876,7 @@ export const CHAMPIONS = [
     key: "102",
     name: "Shyvana",
     title: "the Half-Dragon",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Shyvana.png",
       sprite: "champion3.png",
@@ -1892,7 +1892,7 @@ export const CHAMPIONS = [
     key: "27",
     name: "Singed",
     title: "the Mad Chemist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Singed.png",
       sprite: "champion3.png",
@@ -1908,7 +1908,7 @@ export const CHAMPIONS = [
     key: "14",
     name: "Sion",
     title: "The Undead Juggernaut",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion3.png",
     image: {
       full: "Sion.png",
       sprite: "champion3.png",
@@ -1924,7 +1924,7 @@ export const CHAMPIONS = [
     key: "15",
     name: "Sivir",
     title: "the Battle Mistress",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Sivir.png",
       sprite: "champion4.png",
@@ -1940,7 +1940,7 @@ export const CHAMPIONS = [
     key: "72",
     name: "Skarner",
     title: "the Crystal Vanguard",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Skarner.png",
       sprite: "champion4.png",
@@ -1956,7 +1956,7 @@ export const CHAMPIONS = [
     key: "37",
     name: "Sona",
     title: "Maven of the Strings",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Sona.png",
       sprite: "champion4.png",
@@ -1972,7 +1972,7 @@ export const CHAMPIONS = [
     key: "16",
     name: "Soraka",
     title: "the Starchild",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Soraka.png",
       sprite: "champion4.png",
@@ -1988,7 +1988,7 @@ export const CHAMPIONS = [
     key: "50",
     name: "Swain",
     title: "the Noxian Grand General",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Swain.png",
       sprite: "champion4.png",
@@ -2004,7 +2004,7 @@ export const CHAMPIONS = [
     key: "517",
     name: "Sylas",
     title: "the Unshackled",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Sylas.png",
       sprite: "champion4.png",
@@ -2020,7 +2020,7 @@ export const CHAMPIONS = [
     key: "134",
     name: "Syndra",
     title: "the Dark Sovereign",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Syndra.png",
       sprite: "champion4.png",
@@ -2036,7 +2036,7 @@ export const CHAMPIONS = [
     key: "223",
     name: "Tahm Kench",
     title: "The River King",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "TahmKench.png",
       sprite: "champion4.png",
@@ -2052,7 +2052,7 @@ export const CHAMPIONS = [
     key: "163",
     name: "Taliyah",
     title: "the Stoneweaver",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Taliyah.png",
       sprite: "champion4.png",
@@ -2068,7 +2068,7 @@ export const CHAMPIONS = [
     key: "91",
     name: "Talon",
     title: "the Blade's Shadow",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Talon.png",
       sprite: "champion4.png",
@@ -2084,7 +2084,7 @@ export const CHAMPIONS = [
     key: "44",
     name: "Taric",
     title: "the Shield of Valoran",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Taric.png",
       sprite: "champion4.png",
@@ -2100,7 +2100,7 @@ export const CHAMPIONS = [
     key: "17",
     name: "Teemo",
     title: "the Swift Scout",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Teemo.png",
       sprite: "champion4.png",
@@ -2116,7 +2116,7 @@ export const CHAMPIONS = [
     key: "412",
     name: "Thresh",
     title: "the Chain Warden",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Thresh.png",
       sprite: "champion4.png",
@@ -2132,7 +2132,7 @@ export const CHAMPIONS = [
     key: "18",
     name: "Tristana",
     title: "the Yordle Gunner",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Tristana.png",
       sprite: "champion4.png",
@@ -2148,7 +2148,7 @@ export const CHAMPIONS = [
     key: "48",
     name: "Trundle",
     title: "the Troll King",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Trundle.png",
       sprite: "champion4.png",
@@ -2164,7 +2164,7 @@ export const CHAMPIONS = [
     key: "23",
     name: "Tryndamere",
     title: "the Barbarian King",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Tryndamere.png",
       sprite: "champion4.png",
@@ -2180,7 +2180,7 @@ export const CHAMPIONS = [
     key: "4",
     name: "Twisted Fate",
     title: "the Card Master",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "TwistedFate.png",
       sprite: "champion4.png",
@@ -2196,7 +2196,7 @@ export const CHAMPIONS = [
     key: "29",
     name: "Twitch",
     title: "the Plague Rat",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Twitch.png",
       sprite: "champion4.png",
@@ -2212,7 +2212,7 @@ export const CHAMPIONS = [
     key: "77",
     name: "Udyr",
     title: "the Spirit Walker",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Udyr.png",
       sprite: "champion4.png",
@@ -2228,7 +2228,7 @@ export const CHAMPIONS = [
     key: "6",
     name: "Urgot",
     title: "the Dreadnought",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Urgot.png",
       sprite: "champion4.png",
@@ -2244,7 +2244,7 @@ export const CHAMPIONS = [
     key: "110",
     name: "Varus",
     title: "the Arrow of Retribution",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Varus.png",
       sprite: "champion4.png",
@@ -2260,7 +2260,7 @@ export const CHAMPIONS = [
     key: "67",
     name: "Vayne",
     title: "the Night Hunter",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Vayne.png",
       sprite: "champion4.png",
@@ -2276,7 +2276,7 @@ export const CHAMPIONS = [
     key: "45",
     name: "Veigar",
     title: "the Tiny Master of Evil",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Veigar.png",
       sprite: "champion4.png",
@@ -2292,7 +2292,7 @@ export const CHAMPIONS = [
     key: "161",
     name: "Vel'Koz",
     title: "the Eye of the Void",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Velkoz.png",
       sprite: "champion4.png",
@@ -2308,7 +2308,7 @@ export const CHAMPIONS = [
     key: "711",
     name: "Vex",
     title: "the Gloomist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Vex.png",
       sprite: "champion4.png",
@@ -2324,7 +2324,7 @@ export const CHAMPIONS = [
     key: "254",
     name: "Vi",
     title: "the Piltover Enforcer",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Vi.png",
       sprite: "champion4.png",
@@ -2340,7 +2340,7 @@ export const CHAMPIONS = [
     key: "234",
     name: "Viego",
     title: "The Ruined King",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Viego.png",
       sprite: "champion4.png",
@@ -2356,7 +2356,7 @@ export const CHAMPIONS = [
     key: "112",
     name: "Viktor",
     title: "the Machine Herald",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Viktor.png",
       sprite: "champion4.png",
@@ -2372,7 +2372,7 @@ export const CHAMPIONS = [
     key: "8",
     name: "Vladimir",
     title: "the Crimson Reaper",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Vladimir.png",
       sprite: "champion4.png",
@@ -2388,7 +2388,7 @@ export const CHAMPIONS = [
     key: "106",
     name: "Volibear",
     title: "the Relentless Storm",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion4.png",
     image: {
       full: "Volibear.png",
       sprite: "champion4.png",
@@ -2404,7 +2404,7 @@ export const CHAMPIONS = [
     key: "19",
     name: "Warwick",
     title: "the Uncaged Wrath of Zaun",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Warwick.png",
       sprite: "champion5.png",
@@ -2420,7 +2420,7 @@ export const CHAMPIONS = [
     key: "498",
     name: "Xayah",
     title: "the Rebel",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Xayah.png",
       sprite: "champion5.png",
@@ -2436,7 +2436,7 @@ export const CHAMPIONS = [
     key: "101",
     name: "Xerath",
     title: "the Magus Ascendant",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Xerath.png",
       sprite: "champion5.png",
@@ -2452,7 +2452,7 @@ export const CHAMPIONS = [
     key: "5",
     name: "Xin Zhao",
     title: "the Seneschal of Demacia",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "XinZhao.png",
       sprite: "champion5.png",
@@ -2468,7 +2468,7 @@ export const CHAMPIONS = [
     key: "157",
     name: "Yasuo",
     title: "the Unforgiven",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Yasuo.png",
       sprite: "champion5.png",
@@ -2484,7 +2484,7 @@ export const CHAMPIONS = [
     key: "777",
     name: "Yone",
     title: "the Unforgotten",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Yone.png",
       sprite: "champion5.png",
@@ -2500,7 +2500,7 @@ export const CHAMPIONS = [
     key: "83",
     name: "Yorick",
     title: "Shepherd of Souls",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Yorick.png",
       sprite: "champion5.png",
@@ -2516,7 +2516,7 @@ export const CHAMPIONS = [
     key: "350",
     name: "Yuumi",
     title: "the Magical Cat",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Yuumi.png",
       sprite: "champion5.png",
@@ -2532,7 +2532,7 @@ export const CHAMPIONS = [
     key: "154",
     name: "Zac",
     title: "the Secret Weapon",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Zac.png",
       sprite: "champion5.png",
@@ -2548,7 +2548,7 @@ export const CHAMPIONS = [
     key: "238",
     name: "Zed",
     title: "the Master of Shadows",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Zed.png",
       sprite: "champion5.png",
@@ -2564,7 +2564,7 @@ export const CHAMPIONS = [
     key: "221",
     name: "Zeri",
     title: "The Spark of Zaun",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Zeri.png",
       sprite: "champion5.png",
@@ -2580,7 +2580,7 @@ export const CHAMPIONS = [
     key: "115",
     name: "Ziggs",
     title: "the Hexplosives Expert",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Ziggs.png",
       sprite: "champion5.png",
@@ -2596,7 +2596,7 @@ export const CHAMPIONS = [
     key: "26",
     name: "Zilean",
     title: "the Chronokeeper",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Zilean.png",
       sprite: "champion5.png",
@@ -2612,7 +2612,7 @@ export const CHAMPIONS = [
     key: "142",
     name: "Zoe",
     title: "the Aspect of Twilight",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Zoe.png",
       sprite: "champion5.png",
@@ -2628,7 +2628,7 @@ export const CHAMPIONS = [
     key: "143",
     name: "Zyra",
     title: "Rise of the Thorns",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/champion5.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/champion5.png",
     image: {
       full: "Zyra.png",
       sprite: "champion5.png",

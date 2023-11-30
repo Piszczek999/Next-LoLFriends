@@ -93,7 +93,7 @@ export default function Searchbar() {
                 >
                   <div className="flex gap-1">
                     <Image
-                      src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/profileicon/${summoner.profileIconId}.png`}
+                      src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/profileicon/${summoner.profileIconId}.png`}
                       alt="icon"
                       width={25}
                       height={25}

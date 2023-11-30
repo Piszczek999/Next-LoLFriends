@@ -12,8 +12,15 @@ export type MatchData = {
   matches?: Match[];
 };
 
+export type Account = {
+  puuid: string;
+  gameName: string;
+  tagLine: string;
+};
+
 export type SummonerData = {
   error?: FetchError;
+  account?: Account;
   summoner?: SummonerDB;
   leagues?: LeagueDB[];
   matches?: string[];

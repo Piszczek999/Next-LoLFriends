@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "update-types": "npx supabase gen types typescript --project-id dtneqrqtsogjewiotxnf > ./src/types/supabase.ts"
+    "update-types": "npx supabase gen types typescript --project-id luvnkhalcwlxffzuwzts > ./src/types/supabase.ts"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",

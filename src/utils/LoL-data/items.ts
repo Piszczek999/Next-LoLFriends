@@ -5,7 +5,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Move Speed</stats></mainText><br>",
     plaintext: "Slightly increases Move Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1001.png",
       sprite: "item0.png",
@@ -22,7 +22,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50%</attention> Base Mana Regen</stats></mainText><br>",
     plaintext: "Slightly increases Mana Regen",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1004.png",
       sprite: "item0.png",
@@ -39,7 +39,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100%</attention> Base Health Regen</stats></mainText><br>",
     plaintext: "Slightly increases Health Regen",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1006.png",
       sprite: "item0.png",
@@ -56,7 +56,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health</stats></mainText><br>",
     plaintext: "Greatly increases Health",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1011.png",
       sprite: "item0.png",
@@ -73,7 +73,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15%</attention> Critical Strike Chance</stats></mainText><br>",
     plaintext: "Increases critical strike chance",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1018.png",
       sprite: "item0.png",
@@ -90,7 +90,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Ability Power</stats></mainText><br>",
     plaintext: "Moderately increases Ability Power",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1026.png",
       sprite: "item0.png",
@@ -107,7 +107,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>250</attention> Mana</stats></mainText><br>",
     plaintext: "Increases Mana",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1027.png",
       sprite: "item0.png",
@@ -124,7 +124,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>150</attention> Health</stats></mainText><br>",
     plaintext: "Increases Health",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1028.png",
       sprite: "item0.png",
@@ -141,7 +141,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Armor</stats></mainText><br>",
     plaintext: "Slightly increases Armor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1029.png",
       sprite: "item0.png",
@@ -158,7 +158,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Armor</stats></mainText><br>",
     plaintext: "Greatly increases Armor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1031.png",
       sprite: "item0.png",
@@ -175,7 +175,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Magic Resist</stats></mainText><br>",
     plaintext: "Slightly increases Magic Resist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1033.png",
       sprite: "item0.png",
@@ -192,7 +192,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Sear:</passive> Damaging Monsters burns them over time.<li><passive>Challenging Path:</passive> Smiting 5 times consumes this item upgrade your Smite to <attention>Challenging Smite</attention> and increases its damage to monsters. Challenging Smite marks champions. During this time, you deal bonus true damage to them on hit and take reduced damage from them.<li><passive>Huntsman:</passive> Killing Large Monsters grants bonus experience.<li><passive>Recoup:</passive> Regen mana when in the Jungle or River. <br><br><rules><status>Consuming</status> this item grants all item effects permanently and increases Smite damage to monsters. If you have gained more gold from minions than jungle monsters, gold and experience from minions is heavily reduced. Healing is not reduced on AoE attacks. If two levels behind the average champion level of the game, monster kills grant bonus experience. </rules><br><br><rules>Only attacks and abilities apply Challenging Smite's burn</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1035.png",
       sprite: "item0.png",
@@ -209,7 +209,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>10</attention> Attack Damage</stats></mainText><br>",
     plaintext: "Slightly increases Attack Damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1036.png",
       sprite: "item0.png",
@@ -226,7 +226,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage</stats></mainText><br>",
     plaintext: "Moderately increases Attack Damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1037.png",
       sprite: "item0.png",
@@ -243,7 +243,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage</stats></mainText><br>",
     plaintext: "Greatly increases Attack Damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1038.png",
       sprite: "item0.png",
@@ -260,7 +260,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Sear:</passive> Damaging Monsters burns them over time.<li><passive>Chilling Path:</passive> Smiting 5 times consumes this item upgrade your Smite to <attention>Chilling Smite</attention> and increases its damage to monsters. When smiting champions Chilling Smite deals true damage and steals their Move Speed.<li><passive>Huntsman:</passive> Killing Large Monsters grants bonus experience.<li><passive>Recoup:</passive> Regen mana when in the Jungle or River. <br><br><rules><status>Consuming</status> this item grants all item effects permanently and increases Smite damage to monsters. If you have gained more gold from minions than jungle monsters, gold and experience from minions is heavily reduced. Healing is not reduced on AoE attacks. If two levels behind the average champion level of the game, monster kills grant bonus experience. </rules><br><br></mainText><br>",
     plaintext: "Provides damage against Monsters and Mana Regen in the Jungle",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1039.png",
       sprite: "item0.png",
@@ -277,7 +277,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Sear:</passive> Damaging Monsters burns them over time.<li><passive>Auto Path:</passive> Smiting 5 times consumes this item upgrade your Attack-Smite, increasing its damage to monsters.<li><passive>Huntsman:</passive> Killing Large Monsters grants bonus experience.<li><passive>Recoup:</passive> Regen mana when in the Jungle or River. <br><br><rules><status>Consuming</status> this item grants all item effects permanently and increases Smite damage to monsters. If you have gained more gold from minions than jungle monsters, gold and experience from minions is heavily reduced. Healing is not reduced on AoE attacks. If two levels behind the average champion level of the game, monster kills grant bonus experience. </rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1040.png",
       sprite: "item0.png",
@@ -294,7 +294,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>12%</attention> Attack Speed</stats></mainText><br>",
     plaintext: "Slightly increases Attack Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1042.png",
       sprite: "item0.png",
@@ -311,7 +311,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15%</attention> Attack Speed</stats><br><li><passive>Steeltipped:</passive> Attacks apply magic damage On-Hit.</mainText><br>",
     plaintext: "Greatly increases Attack Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1043.png",
       sprite: "item0.png",
@@ -328,7 +328,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Power</stats></mainText><br>",
     plaintext: "Slightly increases Ability Power",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1052.png",
       sprite: "item0.png",
@@ -345,7 +345,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Attack Damage<br><attention>7%</attention> Life Steal</stats></mainText><br>",
     plaintext: "Basic attacks restore Health",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1053.png",
       sprite: "item0.png",
@@ -362,7 +362,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Health</stats><br><li><passive>Focus:</passive> Attacks deal additional damage to minions.<li><passive>Recovery:</passive> Restores Health over time.<li><passive>Endure:</passive> Restores Health after taking damage from a champion, large jungle monster, or epic jungle monster. Restoration increases when you are low Health.<br><br><rules><passive>Endure</passive> 66% effective when owned by Ranged champions or when taking damage from area of effect or periodic damage sources.</rules></mainText><br>",
     plaintext: "Good defensive starting item",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1054.png",
       sprite: "item0.png",
@@ -379,7 +379,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>8</attention> Attack Damage<br><attention>80</attention> Health</stats><br><li><passive>Warmonger:</passive> Gain Omnivamp.<br><br><rules>Omnivamp is only 33% effective when dealing area of effect damage or damage through pets.</rules></mainText><br>",
     plaintext: "Good starting item for attackers",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1055.png",
       sprite: "item0.png",
@@ -396,7 +396,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Ability Power<br><attention>70</attention> Health</stats><br><li><passive>Focus:</passive> Attacks deal additional damage to minions. <li><passive>Drain:</passive> Restore Mana every second. Damaging an enemy champion increases this amount. If you can't gain Mana, regenerate Health instead. </mainText><br>",
     plaintext: "Good starting item for casters",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1056.png",
       sprite: "item0.png",
@@ -413,7 +413,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Magic Resist</stats></mainText><br>",
     plaintext: "Moderately increases Magic Resist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1057.png",
       sprite: "item0.png",
@@ -430,7 +430,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Ability Power</stats></mainText><br>",
     plaintext: "Greatly increases Ability Power",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1058.png",
       sprite: "item0.png",
@@ -448,7 +448,7 @@ export const ITEMS = [
       "<mainText><stats><attention>15</attention> Ability Power<br><attention>40</attention> Health</stats><br><li><passive>Glory:</passive> Gain 2 stacks for a champion kill or 1 stack for an assist (up to 10 stacks total). Lose 5 stacks on death.<li><passive>Dread:</passive> Grants <scaleAP>4 Ability Power</scaleAP> per stack of <passive>Glory</passive>.<br><br><rules>Obtained <passive>Glory</passive> stacks are preserved between this item and <rarityLegendary>Mejai's Soulstealer</rarityLegendary>.</rules></mainText><br>",
     plaintext:
       "Provides Ability Power and Mana.  Increases in power as you kill enemies.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1082.png",
       sprite: "item0.png",
@@ -466,7 +466,7 @@ export const ITEMS = [
       "<mainText><stats><attention>7</attention> Attack Damage</stats><br><li>Attacks restore Health per hit.<li><passive>Reap:</passive> Killing a lane minion grants <goldGain>1</goldGain> additional gold. Killing 100 lane minions grants an additional <goldGain>350</goldGain> bonus gold immediately and disables <passive>Reap</passive>.<br></mainText><br>",
     plaintext:
       "Provides damage and Life Steal on hit - Killing minions grant bonus Gold",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1083.png",
       sprite: "item0.png",
@@ -483,7 +483,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Jungle Companions:</passive> Summon an <font color='#DD2E2E'>Scorchclaw</font> to assist you in the jungle.<li><passive>Scorchclaw's Slash:</passive> When fully grown your companion periodically imbues your next damaging effect to <status>Slow</status> and <passive>damage</passive> enemy champions.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1101.png",
       sprite: "item0.png",
@@ -500,7 +500,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Jungle Companions:</passive> Summon a <font color='#38A8E8'>Gustwalker</font> to assist you while in the jungle.<li><passive>Gustwalker's Gait:</passive> When fully grown your companion grants <speed>Move Speed</speed> after entering brush or killing monsters.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1102.png",
       sprite: "item0.png",
@@ -517,7 +517,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Jungle Companions:</passive> Summon a <font color='#1CA935'>Mosstomper</font> to assist you while in the jungle. <li><passive>Mosstomper's Courage:</passive> When fully grown your companion grants a <shield>permanent shield</shield> that regenerates either after killing monsters or out of combat. While the shield holds gain 20% Tenacity and Slow Resist.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1103.png",
       sprite: "item0.png",
@@ -534,7 +534,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Crush the Eye of the Herald, summoning Rift Herald. The Herald will proceed down the nearest lane and deal massive damage to any turrets in the way.<br><br><passive>Glimpse of the Void:</passive> Grants Empowered Recall.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1104.png",
       sprite: "item0.png",
@@ -550,7 +550,7 @@ export const ITEMS = [
     name: "Penetrating Bullets",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1500.png",
       sprite: "item0.png",
@@ -566,7 +566,7 @@ export const ITEMS = [
     name: "Fortification",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1501.png",
       sprite: "item0.png",
@@ -583,7 +583,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><unique>UNIQUE Passive - Reinforced Armor:</unique> Reduces incoming damage by 0% and becomes immune to True Damage when no enemy minions are nearby.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1502.png",
       sprite: "item0.png",
@@ -599,7 +599,7 @@ export const ITEMS = [
     name: "Warden's Eye",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1503.png",
       sprite: "item0.png",
@@ -615,7 +615,7 @@ export const ITEMS = [
     name: "Vanguard",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1504.png",
       sprite: "item0.png",
@@ -632,7 +632,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><unique>UNIQUE Passive - Base Turret Reinforced Armor:</unique> Reduces incoming damage by 0% and becomes immune to True Damage when no enemy minions are nearby. Base turrets have health regeneration, but cannot regenerate past their current segment. Base turrets are segmented at 33%, 66% and 100% health.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1506.png",
       sprite: "item0.png",
@@ -648,7 +648,7 @@ export const ITEMS = [
     name: "Overcharged",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1507.png",
       sprite: "item0.png",
@@ -664,7 +664,7 @@ export const ITEMS = [
     name: "Anti-tower Socks",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1508.png",
       sprite: "item0.png",
@@ -680,7 +680,7 @@ export const ITEMS = [
     name: "Gusto",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1509.png",
       sprite: "item0.png",
@@ -696,7 +696,7 @@ export const ITEMS = [
     name: "Phreakish Gusto",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1510.png",
       sprite: "item0.png",
@@ -712,7 +712,7 @@ export const ITEMS = [
     name: "Super Mech Armor",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1511.png",
       sprite: "item0.png",
@@ -728,7 +728,7 @@ export const ITEMS = [
     name: "Super Mech Power Field",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1512.png",
       sprite: "item0.png",
@@ -744,7 +744,7 @@ export const ITEMS = [
     name: "Turret Plating",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1515.png",
       sprite: "item0.png",
@@ -760,7 +760,7 @@ export const ITEMS = [
     name: "Structure Bounty",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1516.png",
       sprite: "item0.png",
@@ -776,7 +776,7 @@ export const ITEMS = [
     name: "Structure Bounty",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1517.png",
       sprite: "item0.png",
@@ -792,7 +792,7 @@ export const ITEMS = [
     name: "Structure Bounty",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1518.png",
       sprite: "item0.png",
@@ -808,7 +808,7 @@ export const ITEMS = [
     name: "Structure Bounty",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1519.png",
       sprite: "item0.png",
@@ -824,7 +824,7 @@ export const ITEMS = [
     name: "OvererchargedHA",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1520.png",
       sprite: "item0.png",
@@ -840,7 +840,7 @@ export const ITEMS = [
     name: "Fortification",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1521.png",
       sprite: "item0.png",
@@ -856,7 +856,7 @@ export const ITEMS = [
     name: "Tower Power-Up",
     description: "",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "1522.png",
       sprite: "item0.png",
@@ -873,7 +873,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Drink the potion to restore <healing>120 Health</healing> over 15 seconds.<br><br><rules>You may carry up to 5 Health Potions.</rules></mainText><br>",
     plaintext: "Consume to restore Health over time",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2003.png",
       sprite: "item0.png",
@@ -890,7 +890,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Eat the biscuit to restore <healing>8% missing Health</healing> and <scaleMana>Mana</scaleMana> over 5 seconds. Consuming or selling a biscuit permanently grants <scaleMana>40 maximum Mana</scaleMana>. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2010.png",
       sprite: "item0.png",
@@ -907,7 +907,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Attack Damage</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Jolt:</passive> Energized Attacks gain an additional <magicDamage>60 magic damage</magicDamage>.</mainText><br>",
     plaintext: "Attack speed and a chargable magic hit",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2015.png",
       sprite: "item0.png",
@@ -924,7 +924,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage</stats><br><li><passive>Feast:</passive> Killing a unit restores health.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2019.png",
       sprite: "item0.png",
@@ -941,7 +941,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Consumes a charge to restore <healing>100 Health</healing> over 12 seconds. Holds up to 2 charges and refills upon visiting the shop.</mainText><br>",
     plaintext: "Restores Health over time. Refills at shop.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2031.png",
       sprite: "item0.png",
@@ -959,7 +959,7 @@ export const ITEMS = [
       "<mainText><stats></stats><active>Active - Consume:</active> Consumes a charge to restore <healing>100 Health</healing> and <scaleMana>75 Mana</scaleMana> over 12 seconds. During this time, damaging Abilities and Attacks burn enemy champions for <magicDamage>15 (20 if you cannot gain Mana) magic damage</magicDamage> over 3 seconds. Holds up to 3 charges and refills upon visiting the shop.<br><br><rules>Corrupting damage is reduced to 50% when triggered by area of effect or periodic damage.</rules></mainText><br>",
     plaintext:
       "Restores Health and Mana over time and boosts combat power - Refills at Shop",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2033.png",
       sprite: "item0.png",
@@ -976,7 +976,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20%</attention> Heal and Shield Power<br><attention>20</attention> Ability Power<br><attention>25</attention> Ability Haste</stats><br><li><passive>Recovery:</passive> Restores <scaleMana>10 Mana</scaleMana> every 5 seconds. If you can't gain mana, restores <healing>3 Health</healing> instead.<li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "Increases Health and provides Stealth Wards over time",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2049.png",
       sprite: "item0.png",
@@ -993,7 +993,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health<br><attention>30</attention> Ability Power<br><attention>15</attention> Ability Haste</stats><br><li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2050.png",
       sprite: "item0.png",
@@ -1010,7 +1010,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>150</attention> Health</stats><br><li><passive>Recovery:</passive> Restores Health over time.<li><passive>Undaunted:</passive> Blocks damage from attacks and spells from champions.<li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "Good starting item for tanks",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2051.png",
       sprite: "item0.png",
@@ -1027,7 +1027,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Serves a scrumptious scoop to a nearby Poro, causing it to grow in size.<br><br><flavorText>This savory blend of free-range, grass-fed Avarosan game hens and organic, non-ZMO Freljordian herbs contains the essential nutrients necessary to keep your Poro purring with pleasure.<br><br>All proceeds will be donated towards fighting Noxian animal cruelty. </flavorText></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2052.png",
       sprite: "item0.png",
@@ -1044,7 +1044,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Places a powerful Control Ward that grants vision of the surrounding area. This device will also reveal <keywordStealth>Invisible</keywordStealth> traps, reveal <keywordStealth>Camouflaged</keywordStealth> enemies, and reveal (and disable) enemy Stealth Wards. <br><br><rules>You may carry up to 2 Control Wards. Control Wards do not disable other Control Wards.</rules></mainText><br>",
     plaintext: "Used to disable wards and invisible traps in an area.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2055.png",
       sprite: "item0.png",
@@ -1061,7 +1061,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Ability Power<br><attention>200</attention> Health<br><attention>20</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><br><active>Active -</active> <active>Inspire:</active> Grants nearby allies Move Speed.<li><passive>Motivate:</passive> Empowering or Protecting another ally Champion grants both allies Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.<br></mainText><br>",
     plaintext: "Activate to speed up nearby allies.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2065.png",
       sprite: "item0.png",
@@ -1079,7 +1079,7 @@ export const ITEMS = [
       "<mainText><stats></stats><active>Active - Consume:</active> Drink to gain <scaleHealth>300 Health</scaleHealth>, 25% Tenacity, and increased champion size for 3 minutes. While active, moving leaves a path behind that boosts allied champions' <speed>Move Speed by 15%</speed>.<br><br><rules>Drinking a different Elixir will replace the existing one's effects.</rules></mainText><br>",
     plaintext:
       "Temporarily increases defenses. Leaves a trail for allies to follow.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2138.png",
       sprite: "item0.png",
@@ -1097,7 +1097,7 @@ export const ITEMS = [
       "<mainText><stats></stats><active>Active - Consume:</active> Drink to gain <scaleAP>50 Ability Power</scaleAP> and <scaleMana>15% Mana Regen</scaleMana> for 3 minutes. While active, damaging a champion or turret deals <trueDamage>25 bonus true damage</trueDamage> (5s cooldown).<br><br><rules>Champion level <attention>9</attention> or greater required to purchase. Elixir of Sorcery's true damage effect has no cooldown when attacking turrets. Drinking a different Elixir will replace the existing one's effects.</rules></mainText><br>",
     plaintext:
       "Temporarily grants Ability Power and Bonus Damage to champions and turrets.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2139.png",
       sprite: "item0.png",
@@ -1115,7 +1115,7 @@ export const ITEMS = [
       "<mainText><stats></stats><active>Active - Consume:</active> Drink to gain <scaleAD>30 Attack Damage</scaleAD> and <lifeSteal>12% Physical Vamp</lifeSteal> (against champions) for 3 minutes.<br><br><rules>Drinking a different Elixir will replace the existing one's effects.</rules></mainText><br>",
     plaintext:
       "Temporarily grants Attack Damage and heals you when dealing physical damage to champions.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2140.png",
       sprite: "item0.png",
@@ -1132,7 +1132,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> This juice does nothing.<br><br><flavorText>For a limited time only, get a free hat with every purchase!</flavorText><br><br><rules>Helps you get on a head.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2141.png",
       sprite: "item0.png",
@@ -1149,7 +1149,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Automatically activates on Combat Start. Drink to gain <scaleAP>30+ 10% bonus Ability Power</scaleAP> or <scaleAD>18+ 10% bonus Attack Damage</scaleAD> for the next round.<br><br><flavorText>Made with 100% real cherries. Warning: May cause imbiber to deal tons of damage.</flavorText><br><br><rules>Juices do not stack with themselves, but you can have multiple different ones active.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2142.png",
       sprite: "item0.png",
@@ -1166,7 +1166,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Automatically activates on Combat Start. Drink to gain <healing>300+ 10% Health</healing> for the next round.<br><br><flavorText>Our specially formulated veggie blend is proven to harden your skin to resist even the strongest attacks!</flavorText><br><br><rules>Juices do not stack with themselves, but you can have multiple different ones active.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2143.png",
       sprite: "item0.png",
@@ -1183,7 +1183,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Automatically activates on Combat Start. Drink to gain <speed>20+ 15% Ability Haste</speed> for the next round.<br><br><flavorText>For people who gotta go FAST. Made with lightning. REAL lightning!</flavorText><br><br><rules>Juices do not stack with themselves, but you can have multiple different ones active.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "2144.png",
       sprite: "item0.png",
@@ -1200,7 +1200,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Kill target lane minion (10s ).</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2403.png",
       sprite: "item2.png",
@@ -1217,7 +1217,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li>Transforms into a <rarityGeneric>Stopwatch</rarityGeneric> after 14 minutes. Takedowns reduce this timer by 2 minutes. That <rarityGeneric>Stopwatch</rarityGeneric> contributes 250 gold to the items it builds into.<br><br><rules>Stopwatch normally contributes 750 gold</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2419.png",
       sprite: "item2.png",
@@ -1234,7 +1234,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active -</active> <active>Stasis:</active> Use one time only to become <status>Invulnerable</status> and <status>Untargetable</status> for 2.5 seconds, but are prevented from taking any other actions during this time (transforms into a <rarityGeneric>Broken Stopwatch</rarityGeneric>).</mainText><br>",
     plaintext: "Activate to become invincible but unable to take actions",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2420.png",
       sprite: "item2.png",
@@ -1251,7 +1251,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><br><li><passive>Shattered Time:</passive> Stopwatch is broken, but can still be upgraded.<br><br><rules>After breaking one Stopwatch, the shopkeeper will only sell you <rarityGeneric>Broken Stopwatches.</rarityGeneric></rules></mainText><br>",
     plaintext: "Upgrades to stopwatch",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2421.png",
       sprite: "item2.png",
@@ -1268,7 +1268,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Move Speed</stats><br><li>Grants an additional <speed>10 Move Speed</speed>. Boots that build from Slightly Magical Footwear retain this bonus Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2422.png",
       sprite: "item2.png",
@@ -1285,7 +1285,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active -</active> <active>Stasis:</active> Use one time only to become <status>Invulnerable</status> and <status>Untargetable</status> for 2.5 seconds, but are prevented from taking any other actions during this time (transforms into a <rarityGeneric>Broken Stopwatch</rarityGeneric>).</mainText><br>",
     plaintext: "Activate to become invincible but unable to take actions",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2423.png",
       sprite: "item2.png",
@@ -1302,7 +1302,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><br><li><passive>Shattered Time:</passive> Stopwatch is broken, but can still be upgraded.<br><br><rules>After breaking one Stopwatch, the shopkeeper will only sell you <rarityGeneric>Broken Stopwatches.</rarityGeneric></rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "2424.png",
       sprite: "item2.png",
@@ -1319,7 +1319,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>200</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>20</attention> Ability Haste</stats><br><li><passive>Coruscation:</passive> After <status>Immobilizing</status> champions or being <status>Immobilized</status>, cause that target and all nearby enemy Champions to take increased damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention></mainText><br>",
     plaintext: "Nearby enemies take more magic damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3001.png",
       sprite: "item2.png",
@@ -1336,7 +1336,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>500</attention> Mana<br><attention>200</attention> Health<br><attention>10</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain Ability Power equal to bonus Mana.<li><passive>Mana Charge:</passive> Strike a target with an Ability to consume a charge and gain 3 bonus Mana, doubled if the target is a champion. Grants a maximum of 360 Mana at which point this item transforms into <rarityLegendary>Seraph's Embrace</rarityLegendary>.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
     plaintext: "Increases Ability Power based on maximum Mana",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3003.png",
       sprite: "item2.png",
@@ -1353,7 +1353,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Attack Damage<br><attention>500</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus <scaleAD>Attack Damage equal to your max Mana</scaleAD>. <li><passive>Mana Charge:</passive> Strike a target with an Ability or Attack to consume a charge and gain <scaleMana>3 bonus Mana</scaleMana>, doubled if the target is a champion. Grants a maximum of 360 Mana at which point this item transforms into <rarityLegendary>Muramana</rarityLegendary>.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
     plaintext: "Increases Attack Damage based on maximum Mana",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3004.png",
       sprite: "item2.png",
@@ -1370,7 +1370,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35%</attention> Attack Speed<br><attention>45</attention> Move Speed</stats></mainText><br>",
     plaintext: "Enhances Move Speed and Attack Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3006.png",
       sprite: "item2.png",
@@ -1387,7 +1387,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Move Speed</stats><br><li>The strength of movement slowing effects is reduced by 25%.</mainText><br>",
     plaintext: "Enhances Move Speed and reduces the effect of slows",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3009.png",
       sprite: "item2.png",
@@ -1404,7 +1404,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Ability Power<br><attention>10%</attention> Heal and Shield Power<br><attention>75%</attention> Base Mana Regen<br><attention>15</attention> Ability Haste</stats><br><li><passive>Puffcap Toxin:</passive> Dealing damage applies <status>40% Grievous Wounds</status> to champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3011.png",
       sprite: "item2.png",
@@ -1421,7 +1421,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>200</attention> Health<br><attention>50%</attention> Base Mana Regen</stats><br><li><passive>Harmony:</passive> Gain 25% Base Health Regeneration for every additional <scalemana>25% Base Mana Regeneration</scalemana>.<br><br><flavorText>'These blessed waters still carry their power to the worthy.'</flavorText></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3012.png",
       sprite: "item2.png",
@@ -1438,7 +1438,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>18</attention> Magic Penetration<br><attention>45</attention> Move Speed</stats></mainText><br>",
     plaintext: "Enhances Move Speed and magic damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3020.png",
       sprite: "item2.png",
@@ -1455,7 +1455,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>150</attention> Health<br><attention>25</attention> Armor<br><attention>5</attention> Ability Haste</stats><br><br><flavorText>'Fashionable and functional.'</flavorText></mainText><br>",
     plaintext: "Summon wraiths to slow and reveal enemy champions",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3023.png",
       sprite: "item2.png",
@@ -1472,7 +1472,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Armor<br><attention>250</attention> Mana<br><attention>10</attention> Ability Haste</stats></mainText><br>",
     plaintext: "Increases Armor and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3024.png",
       sprite: "item2.png",
@@ -1489,7 +1489,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>45</attention> Attack Damage<br><attention>40</attention> Armor</stats><br><li><passive>Saving Grace:</passive> Upon taking lethal damage, restores <healing>50% base Health</healing> and <scaleMana>30% max Mana</scaleMana> after 4 seconds of stasis (300s cooldown).</mainText><br>",
     plaintext: "Periodically revives champion upon death",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3026.png",
       sprite: "item2.png",
@@ -1506,7 +1506,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>45%</attention> Critical Strike Damage</stats><br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.</mainText><br>",
     plaintext: "Massively enhances critical strikes",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3031.png",
       sprite: "item2.png",
@@ -1523,7 +1523,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>30%</attention> Armor Penetration<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Sepsis:</passive> Dealing physical damage applies <status>40% Grievous Wounds</status> to enemy champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "Overcomes enemies with high Health recovery and Armor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3033.png",
       sprite: "item2.png",
@@ -1540,7 +1540,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Attack Damage<br><attention>18%</attention> Armor Penetration</stats></mainText><br>",
     plaintext: "Overcomes enemies with high Armor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3035.png",
       sprite: "item2.png",
@@ -1557,7 +1557,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>30%</attention> Armor Penetration</stats><br><li><passive>Giant Slayer:</passive> Deal bonus damage against champions with greater max Health than you.</mainText><br>",
     plaintext: "Overcomes enemies with high health and armor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3036.png",
       sprite: "item2.png",
@@ -1574,7 +1574,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>860</attention> Mana<br><attention>200</attention> Health<br><attention>10</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain Ability Power based on Mana.<li><passive>Lifeline:</passive> Upon taking damage that would reduce your Health below 30%, gain a Shield based on your current Mana.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3040.png",
       sprite: "item2.png",
@@ -1591,7 +1591,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Power<br><attention>100</attention> Health</stats><br><li><passive>Glory:</passive> Gain 4 stacks for a champion kill or 2 stacks for an assist (up to 25 stacks total). Lose 10 stacks on death.<li><passive>Dread:</passive> Grants <scaleAP>5 Ability Power</scaleAP> per stack of <passive>Glory</passive>. Gain <speed>10% Move Speed</speed> if you have at least 10 stacks.<br><br><rules>Obtained <passive>Glory</passive> stacks are preserved between this item and <rarityGeneric>Dark Seal</rarityGeneric>.</rules></mainText><br>",
     plaintext: "Grants Ability Power for kills and assists",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3041.png",
       sprite: "item2.png",
@@ -1608,7 +1608,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Attack Damage<br><attention>860</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus Attack Damage based on Mana. <li><passive>Shock:</passive> Attacks against champions deal additional physical damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3042.png",
       sprite: "item2.png",
@@ -1625,7 +1625,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Attack Damage<br><attention>200</attention> Health</stats><br><li><passive>Sturdy:</passive> After you deal physical damage to a champion, restore Health over time.<br><br><rules>Restoration reduced for Ranged users.</rules></mainText><br>",
     plaintext: "Attacks and kills give a small burst of speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3044.png",
       sprite: "item2.png",
@@ -1643,7 +1643,7 @@ export const ITEMS = [
       "<mainText><stats><attention>20</attention> Attack Damage<br><attention>35%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Spectral Waltz:</passive> Attacks grant <status>Ghosting</status> and stacking increased Move Speed. In addition, Attacking 4 times causes Spectral Waltz to also grant Attack Speed.<br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
     plaintext:
       "Move faster while attacking enemies and gain a shield when on low health.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3046.png",
       sprite: "item2.png",
@@ -1660,7 +1660,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Armor<br><attention>45</attention> Move Speed</stats><br><li>Reduces incoming damage from Attacks by 12%.</mainText><br>",
     plaintext: "Enhances Move Speed and reduces incoming basic attack damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3047.png",
       sprite: "item2.png",
@@ -1677,7 +1677,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>200</attention> Health<br><attention>250</attention> Mana<br><attention>45</attention> Armor<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Conduit:</active> Designate an <attention>Accomplice</attention>.<br><li><passive>Convergence:</passive> After you <status>Immobilize</status> an enemy, your <attention>Accomplice's</attention> Attacks and Ability hits apply additional damage to that enemy.<br><br><rules>Champions can only be linked by one Zeke's Convergence at a time.</rules></mainText><br>",
     plaintext: "Grants you and your ally bonuses when you cast your ultimate.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3050.png",
       sprite: "item2.png",
@@ -1694,7 +1694,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Attack Damage<br><attention>15%</attention> Attack Speed</stats><br><li><passive>Nimble:</passive> Attacking a unit grants Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3051.png",
       sprite: "item2.png",
@@ -1711,7 +1711,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>450</attention> Health</stats><br><li><passive>The Claws that Catch:</passive> Gain base AD as bonus Attack Damage.<li><passive>Lifeline:</passive> Upon taking damage that would reduce your Health below 30%, gain a Shield, decaying over time, and Tenacity.</mainText><br>",
     plaintext: "Shields against large bursts of damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3053.png",
       sprite: "item2.png",
@@ -1728,7 +1728,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage.</mainText><br>",
     plaintext: "Grants a bonus to next attack after spell cast",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3057.png",
       sprite: "item2.png",
@@ -1745,7 +1745,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>450</attention> Health<br><attention>60</attention> Magic Resist<br><attention>10</attention> Ability Haste<br><attention>100%</attention> Base Health Regen</stats><br><li><passive>Boundless Vitality:</passive> Increases all Healing and Shielding effectiveness on you.</mainText><br>",
     plaintext: "Increases Health and healing effects",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3065.png",
       sprite: "item2.png",
@@ -1762,7 +1762,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>150</attention> Health</stats><br><li><passive>Flight:</passive> Grants <speed>5% Move Speed</speed>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3066.png",
       sprite: "item2.png",
@@ -1779,7 +1779,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>200</attention> Health<br><attention>10</attention> Ability Haste</stats></mainText><br>",
     plaintext: "Increases Health and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3067.png",
       sprite: "item2.png",
@@ -1797,7 +1797,7 @@ export const ITEMS = [
       "<mainText><stats><attention>500</attention> Health<br><attention>50</attention> Armor</stats><br><li><passive>Immolate:</passive> Taking or dealing damage causes you to begin dealing <magicDamage> (15 + 1.75% bonus Health) magic damage</magicDamage> per second to nearby enemies (increased by 25% against minions) for 3 seconds. Damaging Champions or Epic Monsters with this effect adds a stack, increasing subsequent <passive>Immolate</passive> damage by 10% for 5 seconds (max stacks 6).<br></mainText><br>",
     plaintext:
       "High armor. Constantly deals damage to nearby enemies. Immobilize enemies to release a wave of damaging flame",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3068.png",
       sprite: "item2.png",
@@ -1814,7 +1814,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>240</attention> Mana</stats><br><li><passive>Focus:</passive> Attacks deal additional physical damage to Minions.<li><passive>Mana Charge:</passive> Strike a target with an Ability to consume a charge and gain <scaleMana>3 bonus Mana</scaleMana>, doubled if the target is a champion. Grants a maximum of 360 Mana.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
     plaintext: "Increases maximum Mana as Mana is spent",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3070.png",
       sprite: "item2.png",
@@ -1831,7 +1831,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>400</attention> Health<br><attention>30</attention> Ability Haste</stats><br><li><passive>Carve:</passive> Dealing physical damage to a champion applies a stack of Armor reduction.<li><passive>Rage:</passive> Dealing physical damage to a champion grants Move Speed per stack of <unique>Carve</unique> on them.</mainText><br>",
     plaintext: "Dealing physical damage to enemy champions reduces their Armor",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3071.png",
       sprite: "item2.png",
@@ -1848,7 +1848,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>18%</attention> Life Steal</stats><br><li><passive>Engorge:</passive> While above 70% Health, gain additional Attack Damage.</mainText><br>",
     plaintext: "Grants Attack Damage, Life Steal and Life Steal now overheals",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3072.png",
       sprite: "item2.png",
@@ -1866,7 +1866,7 @@ export const ITEMS = [
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>25</attention> Ability Haste<br><attention>10%</attention> Life Steal</stats><br><li><passive>Cleave:</passive> Attacks and Abilities deal physical damage to other nearby enemies.<br><li><passive>Carnivorous:</passive> Gain AD whenever you kill a minion and 2 times that amount when you kill a Champion, Large Monster, or Siege Minion. Lose 60% of your stacks on death.<br><br></mainText><br>",
     plaintext:
       "Melee attacks hit nearby enemies, dealing damage and restoring Health",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3074.png",
       sprite: "item2.png",
@@ -1883,7 +1883,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health<br><attention>70</attention> Armor</stats><br><li><passive>Thorns:</passive> When struck by an Attack, deal damage to the attacker and apply 40% <status>Grievous Wounds</status> if they are a champion.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3075.png",
       sprite: "item2.png",
@@ -1900,7 +1900,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Armor</stats><br><li><passive>Thorns:</passive> When struck by an Attack, deal damage to the attacker and apply 40% Grievous Wounds if they are a champion.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3076.png",
       sprite: "item2.png",
@@ -1917,7 +1917,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage</stats><br><li><passive>Cleave:</passive> Attacks deal physical damage to other nearby enemies. <br><br>Cleave does not trigger on structures.<br><br>Item performance differs for melee and ranged users.<br></mainText><br>",
     plaintext: "Melee attacks hit nearby enemies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3077.png",
       sprite: "item2.png",
@@ -1934,7 +1934,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>33%</attention> Attack Speed<br><attention>300</attention> Health<br><attention>20</attention> Ability Haste</stats><br><li><passive>Threefold Strike:</passive> Attacks grant Move Speed. If the target is a champion, increase your base Attack Damage, stacking.<li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Attack Damage, Ability Haste, and Move Speed.</mainText><br>",
     plaintext: "Tons of Damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3078.png",
       sprite: "item2.png",
@@ -1951,7 +1951,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Armor</stats><br><li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3082.png",
       sprite: "item2.png",
@@ -1968,7 +1968,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>800</attention> Health<br><attention>10</attention> Ability Haste<br><attention>200%</attention> Base Health Regen</stats><br><li><passive>Warmog's Heart:</passive> If you have at least 1100 bonus Health, restore max Health per second if damage hasn't been taken within 6 seconds.</mainText><br>",
     plaintext: "Grants massive Health and Health Regen",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3083.png",
       sprite: "item2.png",
@@ -1985,7 +1985,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>800</attention> Health<br><attention>200%</attention> Base Health Regen<br><attention>20</attention> Ability Haste</stats><br><li><passive>Colossal Consumption:</passive> Charge up a powerful attack against a champion over 3s while within 700 range of them. The charged attack deals 125 + <scalehealth>6%</scalehealth> of your max Health as bonus physical damage, and grants you 10% of that amount as permanent max Health. (30s) cooldown per target.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>1%</attention> Increased Health & <attention>6%</attention> Champion Size.</mainText><br>",
     plaintext: "Restores Health on kill or assist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3084.png",
       sprite: "item2.png",
@@ -2002,7 +2002,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Peck:</passive> Attacks apply <magicDamage>magic damage</magicDamage> <OnHit>On-Hit</OnHit>.<li><passive>Wind's Fury:</passive> When Attacking, bolts are fired at up to 2 enemies near the target. Bolts apply On-Hit effects and can Critically Strike.<br><br><rules>Item is for Ranged champions only.</rules></mainText><br>",
     plaintext: "Ranged attacks fire two bolts at nearby enemies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3085.png",
       sprite: "item2.png",
@@ -2020,7 +2020,7 @@ export const ITEMS = [
       "<mainText><stats><attention>15%</attention> Attack Speed<br><attention>15%</attention> Critical Strike Chance<br><attention>5%</attention> Move Speed</stats></mainText><br>",
     plaintext:
       "Slight bonuses to Critical Strike Chance, Move Speed and Attack Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3086.png",
       sprite: "item2.png",
@@ -2038,7 +2038,7 @@ export const ITEMS = [
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>30%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Electroshock:</passive> Fires chain lightning that bounces to nearby enemies, dealing increased damage to minions.</mainText><br>",
     plaintext:
       "Movement builds charges that release chain lightning on basic attack",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3087.png",
       sprite: "item2.png",
@@ -2055,7 +2055,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>120</attention> Ability Power</stats><br><li><passive>Magical Opus:</passive> Increases your total <scaleAP>Ability Power by 40%</scaleAP>.</mainText><br>",
     plaintext: "Massively increases Ability Power",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3089.png",
       sprite: "item2.png",
@@ -2072,7 +2072,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>40%</attention> Attack Speed<br><attention>40</attention> Magic Resist</stats><br><li><passive>Fray:</passive> Attacks apply magic damage On-Hit and grant Move Speed.</mainText><br>",
     plaintext: "Resist magic damage and claw your way back to life.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3091.png",
       sprite: "item2.png",
@@ -2090,7 +2090,7 @@ export const ITEMS = [
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>15%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Sharpshooter:</passive> Your Energized Attack applies bonus damage. In addition, Energized attacks gain Attack Range.<br><br><rules>Attack Range cannot increase more than 150 units.</rules></mainText><br>",
     plaintext:
       "Movement builds charges that release a sieging fire attack on release",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3094.png",
       sprite: "item2.png",
@@ -2107,7 +2107,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>15%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Bolt:</passive> Your Energized Attack applies bonus magic damage and grants Move Speed.</mainText><br>",
     plaintext: "Tremendously empower other Energized effects.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3095.png",
       sprite: "item2.png",
@@ -2124,7 +2124,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>85</attention> Ability Power<br><attention>15</attention> Ability Haste<br><attention>8%</attention> Move Speed</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional magic damage.</mainText><br>",
     plaintext: "Grants a bonus to next attack after spell cast",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3100.png",
       sprite: "item2.png",
@@ -2141,7 +2141,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Ability Power<br><attention>45</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Annul:</passive> Grants a Spell Shield that blocks the next enemy Ability.<br><br><rules>Item cooldown is restarted if you take damage from champions before it is completed.</rules></mainText><br>",
     plaintext: "Periodically blocks enemy abilities",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3102.png",
       sprite: "item2.png",
@@ -2158,7 +2158,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats></mainText><br>",
     plaintext: "Grants Armor and Magic Resistance",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3105.png",
       sprite: "item2.png",
@@ -2175,7 +2175,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>250</attention> Health<br><attention>100%</attention> Base Mana Regen<br><attention>15%</attention> Heal and Shield Power</stats><br><br><active>Active -</active> <active>Intervention:</active> Target an area within. After 2.5 seconds, call down a beam of light to restore Health to allies and damage enemy champions.<br><li><passive>Harmony:</passive> Gain 25% Base Health Regeneration for every additional <scalemana>25% Base Mana Regeneration</scalemana>.<br><br><rules>Item can be activated whilst dead. Damage and healing reduced by 50% if the target has recently been affected by another <active>Intervention</active>. Strength of level-scaling effects are based on the ally's level.</rules></mainText><br>",
     plaintext: "Activate to heal allies and damage enemies in an area",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3107.png",
       sprite: "item2.png",
@@ -2192,7 +2192,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Ability Power<br><attention>10</attention> Ability Haste</stats></mainText><br>",
     plaintext: "Increases Ability Power and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3108.png",
       sprite: "item2.png",
@@ -2209,7 +2209,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health<br><attention>25</attention> Armor<br><attention>15</attention> Ability Haste<br><attention>125%</attention> Base Health Regen</stats><br><br><active>Active -</active> <active>Pledge:</active> Designate an ally who is <attention>Worthy</attention>..<br><li><passive>Sacrifice:</passive> While your <attention>Worthy</attention> ally is nearby, redirect damage they take to you and heal based on the damage dealt by your <attention>Worthy</attention> ally to Champions.<br></mainText><br>",
     plaintext: "Partner with an ally to protect each other",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3109.png",
       sprite: "item2.png",
@@ -2226,7 +2226,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>90</attention> Armor<br><attention>400</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Winter's Caress:</passive> Reduces the <attackSpeed>Attack Speed</attackSpeed> of nearby enemies.<li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks.</mainText><br>",
     plaintext: "Massively increases Armor and slows enemy basic attacks",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3110.png",
       sprite: "item2.png",
@@ -2243,7 +2243,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Magic Resist<br><attention>45</attention> Move Speed<br><attention>30%</attention> Tenacity</stats><br><br><rules>Tenacity reduces the duration of <status>Stun</status>, <status>Slow</status>, <status>Taunt</status>, <status>Fear</status>, <status>Silence</status>, <status>Blind</status>, <status>Polymorph</status> and <status>Immobilizing</status> effects. It has no effect on <status>Airborne</status> or <status>Suppression</status>.</rules></mainText><br>",
     plaintext: "Increases Move Speed and reduces duration of disabling effects",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3111.png",
       sprite: "item2.png",
@@ -2260,7 +2260,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Ability Power<br><attention>150</attention> Health</stats><br><li><passive>Recovery:</passive> Restores Mana over time. If you can't gain mana, restores Health instead.<li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "Good starting item for mages",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3112.png",
       sprite: "item2.png",
@@ -2277,7 +2277,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Ability Power</stats><br><li><passive>Glide:</passive> Gain <speed>5% Move Speed</speed>.</mainText><br>",
     plaintext: "Increases Ability Power and Move Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3113.png",
       sprite: "item2.png",
@@ -2295,7 +2295,7 @@ export const ITEMS = [
       "<mainText><stats><attention>50%</attention> Base Mana Regen<br><attention>8%</attention> Heal and Shield Power</stats></mainText><br>",
     plaintext:
       "Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3114.png",
       sprite: "item2.png",
@@ -2312,7 +2312,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><attention>50%</attention> Attack Speed<br><attention>15</attention> Ability Haste</stats><br><li><passive>Icathian Bite:</passive> Attacks apply magic damage <OnHit>On-Hit</OnHit>.</mainText><br>",
     plaintext: "Increases Attack Speed, Ability Power, and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3115.png",
       sprite: "item2.png",
@@ -2329,7 +2329,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>75</attention> Ability Power<br><attention>400</attention> Health</stats><br><li><passive>Rimefrost:</passive> Damaging Abilities <status>Slow</status> enemies.</mainText><br>",
     plaintext: "Abilities slow enemies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3116.png",
       sprite: "item2.png",
@@ -2346,7 +2346,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><attention>25</attention> Move Speed <li>When out of combat for at least 5 seconds, increase this item's effect to <attention>115</attention>.</mainText><br>",
     plaintext: "Greatly enhances Move Speed when out of combat",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3117.png",
       sprite: "item2.png",
@@ -2363,7 +2363,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>500</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus <scaleHealth>Health equal to Total Mana</scaleHealth>.<li><passive>Mana Charge:</passive> Strike a target with an Ability or Attack to consume a charge and gain <scaleMana>3 bonus Mana</scaleMana>, doubled if the target is a champion. Grants a maximum of 360 Mana at which point this item transforms into <rarityLegendary>Fimbulwinter</rarityLegendary>.<br><br><rules>Gain a new <passive>Mana Charge</passive> every 8 seconds (max 4).</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3119.png",
       sprite: "item2.png",
@@ -2380,7 +2380,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>860</attention> Mana<br><attention>15</attention> Ability Haste</stats><li><passive>Awe:</passive> Gain bonus Health based on Mana.<li><passive>Everlasting:</passive> <status>Immobilizing</status> or <status>Slowing</status> an enemy champion grants a Shield. The Shield is increased if more than one enemy is nearby.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3121.png",
       sprite: "item2.png",
@@ -2397,7 +2397,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Attack Damage</stats><br><li><passive>Rend:</passive> Dealing physical damage applies <status>40% Grievous Wounds</status> to champions for 3 seconds. <br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "Overcomes enemies with high health gain",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3123.png",
       sprite: "item2.png",
@@ -2414,7 +2414,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>30</attention> Ability Power<br><attention>25%</attention> Attack Speed</stats><br><li><passive>Wrath:</passive> Attacks apply bonus damage <OnHit>On-Hit</OnHit>. Your Critical Strike Chance is converted into more.<li><passive>Seething Strike:</passive> Basic attacks grant bonus <attackSpeed>Attack Speed</attackSpeed>, stacking up to a cap. While fully stacked, every third Attack applies your <OnHit>On-Hit</OnHit> effects twice.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5%</attention> Armor Penetration and <attention>6%</attention> Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3124.png",
       sprite: "item2.png",
@@ -2432,7 +2432,7 @@ export const ITEMS = [
       "<mainText><stats><attention>90</attention> Ability Power<br><attention>15</attention> Magic Penetration</stats><br><br><active>Active -</active> <active>The Silence:</active> Deal magic damage equal to <magicDamage>15% of the Target's Max Health</magicDamage>, and then amplify damage they take by 15% for 5 seconds (30s ).</mainText><br>",
     plaintext:
       "Activate to increase all magic damage dealt to an enemy champion",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3128.png",
       sprite: "item2.png",
@@ -2449,7 +2449,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage<br><attention>10</attention> Ability Haste</stats></mainText><br>",
     plaintext: "Attack Damage and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3133.png",
       sprite: "item2.png",
@@ -2466,7 +2466,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage</stats><br><li><passive>Gouge:</passive> Gain <scaleLethality>10 Lethality</scaleLethality>.</mainText><br>",
     plaintext: "Increases Attack Damage and Lethality",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3134.png",
       sprite: "item2.png",
@@ -2483,7 +2483,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Ability Power<br><attention>40%</attention> Magic Penetration</stats></mainText><br>",
     plaintext: "Increases magic damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3135.png",
       sprite: "item2.png",
@@ -2501,7 +2501,7 @@ export const ITEMS = [
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>50</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Remove all crowd control debuffs and gain Move Speed.</mainText><br>",
     plaintext:
       "Activate to remove all crowd control debuffs and grant massive Move Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3139.png",
       sprite: "item2.png",
@@ -2518,7 +2518,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Removes all crowd control debuffs (excluding <status>Airborne</status>).<br></mainText><br>",
     plaintext: "Activate to remove all crowd control debuffs",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3140.png",
       sprite: "item2.png",
@@ -2535,7 +2535,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Wraith Step:</active> Gain Move Speed and Ghosting.<br><li><passive>Haunt:</passive> Gain up to 100 Spectral Shards while moving. Gain <speed> Move Speed</speed> out of champion combat based on the number of Spectral Shards. While at max Shards, gain <scaleAD> Lethality</scaleAD>. Shards will reset 3 seconds after dealing damage to an enemy champion.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention></attention> Attack Damage. <br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
     plaintext: "Activate to greatly increase Move Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3142.png",
       sprite: "item2.png",
@@ -2552,7 +2552,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>60</attention> Armor</stats><br><br><active>Active -</active> <active>Humility:</active> <status>Slow</status> nearby enemies.<br><li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks.<li><passive>Critical Resilience:</passive> Critical Strikes deal 25% less damage to you.</mainText><br>",
     plaintext: "Greatly increases defenses, activate to slow nearby enemies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3143.png",
       sprite: "item2.png",
@@ -2570,7 +2570,7 @@ export const ITEMS = [
       "<mainText><stats><attention>25</attention> Ability Power<br><attention>150</attention> Health</stats><br><li><passive>Revved:</passive> Damaging a champion deals additional damage.</mainText><br>",
     plaintext:
       "Increases Ability Power. Deal bonus magic damage on attack periodically.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3145.png",
       sprite: "item2.png",
@@ -2587,7 +2587,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>90</attention> Ability Power<br><attention>6</attention> Magic Penetration<br><attention>250</attention> Health<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Supersonic:</active> Dash in target direction, unleashing an arc of magic missiles that deal damage. Then, gain Move Speed towards enemy champions.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration.</mainText><br>",
     plaintext: "Activate to dash forward and unleash a fiery explosion",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3152.png",
       sprite: "item2.png",
@@ -2604,7 +2604,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>8%</attention> Life Steal</stats><br><li><passive>Mist's Edge:</passive> Attacks apply physical damage based off of the target's current Health. <li><passive>Siphon:</passive> Attacking a champion 3 times deals magic damage and steals Move Speed.<br><br>Item performance differs for melee and ranged users.</mainText><br>",
     plaintext: "Deals damage based on target's Health, can steal Move Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3153.png",
       sprite: "item2.png",
@@ -2621,7 +2621,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage<br><attention>35</attention> Magic Resist</stats><br><li><passive>Lifeline:</passive> Upon taking magic damage that would reduce Health below 30%, gain a magic damage Shield.</mainText><br>",
     plaintext: "Increases Attack Damage and Magic Resist",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3155.png",
       sprite: "item2.png",
@@ -2638,7 +2638,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>50</attention> Magic Resist</stats><br><li><passive>Lifeline:</passive> Upon taking magic damage that would reduce Health below 30%, gain a magic damage Shield. When <passive>Lifeline</passive> triggers, gain Omnivamp until the end of combat.  </mainText><br>",
     plaintext: "Grants bonus Attack Damage when Health is low",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3156.png",
       sprite: "item2.png",
@@ -2655,7 +2655,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Ability Power<br><attention>45</attention> Armor<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Stasis:</active> You become <status>Invulnerable</status> and <status>Untargetable</status> for 2.5 seconds, but are prevented from taking any other actions during this time.</mainText><br>",
     plaintext: "Activate to become invincible but unable to take actions",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3157.png",
       sprite: "item2.png",
@@ -2672,7 +2672,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Haste<br><attention>45</attention> Move Speed</stats><br><li>Gain 12 Summoner Spell Haste.<br><br><flavorText>''This item is dedicated in honor of Ionia's victory over Noxus in the Rematch for the Southern Provinces on 10 December, 20 CLE.'</flavorText></mainText><br>",
     plaintext: "Increases Move Speed and Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3158.png",
       sprite: "item2.png",
@@ -2690,7 +2690,7 @@ export const ITEMS = [
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>500</attention> Health<br><attention>20</attention> Ability Haste</stats><br><li><passive>Dragonforce:</passive> Your Non-Ultimate spells gain (16 (+0.04 per 100 Bonus AD) | 12 (+0.03 per 100 Bonus AD)) Ability Haste, reduced to (8 (+0.02 per 100 Bonus AD) | 6 (+0.015 per 100 Bonus AD))) Ability Haste for Immobilizing spells.<li><passive>Exigency:</passive> Gain up to (0.15 | 0.1) increased move speed, based on your missing health (Maxed when below 33% Health).<br><br>Item performance differs for melee and ranged users.</mainText><br>",
     plaintext:
       "Reduce damage taken from champions by a flat amount. Attack while near multiple enemy champions to increase this amount for a short time.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "3161.png",
       sprite: "item2.png",
@@ -2707,7 +2707,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>90</attention> Ability Power<br><attention>200</attention> Health<br><attention>10</attention> Magic Penetration</stats><br><li><passive>Affliction:</passive> Dealing magic damage applies <status>40% Grievous Wounds</status> to enemy champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "Increases magic damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3165.png",
       sprite: "item3.png",
@@ -2724,7 +2724,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>150</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "Good starting item for attackers",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3177.png",
       sprite: "item3.png",
@@ -2741,7 +2741,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>13</attention> Lethality<br><attention>15</attention> Ability Haste</stats><br><li><passive>Blackout:</passive> When spotted by an enemy Ward, reveal traps and disable Wards around you. Your Attacks do increased damage to Wards.</mainText><br>",
     plaintext: "Provides trap and ward detection periodically",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3179.png",
       sprite: "item3.png",
@@ -2758,7 +2758,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><attention>400</attention> Health<br><attention>150%</attention> Base Health Regen<br><attention>5%</attention> Move Speed</stats><br><br><li><passive>Boarding Party:</passive> While no allied champions are nearby you gain <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR> and Attacks deal increased damage to towers. Nearby large minions gain <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR> and increased damage to towers. <br><br><rules>Boarding Party's resistances decay over 3 seconds when an ally gets too close.</rules><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3181.png",
       sprite: "item3.png",
@@ -2775,7 +2775,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage<br><attention>150</attention> Health<br><attention>7%</attention> Life Steal</stats><br><li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "Good starting item for attackers",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3184.png",
       sprite: "item3.png",
@@ -2792,7 +2792,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>200</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Devotion:</active> Grant nearby allies a <shield>Shield</shield>, decaying over time.<br><li><passive>Consecrate:</passive> Grant nearby allied champions  <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor and Magic Resist increase to <passive>Consecrate</passive>.<br><br></mainText><br>",
     plaintext: "Activate to shield nearby allies from damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3190.png",
       sprite: "item3.png",
@@ -2809,7 +2809,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Ability Power<br><attention>20</attention> Armor</stats><br><li><passive>Witch's Path:</passive> Killing a unit grants <scaleArmor>0.5 Armor</scaleArmor> (max <scaleArmor>15</scaleArmor>).</mainText><br>",
     plaintext: "Increases Armor and Ability Power",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3191.png",
       sprite: "item3.png",
@@ -2826,7 +2826,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Armor<br><attention>60</attention> Magic Resist<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Unbreakable:</active> Gain a Shield that decays and grow in size.<br><li><passive>Fortify:</passive> Taking damage from a champion grants a stack of <scaleArmor>bonus Armor</scaleArmor> and <scaleMR>bonus Magic Resist</scaleMR>.<br><br><rules>Max 5 stacks; 1 per champion.</rules></mainText><br>",
     plaintext: "Greatly increases defense near multiple enemies.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3193.png",
       sprite: "item3.png",
@@ -2843,7 +2843,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>250</attention> Health<br><attention>25</attention> Magic Resist</stats><br><li><passive>Incorporeal:</passive> After taking damage from a champion, Regenerate Health.</mainText><br>",
     plaintext: "Improves defense and grants regeneration upon being damaged",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3211.png",
       sprite: "item3.png",
@@ -2861,7 +2861,7 @@ export const ITEMS = [
       "<mainText><stats><attention>250</attention> Health<br><attention>100%</attention> Base Mana Regen<br><attention>15%</attention> Heal and Shield Power</stats><br><br><active>Active -</active> <active>Purify:</active> Restore Health and Remove all crowd control debuffs (except <status>Knockups</status> and <status>Suppression</status>) from an ally champion.<br><li><passive>Harmony:</passive> Gain 25% Base Health Regeneration for every additional <scalemana>25% Base Mana Regeneration</scalemana>.</mainText><br>",
     plaintext:
       "Activate to remove all disabling effects from an allied champion",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3222.png",
       sprite: "item3.png",
@@ -2878,7 +2878,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><br><active>Active - Trinket:</active> Places an effigy that appears exactly as Fiddlesticks does to enemies. Stores up to a maximum of 2 charges.<br><br>Enemy champions approaching an effigy will activate it, causing the effigy to fake a random action, after which the effigy will fall apart.</mainText><br>",
     plaintext: "Periodically place a Stealth Ward",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3330.png",
       sprite: "item3.png",
@@ -2895,7 +2895,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Trinket:</active> Places a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 2 Stealth Wards.</mainText><br>",
     plaintext: "Periodically place a Stealth Ward",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3340.png",
       sprite: "item3.png",
@@ -2912,7 +2912,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><mainText><active>UNIQUE Active - Hunter's Sight:</active> An arcane mist grants vision in the target area for 5 seconds, revealing enemy champions and granting <font color='#ee91d7'>True Sight</font> of traps in the area for 3 seconds (30 second cooldown).</mainText></mainText><br>",
     plaintext: "Activate to reveal a nearby area of the map",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3348.png",
       sprite: "item3.png",
@@ -2929,7 +2929,7 @@ export const ITEMS = [
     description: "<mainText><stats></stats>Lucent Singularity</mainText><br>",
     plaintext:
       "Lux creates a light zone that <status>Slows</status> by @Slow@ and reveals the area. After 5 seconds or on <recast>Recasting</recast> this Ability, it detonates, dealing <magicDamage>@TotalDamage@ magic damage</magicDamage> and <status>Slowing</status> for an additional @SlowLingerDuration@ second.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3349.png",
       sprite: "item3.png",
@@ -2946,7 +2946,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Trinket:</active> Places a visible and fragile Ward up to 4000 units away.</mainText><br>",
     plaintext: "Grants increased range and reveals the targetted area",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3363.png",
       sprite: "item3.png",
@@ -2963,7 +2963,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Trinket:</active> Scans around you, warning against hidden enemy units, revealing invisible traps and revealing (and temporarily disabling) enemy Stealth Wards. Has 2 recharges.</mainText><br>",
     plaintext: "Disables nearby invisible wards and traps for a duration",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3364.png",
       sprite: "item3.png",
@@ -2980,7 +2980,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Gain 0 gold.<br><br><rules>Bonus gold given to an ally when Pyke executes an enemy champion using his Ultimate Ability. If no ally was involved in the kill, Pyke gets to keep the Cut!</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3400.png",
       sprite: "item3.png",
@@ -2997,7 +2997,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Ability Power<br><attention>20</attention> Ability Haste<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Wrath and Ruin:</passive> On spell cast, gain 2.5% critical chance for 6 seconds, stacking up to 20%.<li><passive>Salvage the Wreckage:</passive> Your spells have a chance equal to your crit chance to grant you or your targeted ally a shield for 0 for 3s.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3430.png",
       sprite: "item3.png",
@@ -3015,7 +3015,7 @@ export const ITEMS = [
       "<mainText><stats><attention>35</attention> Ability Power<br><attention>8%</attention> Heal and Shield Power<br><attention>75%</attention> Base Mana Regen<br><attention>5%</attention> Move Speed</stats><br><li><passive>Sanctify:</passive> Healing or Shielding another ally enhances you both, granting Attack Speed and magic damage <OnHit>On-Hit</OnHit>. <br></mainText><br>",
     plaintext:
       "Shield and heal effects on other units grant both of you Attack Speed and their attacks deal additional on-hit magic damage.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3504.png",
       sprite: "item3.png",
@@ -3032,7 +3032,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>20</attention> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack deals additional damage and restores Mana.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3508.png",
       sprite: "item3.png",
@@ -3049,7 +3049,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Crush the Eye of the Herald, summoning Rift Herald. The Herald will proceed down the nearest lane and deal massive damage to any turrets in the way.<br><br><passive>Glimpse of the Void:</passive> Grants Empowered Recall.<br></mainText><br>",
     plaintext: "Eye of the Herald - a Gift of the Void.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3513.png",
       sprite: "item3.png",
@@ -3066,7 +3066,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Bind with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another.</mainText><br>",
     plaintext: "Kalista's spear that binds an Oathsworn Ally.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3599.png",
       sprite: "item3.png",
@@ -3083,7 +3083,7 @@ export const ITEMS = [
     description:
       "<mainText><stats></stats><active>Active - Consume:</active> Bind with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another.<br><br><rules>Required to use <attention>Kalista's</attention> Ultimate Ability.</rules></mainText><br>",
     plaintext: "Kalista's spear that binds an Oathsworn Ally.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3600.png",
       sprite: "item3.png",
@@ -3100,7 +3100,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>300</attention> Health<br><attention>45</attention> Armor<br><attention>5%</attention> Move Speed</stats><li><passive>Shipwrecker:</passive> While moving, build up  Move Speed. Your next Attack discharges built up Move Speed to deal damage. If dealt by a Melee champion at top speed, the Attack also <status>Slows</status> the target.<br><br><flavorText>''There's only one way you'll get this armor from me...'' - forgotten namesake</flavorText></mainText><br>",
     plaintext: "Build momentum as you move around then smash into enemies.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3742.png",
       sprite: "item3.png",
@@ -3117,7 +3117,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>500</attention> Health</stats><br><li><passive>Colossus:</passive> Gain bonus <scaleAD>Attack Damage based off of bonus Health</scaleAD>.<li><passive>Cleave:</passive> Attacks apply additional damage <OnHit>On-Hit</OnHit>, creating a shockwave that deals damage to enemies behind the target.</mainText><br>",
     plaintext: "Deals area of effect damage based on owner's health",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3748.png",
       sprite: "item3.png",
@@ -3134,7 +3134,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>200</attention> Health<br><attention>100%</attention> Base Health Regen</stats></mainText><br>",
     plaintext: "Grants Health and Health Regen",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3801.png",
       sprite: "item3.png",
@@ -3151,7 +3151,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Ability Power<br><attention>300</attention> Mana<br><attention>10</attention> Ability Haste</stats><br><li><passive>Enlighten:</passive> Upon levelling up, restores <scaleMana>20% max Mana</scaleMana> over 3 seconds.</mainText><br>",
     plaintext: "Restores Mana upon levelling up.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3802.png",
       sprite: "item3.png",
@@ -3168,7 +3168,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>300</attention> Health<br><attention>300</attention> Mana</stats><br><li><passive>Eternity:</passive> Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3803.png",
       sprite: "item3.png",
@@ -3185,7 +3185,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>10</attention> Lethality<br><attention>325</attention> Health</stats><br><li><passive>Annul:</passive> Gain a Spell Shield that blocks the next enemy Ability.<br><br><rules>Item's cooldown is restarted if you take damage before it is completed.</rules></mainText><br>",
     plaintext: "Periodically blocks enemy abilities",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3814.png",
       sprite: "item3.png",
@@ -3202,7 +3202,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>8</attention> Ability Power<br><attention>10</attention> Health<br><attention>25%</attention> Base Mana Regen<br><attention>2</attention> Gold Per 10 Seconds</stats><br><li><passive>Tribute:</passive> While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 36 seconds.<li><passive>Quest:</passive> Earn 500 gold from this item to transform it into <rarityGeneric>Frostfang</rarityGeneric>, gaining <active>Active -</active> <active>Warding</active>.<br><br><rules>This item grants reduced gold from minions if you kill excessive numbers of them.</rules></mainText><br>",
     plaintext: "Gain gold and upgrade by damaging enemy champions",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3850.png",
       sprite: "item3.png",
@@ -3219,7 +3219,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Ability Power<br><attention>70</attention> Health<br><attention>50%</attention> Base Mana Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 3 Stealth Wards, which refill upon visiting the shop. <br><br><br><br><li><passive>Tribute:</passive> While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 30 seconds.<li><passive>Quest:</passive> Earn 1000 gold from this item to transform it into <rarityLegendary>Shard of True Ice</rarityLegendary>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3851.png",
       sprite: "item3.png",
@@ -3236,7 +3236,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Ability Power<br><attention>75</attention> Health<br><attention>100%</attention> Base Mana Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 4 Stealth Wards, which refill upon visiting the shop. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3853.png",
       sprite: "item3.png",
@@ -3253,7 +3253,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>3</attention> Attack Damage<br><attention>30</attention> Health<br><attention>50%</attention> Base Health Regen<br><attention>2</attention> Gold Per 10 Seconds</stats><li><passive>Spoils of War:</passive> While nearby an allied champion, Attacks execute minions below (50% for Melee Users | 30% for Ranged Users) of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 35 seconds (Max 3 charges).<li><passive>Quest:</passive> Earn 500 gold from this item to transform it into <rarityGeneric>Runesteel Spaulders</rarityGeneric>, gaining <active>Active -</active> <active>Warding</active>.<br><br><rules>This item grants reduced gold from minions if you kill excessive numbers of them.</rules></mainText><br>",
     plaintext: "Gain gold and upgrade by executing minions alongside allies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3854.png",
       sprite: "item3.png",
@@ -3270,7 +3270,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>6</attention> Attack Damage<br><attention>100</attention> Health<br><attention>75%</attention> Base Health Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 3 Stealth Wards, which refill upon visiting the shop. <br><li><passive>Spoils of War:</passive> While nearby an allied champion, Attacks execute minions below 50% of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 35 seconds (Max 3 charges).<li><passive>Quest:</passive> Earn 1000 gold from this item to transform it into <rarityLegendary>Bulwark of the Mountain</rarityLegendary>. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3855.png",
       sprite: "item3.png",
@@ -3287,7 +3287,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>15</attention> Attack Damage<br><attention>250</attention> Health<br><attention>100%</attention> Base Health Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 4 Stealth Wards, which refill upon visiting the shop. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3857.png",
       sprite: "item3.png",
@@ -3304,7 +3304,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>5</attention> Ability Power<br><attention>30</attention> Health<br><attention>50%</attention> Base Health Regen<br><attention>2</attention> Gold Per 10 Seconds</stats><li><passive>Spoils of War:</passive> While nearby an allied champion, Attacks execute minions below (50% for Melee Users | 30% for Ranged Users) of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 35 seconds (Max 3 charges).<li><passive>Quest:</passive> Earn 500 gold from this item to transform it into <rarityGeneric>Targon's Buckler</rarityGeneric>, gaining <active>Active -</active> <active>Warding</active>.<br><br><rules>This item grants reduced gold from minions if you kill excessive numbers of them.</rules></mainText><br>",
     plaintext: "Gain gold and upgrade by executing minions alongside allies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3858.png",
       sprite: "item3.png",
@@ -3321,7 +3321,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>10</attention> Ability Power<br><attention>100</attention> Health<br><attention>75%</attention> Base Health Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 3 Stealth Wards, which refill upon visiting the shop. <br><li><passive>Spoils of War:</passive> While nearby an allied champion, Attacks execute minions below 50% of their max Health. Killing a minion grants the same kill gold to the nearest allied champion. These effects recharge every 35 seconds (Max 3 charges).<li><passive>Quest:</passive> Earn 1000 gold from this item to transform it into <rarityLegendary>Bulwark of the Mountain</rarityLegendary>. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3859.png",
       sprite: "item3.png",
@@ -3338,7 +3338,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Power<br><attention>250</attention> Health<br><attention>100%</attention> Base Health Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 4 Stealth Wards, which refill upon visiting the shop. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3860.png",
       sprite: "item3.png",
@@ -3355,7 +3355,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>5</attention> Attack Damage<br><attention>10</attention> Health<br><attention>25%</attention> Base Mana Regen<br><attention>2</attention> Gold Per 10 Seconds</stats><br><li><passive>Tribute:</passive> While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 30 seconds.<li><passive>Quest:</passive> Earn 500 gold from this item to transform it into <rarityGeneric>Harrowing Crescent</rarityGeneric>, gaining <active>Active -</active> <active>Warding</active>.<br><br><rules>This item grants reduced gold from minions if you kill excessive numbers of them.</rules></mainText><br>",
     plaintext: "Gain gold and upgrade by damaging enemy champions",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3862.png",
       sprite: "item3.png",
@@ -3372,7 +3372,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>10</attention> Attack Damage<br><attention>60</attention> Health<br><attention>50%</attention> Base Mana Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><li><passive>Tribute:</passive> While nearby an ally champion, damaging Abilities and Attacks against champions or buildings grant 20 gold. This can occur up to 3 times every 36 seconds.<li><passive>Quest:</passive> Earn 1000 gold from this item to transform it into <rarityLegendary>Black Mist Scythe</rarityLegendary>.<br><br><rules>This item grants reduced gold from minions if you kill excessive numbers of them.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3863.png",
       sprite: "item3.png",
@@ -3389,7 +3389,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Attack Damage<br><attention>75</attention> Health<br><attention>100%</attention> Base Mana Regen<br><attention>3</attention> Gold Per 10 Seconds</stats><br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 0 Stealth Wards, which refill upon visiting the shop. <br><br><active>Active -</active> <active>Ward:</active> Place a Stealth Ward on the ground that is <keywordStealth>Invisible</keywordStealth> to enemies but grants your team vision of the surrounding area. Stores up to 4 Stealth Wards, which refill upon visiting the shop. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3864.png",
       sprite: "item3.png",
@@ -3406,7 +3406,7 @@ export const ITEMS = [
     description: "",
     plaintext:
       "Cannon Barrage fires at an increasing rate over time (additional 6 waves over the duration).",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3901.png",
       sprite: "item3.png",
@@ -3424,7 +3424,7 @@ export const ITEMS = [
       "<mainText><stats></stats><mainText>Cannon Barrage additionally fires a mega-cannonball at the center of the Barrage, dealing <trueDamage>300% true damage</trueDamage> and <status>Slowing</status> them by 60% for 1.5 seconds.</mainText></mainText><br>",
     plaintext:
       "<mainText>Cannon Barrage additionally fires a mega-cannonball at the center of the Barrage, dealing <trueDamage>300% true damage</trueDamage> and <status>Slowing</status> them by 60% for 1.5 seconds.</mainText>",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3902.png",
       sprite: "item3.png",
@@ -3442,7 +3442,7 @@ export const ITEMS = [
       "<mainText><stats></stats>Allies in the Cannon Barrage gain <speed>30% Move Speed</speed> for 2 seconds.</mainText><br>",
     plaintext:
       "Allies in the Cannon Barrage gain <speed>30% Move Speed</speed> for 2 seconds.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3903.png",
       sprite: "item3.png",
@@ -3459,7 +3459,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Ability Power</stats><br><li><passive>Cursed:</passive> Dealing magic damage applies <status>40% Grievous Wounds</status> to champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "Increases magic damage",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "3916.png",
       sprite: "item3.png",
@@ -3475,7 +3475,7 @@ export const ITEMS = [
     name: "Imperial Mandate",
     description: "",
     plaintext: "Defer damage until later.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4005.png",
       sprite: "item3.png",
@@ -3492,7 +3492,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>15</attention> Ability Haste</stats><br><li><passive>Vile Decay:</passive> Dealing magic damage reduces the target's magic resist by 5% for 6 seconds, stacking up to up to 30%. Repeat damage from the same spell cast can only stack this once per 2 second(s).</mainText><br>",
     plaintext: "Grant Spell Shield after damaging an enemy with an ability",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4010.png",
       sprite: "item3.png",
@@ -3509,7 +3509,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>60</attention> Magic Resist<br><attention>5%</attention> Move Speed</stats><br><li><passive>Absorb:</passive> Taking <magicDamage>magic damage</magicDamage> from enemy Champions grants a stack of <attention>Steadfast</attention>. Enemy <status>Immobilizing</status> effects grant additional stacks.<li><passive>Dissipate:</passive> While at max stacks of <attention>Steadfast</attention>, gain increased Magic Resist and Move Speed.</mainText><br>",
     plaintext: "Move Speed, Magic Resist, and max Health Regeneration",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4401.png",
       sprite: "item3.png",
@@ -3526,7 +3526,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Attack Damage<br><attention>120</attention> Ability Power<br><attention>50%</attention> Attack Speed<br><attention>30%</attention> Critical Strike Chance<br><attention>250</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>250</attention> Mana<br><attention>20</attention> Ability Haste<br><attention>10%</attention> Move Speed<br><attention>10%</attention> Life Steal<br><attention>100%</attention> Base Health Regen<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Doing Something:</passive> You are permanently On Fire!</mainText><br>",
     plaintext: "It does EVERYTHING!",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4403.png",
       sprite: "item3.png",
@@ -3543,7 +3543,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><attention>150</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Hypershot:</passive> Damaging a champion with a non-targeted Ability at over 700 range or <status>Slowing or Immobilizing</status> them <keywordStealth>Reveals</keywordStealth> them and increases their damage taken from you.<br><br><rules>The Ability that triggers <passive>Hypershot</passive> also benefits from the damage increase. Pets and non-immobilizing traps do not trigger this effect. Only the initial placement of zone Abilities will trigger this effect. Distance is measured from the Ability cast position. </rules></mainText><br>",
     plaintext: "Immobilizing a champion causes lightning to strike them",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4628.png",
       sprite: "item3.png",
@@ -3560,7 +3560,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><attention>30</attention> Ability Haste<br><attention>5%</attention> Move Speed</stats><br><li><passive>Spelldance:</passive> Damaging a champion generates a stack of <speed>2.5% Move Speed</speed> every 1.5 seconds for the next 5 seconds up to <speed>10% Move Speed</speed>. At 4 stacks, gain an additional <speed>10% Move Speed</speed> (<speed>20% Move Speed</speed> total). Dealing damage refreshes this effect.<br> <br></mainText><br>",
     plaintext: "Massive amounts of Cooldown Reduction",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4629.png",
       sprite: "item3.png",
@@ -3577,7 +3577,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Ability Power<br><attention>13%</attention> Magic Penetration</stats></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4630.png",
       sprite: "item3.png",
@@ -3594,7 +3594,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Power<br><attention>25</attention> Magic Resist</stats><br><li><passive>Adaptive:</passive> Killing a unit grants <scaleMR>0.3 Magic Resist</scaleMR> (max <scaleMR>9</scaleMR>). <br><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4632.png",
       sprite: "item3.png",
@@ -3611,7 +3611,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>300</attention> Health<br><attention>15</attention> Ability Haste<br><attention>7%</attention> Omnivamp</stats><br><li><passive>Void Corruption:</passive> For each second damaging enemy champions, deal bonus damage. At maximum strength, the bonus damage is dealt as <trueDamage>true damage</trueDamage> instead. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Omnivamp and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4633.png",
       sprite: "item3.png",
@@ -3628,7 +3628,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Power<br><attention>250</attention> Health<br><attention>5%</attention> Omnivamp</stats></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4635.png",
       sprite: "item3.png",
@@ -3645,7 +3645,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>90</attention> Ability Power<br><attention>300</attention> Health<br><attention>25</attention> Ability Haste</stats><br><li><passive>Soulrend:</passive> Damaging a champion with Attacks or Abilities deals additional magic damage and grants you Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4636.png",
       sprite: "item3.png",
@@ -3662,7 +3662,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>75</attention> Ability Power<br><attention>350</attention> Health</stats><br><li><passive>Azakana's Gaze:</passive> Dealing Ability damage burns enemies for max Health magic damage every second.<li><passive>Dark Pact:</passive> Gain <scaleHealth>bonus Health</scaleHealth> as <scaleAP>Ability Power</scaleAP>. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4637.png",
       sprite: "item3.png",
@@ -3679,7 +3679,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>150</attention> Health<br><attention>10</attention> Ability Haste<br><attention>50%</attention> Base Mana Regen</stats><br><li><passive>Arcane Cache:</passive> This item can store up to 3 purchased Control Wards.<li><passive>Blessing of Ixtal:</passive> Grants a 8% increase to bonus Health, bonus Attack Damage, Ability Haste, and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4638.png",
       sprite: "item3.png",
@@ -3696,7 +3696,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Health<br><attention>25%</attention> Base Mana Regen</stats><br><li><passive>Arcane Cache:</passive> This item can store up to 2 purchased Control Wards.<br><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4641.png",
       sprite: "item3.png",
@@ -3713,7 +3713,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Ability Power<br><attention>10</attention> Ability Haste<br><attention>50%</attention> Base Mana Regen</stats></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4642.png",
       sprite: "item3.png",
@@ -3730,7 +3730,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>250</attention> Health<br><attention>10</attention> Ability Haste<br><attention>50%</attention> Base Mana Regen</stats><br><li><passive>Arcane Cache:</passive> This item can store up to 3 purchased Control Wards.<li><passive>Behold:</passive> Increase your Stealth Ward and Control Ward placement caps by 1.<li><passive>Chosen of Ixtal:</passive> Grants a 20% increase to bonus Health, bonus Attack Damage, Ability Haste, and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4643.png",
       sprite: "item3.png",
@@ -3747,7 +3747,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>85</attention> Ability Power<br><attention>250</attention> Health<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Safeguard:</passive> You are <keywordMajor>Safeguarded</keywordMajor>, reducing incoming champion damage. <keywordMajor>Safeguard</keywordMajor> persists for 2.5 seconds after taking champion damage. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4644.png",
       sprite: "item3.png",
@@ -3764,7 +3764,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><attention>200</attention> Health</stats><br><li><passive>Cinderbloom:</passive> Damage to champions benefits from additional <keywordStealth>Magic Penetration</keywordStealth> based on their current <scaleHealth>Health</scaleHealth>. If the target was recently affected by Shields, gain the maximum benefit against that target. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "4645.png",
       sprite: "item3.png",
@@ -3781,7 +3781,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage</stats><br><br><active>Active -</active> <active>Crescent:</active> Deal damage to nearby enemies.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6029.png",
       sprite: "item3.png",
@@ -3798,7 +3798,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>300</attention> Health<br><attention>40</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Remove all crowd control debuffs and gain Tenacity and Slow Resistance.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6035.png",
       sprite: "item3.png",
@@ -3815,7 +3815,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>15</attention> Ability Haste<br><attention>45</attention> Armor</stats><br><li><passive>Ignore Pain:</passive> Damage taken is dealt to you over time instead.<li><passive>Defy:</passive> Champion takedowns cleanse <passive>Ignore Pain's</passive> remaining damage pool and restore Health over time.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6333.png",
       sprite: "item3.png",
@@ -3832,7 +3832,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>250</attention> Health<br><attention>25</attention> Ability Haste</stats><br><li><passive>Hackshorn:</passive> Dealing physical damage applies 40% <status>Grievous Wounds</status> to enemy champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6609.png",
       sprite: "item3.png",
@@ -3850,7 +3850,7 @@ export const ITEMS = [
       "<mainText><stats><attention>35</attention> Ability Power<br><attention>8%</attention> Heal and Shield Power<br><attention>75%</attention> Base Mana Regen<br><attention>5%</attention> Move Speed</stats><br><li><passive>Rapids:</passive> Healing or Shielding another ally grants you both Ability Power and Ability Haste.<br></mainText><br>",
     plaintext:
       "Your heals and shields reduce crowd control and grant Move Speed",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6616.png",
       sprite: "item3.png",
@@ -3868,7 +3868,7 @@ export const ITEMS = [
       "<mainText><stats><attention>35</attention> Ability Power<br><attention>200</attention> Health<br><attention>20</attention> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Starlit Grace:</passive> Healing or shielding an ally chains to the nearest ally champion (excluding yourself), healing or shielding based on the original amount<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Heal and Shield Power.</attention></mainText><br>",
     plaintext:
       "Your heals and shields cool down faster and have greater effect on low health allies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6617.png",
       sprite: "item3.png",
@@ -3886,7 +3886,7 @@ export const ITEMS = [
       "<mainText><stats><attention>30</attention> Ability Power<br><attention>200</attention> Health<br><attention>15</attention> Ability Haste<br><attention>125%</attention> Base Mana Regen</stats><br><li><passive>Soul Siphon:</passive> Damaging a champion grants a <passive>Soul Shard</passive>. Healing or Shielding an ally consumes all <passive>Soul Shards</passive> to restore Health and deals magic damage per Shard to the nearest enemy champion.<br><li><passive>Dissonance:</passive> Gain <scaleAP>Ability Power</scaleAP> per <scaleMana> Base Mana Regeneration</scaleMana>. Disables Harmony.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Ability Haste.</attention><br></mainText><br>",
     plaintext:
       "Damage low-health enemies to trigger a cursed explosion, dealing damage and slowing nearby foes",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6620.png",
       sprite: "item3.png",
@@ -3903,7 +3903,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>400</attention> Health<br><attention>20</attention> Ability Haste<br><attention>8%</attention> Omnivamp</stats><br><br><active>Active -</active> <active>Thirsting Slash:</active> Deal damage to nearby enemies. Restore Health for each champion hit.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health and Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6630.png",
       sprite: "item3.png",
@@ -3920,7 +3920,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><attention>20%</attention> Attack Speed<br><attention>375</attention> Health<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Halting Slash:</active> Deal damage to nearby enemies, <status>Slowing</status> them. Can be cast while moving.<br><li><passive>Heroic Gait:</passive> Dealing physical damage grants Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6631.png",
       sprite: "item3.png",
@@ -3937,7 +3937,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>300</attention> Health<br><attention>20</attention> Ability Haste</stats><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage <OnHit>On-Hit</OnHit>. If the target is a champion, also heal.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Magic Penetration.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6632.png",
       sprite: "item3.png",
@@ -3955,7 +3955,7 @@ export const ITEMS = [
       "<mainText><stats><attention>80</attention> Ability Power<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Agony:</passive> Deal bonus magic damage to Champions based on the target's bonus Health.<li><passive>Torment:</passive> Dealing damage with Abilities causes enemies to burn over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext:
       "Charge up in combat to deal high damage over time, especially against durable enemies",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6653.png",
       sprite: "item3.png",
@@ -3972,7 +3972,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Ability Power<br><attention>6</attention> Magic Penetration<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Echo:</passive> Damaging Abilities deal magic damage to the target and 3 nearby enemies and grants you Move Speed. Dealing ability damage to Champions reduces this item's cooldown.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration. </mainText><br>",
     plaintext: "High burst damage, good against fragile foes",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6655.png",
       sprite: "item3.png",
@@ -3989,7 +3989,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>250</attention> Health<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Glaciate:</active> Deal damage in a cone, <status>Slowing</status> enemies hit. Enemies at the center of the cone are <status>Rooted</status> instead.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Power. <br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6656.png",
       sprite: "item3.png",
@@ -4006,7 +4006,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Ability Power<br><attention>400</attention> Health<br><attention>400</attention> Mana</stats><br><br>This item gains 20 Health, 20 Mana and 4 Ability Power every 60 seconds up to 10 times, for a maximum of 200 Health, 200 Mana,  and 40 Ability Power. Upon reaching max stacks, gain a level and all effects of Eternity are increased by 50%.<br><li><passive>Eternity:</passive> Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second. For every 200 Health or Mana restored this way, gain <speed>35% Decaying Move Speed</speed> for 3 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5 Ability Haste.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6657.png",
       sprite: "item3.png",
@@ -4023,7 +4023,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>300</attention> Health</stats><br><li><passive>Immolate :</passive> Taking or dealing damage causes you to begin dealing magic damage per second to nearby enemies (increased against minions and monsters).</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6660.png",
       sprite: "item3.png",
@@ -4041,7 +4041,7 @@ export const ITEMS = [
       "<mainText><stats><attention>400</attention> Health<br><attention>50</attention> Armor<br><attention>20</attention> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage and creates a frost field for 2.5s. Enemies that move across the field are <status>Slowed</status>. Your primary target is crippled, applying a 100% stronger slow on them and reducing their damage by 10% against you for 2.5s. (1.5s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>50 Health</attention>, <attention>5%</attention> Tenacity, and <attention>5%</attention> Slow Resist.<br></mainText><br>",
     plaintext:
       "High Magic Resist.Passively slow nearby enemies. When spells are cast near you, release a wave of energy that damages and slows.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6662.png",
       sprite: "item3.png",
@@ -4059,7 +4059,7 @@ export const ITEMS = [
       "<mainText><stats><attention>500</attention> Health<br><attention>50</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Supercharged:</active> Grants Move Speed towards enemies or enemy turrets. Once near an enemy (or after 4 seconds) a shockwave is emitted that <status>Slows</status> nearby champions.</mainText><br>",
     plaintext:
       "Immobilize enemies to gain a shield. Activate to run faster at opponents.",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6664.png",
       sprite: "item3.png",
@@ -4076,7 +4076,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>20</attention> Ability Haste</stats><br><li><passive>Voidborn Resilience:</passive> For each second in champion combat gain a stack granting <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>, up to 8 stacks max. At max stacks become empowered, instantly draining enemies around you for magic damage, healing yourself, and increasing your bonus resist until end of combat.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6665.png",
       sprite: "item3.png",
@@ -4093,7 +4093,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Guiding Light:</passive> Upon casting your Ultimate you Transcend, increasing your Max Health. While Transcended you and allies heal over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6667.png",
       sprite: "item3.png",
@@ -4110,7 +4110,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>15%</attention> Attack Speed</stats><br><li><passive>Precision:</passive> Attacks deal additional damage to Minions and Monsters.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6670.png",
       sprite: "item3.png",
@@ -4127,7 +4127,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>15%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><br><active>Active -</active> <active>Cloudburst:</active> Dash in target direction, firing three missiles at the lowest Health enemy near your destination. Deals physical damage, increased against low Health targets.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.<br><br><rules>Maximum missile damage dealt when enemy Health is below 25%.<br>Cloudburst's dash cannot pass through terrain.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6671.png",
       sprite: "item3.png",
@@ -4144,7 +4144,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>30%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Bring It Down:</passive> Every third Attack deals additional physical damage. Repeated triggers on the same target increase the damage dealt.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6672.png",
       sprite: "item3.png",
@@ -4161,7 +4161,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>10%</attention> Life Steal</stats><br><li><passive>Lifeline:</passive> When taking damage that would reduce you below 30% Health, gain a Shield. In addition, gain Attack Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6673.png",
       sprite: "item3.png",
@@ -4178,7 +4178,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>15</attention> Ability Haste</stats><br><li><passive>Transcendence:</passive>  Your Attacks reduce your non-Ultimate Ability cooldowns.<li><passive>Impermanence:</passive> Your abilities deal increased damage based on Critical Strike Chance.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6675.png",
       sprite: "item3.png",
@@ -4195,7 +4195,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>18</attention> Lethality</stats><br><li><passive>Death and Taxes:</passive> Dealing damage that would leave an enemy champion below 5% Health executes them. Champion kills grant an additional 25 gold.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6676.png",
       sprite: "item3.png",
@@ -4212,7 +4212,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25%</attention> Attack Speed</stats><br><li><passive>Wrath:</passive> Attacks apply <magicDamage>20 magic damage</magicDamage> <OnHit>On-Hit</OnHit>.<li><passive>Seething Strike:</passive> Basic attacks grant <attackSpeed>5% Attack Speed</attackSpeed>, stacking up to 3 times.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6677.png",
       sprite: "item3.png",
@@ -4229,7 +4229,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>20</attention> Ability Haste</stats><br><li><passive>Nightstalker:</passive> Your Abilities deal up to an additional percent damage based on the target's missing health. When a champion that you have damaged within the last 3 seconds dies, you become <keywordStealth>Untargetable</keywordStealth> from non-structures for 1.5 seconds (30s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste and  Move Speed.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6691.png",
       sprite: "item3.png",
@@ -4246,7 +4246,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><attention>12</attention> Lethality<br><attention>15</attention> Ability Haste</stats><br><br><li><passive>Ever Rising Moon:</passive> Hitting a champion with 2 separate Attacks or Abilities within 1.5 seconds deals additional damage, grants you Move Speed and a Shield.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6692.png",
       sprite: "item3.png",
@@ -4263,7 +4263,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>15</attention> Ability Haste</stats><br><br><li><passive>Sandstrike:</passive> After dashing, blinking, or exiting Stealth, your next Attack on a champion deals an additional physical damage. If dealt by a Melee champion, this Attack also <status>Slows</status> the target.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6693.png",
       sprite: "item3.png",
@@ -4280,7 +4280,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>45</attention> Attack Damage<br><attention>30%</attention> Armor Penetration<br><attention>20</attention> Ability Haste</stats><br><li><passive>Bitter Cold:</passive> Damaging Abilities <status>Slow</status> enemies.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6694.png",
       sprite: "item3.png",
@@ -4297,7 +4297,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>15</attention> Lethality</stats><br><li><passive>Shield Reaver:</passive> Dealing damage to an enemy champion reduces any shields they gain. When you damage an enemy who is unaffected by Shield Reaver, reduce all shields on them.<br><br>Item performance differs for melee and ranged users.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6695.png",
       sprite: "item3.png",
@@ -4314,7 +4314,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>18</attention> Lethality<br><attention>25</attention> Ability Haste</stats><br><li><passive>Flux:</passive> Whenever a Champion dies that you recently damaged, refund some of your Ultimate Ability's total cooldown.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "6696.png",
       sprite: "item3.png",
@@ -4331,7 +4331,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>75</ornnBonus> Attack Damage<br><ornnBonus>26</ornnBonus> Lethality<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><br><li><passive>Sandstrike:</passive> After dashing, blinking, or exiting Stealth, your next Attack on a champion deals an additional physical damage. If dealt by a Melee champion, this Attack also <status>Slows</status> the target.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "7000.png",
       sprite: "item3.png",
@@ -4348,7 +4348,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>80</ornnBonus> Attack Damage<br><ornnBonus>20</ornnBonus> Lethality<br><ornnBonus>20</ornnBonus> Ability Haste</stats><br><br><li><passive>Ever Rising Moon:</passive> Hitting a champion with 2 separate Attacks or Abilities within 1.5 seconds deals additional damage, grants you Move Speed and a Shield.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "7001.png",
       sprite: "item3.png",
@@ -4365,7 +4365,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>75</ornnBonus> Attack Damage<br><ornnBonus>26</ornnBonus> Lethality<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Nightstalker:</passive> Your Abilities deal up to an additional percent damage based on the target's missing health. When a champion that you have damaged within the last 3 seconds dies, you become <keywordStealth>Untargetable</keywordStealth> from non-structures for 1.5 seconds (30s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste and  Move Speed.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "7002.png",
       sprite: "item3.png",
@@ -4382,7 +4382,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>550</ornnBonus> Health<br><ornnBonus>70</ornnBonus> Armor<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage and creates a frost field for 2.5s. Enemies that move across the field are <status>Slowed</status>. Your primary target is crippled, applying a 100% stronger slow on them and reducing their damage by 10% against you for 2.5s. (1.5s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>50 Health</attention>, <attention>5%</attention> Tenacity, and <attention>5%</attention> Slow Resist.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "7005.png",
       sprite: "item3.png",
@@ -4399,7 +4399,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>65</ornnBonus> Attack Damage<br><ornnBonus>30%</ornnBonus> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><ornnBonus>10%</ornnBonus> Move Speed</stats><br><br><active>Active -</active> <active>Cloudburst:</active> Dash in target direction, firing three missiles at the lowest Health enemy near your destination. Deals physical damage, increased against low Health targets.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.<br><br><rules>Maximum missile damage dealt when enemy Health is below 25%.<br>Cloudburst's dash cannot pass through terrain.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item3.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item3.png",
     image: {
       full: "7006.png",
       sprite: "item3.png",
@@ -4416,7 +4416,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>90</ornnBonus> Ability Power<br><ornnBonus>450</ornnBonus> Health<br><ornnBonus>20</ornnBonus> Ability Haste<br><ornnBonus>8%</ornnBonus> Omnivamp</stats><br><li><passive>Void Corruption:</passive> For each second damaging enemy champions, deal bonus damage. At maximum strength, the bonus damage is dealt as <trueDamage>true damage</trueDamage> instead. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Omnivamp and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7009.png",
       sprite: "item4.png",
@@ -4433,7 +4433,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>120</ornnBonus> Ability Power<br><ornnBonus>400</ornnBonus> Health<br><ornnBonus>30</ornnBonus> Ability Haste</stats><br><li><passive>Soulrend:</passive> Damaging a champion with Attacks or Abilities deals additional magic damage and grants you Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7010.png",
       sprite: "item4.png",
@@ -4450,7 +4450,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>120</ornnBonus> Ability Power<br><ornnBonus>10</ornnBonus> Magic Penetration<br><ornnBonus>350</ornnBonus> Health<br><ornnBonus>20</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Supersonic:</active> Dash in target direction, unleashing an arc of magic missiles that deal damage. Then, gain Move Speed towards enemy champions.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7011.png",
       sprite: "item4.png",
@@ -4467,7 +4467,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>110</ornnBonus> Ability Power<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Agony:</passive> Deal bonus magic damage to Champions based on the target's bonus Health.<li><passive>Torment:</passive> Dealing damage with Abilities causes enemies to burn over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7012.png",
       sprite: "item4.png",
@@ -4484,7 +4484,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>100</ornnBonus> Ability Power<br><ornnBonus>10</ornnBonus> Magic Penetration<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Echo:</passive> Damaging Abilities deal magic damage to the target and 3 nearby enemies and grants you Move Speed. Dealing ability damage to Champions reduces this item's cooldown.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7013.png",
       sprite: "item4.png",
@@ -4501,7 +4501,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>90</ornnBonus> Ability Power<br><ornnBonus>350</ornnBonus> Health<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Glaciate:</active> Deal damage in a cone, <status>Slowing</status> enemies hit. Enemies at the center of the cone are <status>Rooted</status> instead.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Power. <br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7014.png",
       sprite: "item4.png",
@@ -4518,7 +4518,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>70</ornnBonus> Attack Damage<br><ornnBonus>550</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste<br><ornnBonus>12%</ornnBonus> Omnivamp</stats><br><br><active>Active -</active> <active>Thirsting Slash:</active> Deal damage to nearby enemies. Restore Health for each champion hit.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health and Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7015.png",
       sprite: "item4.png",
@@ -4535,7 +4535,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>70</ornnBonus> Attack Damage<br><ornnBonus>30%</ornnBonus> Attack Speed<br><ornnBonus>475</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Halting Slash:</active> Deal damage to nearby enemies, <status>Slowing</status> them. Can be cast while moving.<br><li><passive>Heroic Gait:</passive> Dealing physical damage grants Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7016.png",
       sprite: "item4.png",
@@ -4552,7 +4552,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>60</ornnBonus> Attack Damage<br><ornnBonus>450</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste</stats><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage <OnHit>On-Hit</OnHit>. If the target is a champion, also heal.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Magic Penetration.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7017.png",
       sprite: "item4.png",
@@ -4569,7 +4569,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>50</ornnBonus> Attack Damage<br><ornnBonus>43%</ornnBonus> Attack Speed<br><ornnBonus>400</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Threefold Strike:</passive> Attacks grant Move Speed. If the target is a champion, increase your base Attack Damage, stacking.<li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Attack Damage, Ability Haste, and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7018.png",
       sprite: "item4.png",
@@ -4586,7 +4586,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>400</ornnBonus> Health<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Devotion:</active> Grant nearby allies a <shield>Shield</shield>, decaying over time.<br><li><passive>Consecrate:</passive> Grant nearby allied champions  <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor and Magic Resist increase to <passive>Consecrate</passive>.<br><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7019.png",
       sprite: "item4.png",
@@ -4603,7 +4603,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>65</ornnBonus> Ability Power<br><ornnBonus>300</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste<br><ornnBonus>200%</ornnBonus> Base Mana Regen</stats><br><br><active>Active -</active> <active>Inspire:</active> Grants nearby allies Move Speed.<li><passive>Motivate:</passive> Empowering or Protecting another ally Champion grants both allies Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7020.png",
       sprite: "item4.png",
@@ -4620,7 +4620,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>65</ornnBonus> Ability Power<br><ornnBonus>300</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste<br><ornnBonus>200%</ornnBonus> Base Mana Regen</stats><br><li><passive>Starlit Grace:</passive> Healing or shielding an ally chains to the nearest ally champion (excluding yourself), healing or shielding based on the original amount<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Heal and Shield Power.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7021.png",
       sprite: "item4.png",
@@ -4637,7 +4637,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>400</ornnBonus> Health<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Coruscation:</passive> After <status>Immobilizing</status> champions or being <status>Immobilized</status>, cause that target and all nearby enemy Champions to take increased damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7023.png",
       sprite: "item4.png",
@@ -4654,7 +4654,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>105</ornnBonus> Ability Power<br><ornnBonus>350</ornnBonus> Health<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Safeguard:</passive> You are <keywordMajor>Safeguarded</keywordMajor>, reducing incoming champion damage. <keywordMajor>Safeguard</keywordMajor> persists for 2.5 seconds after taking champion damage. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7024.png",
       sprite: "item4.png",
@@ -4671,7 +4671,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>1050</ornnBonus> Health<br><ornnBonus>300%</ornnBonus> Base Health Regen<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Colossal Consumption:</passive> Charge up a powerful attack against a champion over 3s while within 700 range of them. The charged attack deals 125 + <scalehealth>6%</scalehealth> of your max Health as bonus physical damage, and grants you 10% of that amount as permanent max Health. (30s) cooldown per target.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>1%</attention> Increased Health & <attention>6%</attention> Champion Size.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7025.png",
       sprite: "item4.png",
@@ -4688,7 +4688,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>550</ornnBonus> Health<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Voidborn Resilience:</passive> For each second in champion combat gain a stack granting <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>, up to 8 stacks max. At max stacks become empowered, instantly draining enemies around you for magic damage, healing yourself, and increasing your bonus resist until end of combat.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7026.png",
       sprite: "item4.png",
@@ -4705,7 +4705,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>500</ornnBonus> Health<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist<br><ornnBonus>15</ornnBonus> Ability Haste</stats><br><li><passive>Guiding Light:</passive> Upon casting your Ultimate you Transcend, increasing your Max Health. While Transcended you and allies heal over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7027.png",
       sprite: "item4.png",
@@ -4722,7 +4722,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>80</ornnBonus> Ability Power<br><ornnBonus>550</ornnBonus> Health<br><ornnBonus>550</ornnBonus> Mana</stats><br><br>This item gains 20 Health, 20 Mana and 4 Ability Power every 60 seconds up to 10 times, for a maximum of 200 Health, 200 Mana,  and 40 Ability Power. Upon reaching max stacks, gain a level and all effects of Eternity are increased by 50%.<br><li><passive>Eternity:</passive> Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second. For every 200 Health or Mana restored this way, gain <speed>35% Decaying Move Speed</speed> for 3 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5 Ability Haste.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7028.png",
       sprite: "item4.png",
@@ -4739,7 +4739,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>75</ornnBonus> Attack Damage<br><ornnBonus>26</ornnBonus> Lethality<br><ornnBonus>20</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Wraith Step:</active> Gain Move Speed and Ghosting.<br><li><passive>Haunt:</passive> Gain up to 100 Spectral Shards while moving. Gain <speed> Move Speed</speed> out of champion combat based on the number of Spectral Shards. While at max Shards, gain <scaleAD> Lethality</scaleAD>. Shards will reset 3 seconds after dealing damage to an enemy champion.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention></attention> Attack Damage. <br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7029.png",
       sprite: "item4.png",
@@ -4756,7 +4756,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>40</ornnBonus> Attack Damage<br><ornnBonus>50</ornnBonus> Ability Power<br><ornnBonus>35%</ornnBonus> Attack Speed</stats><br><li><passive>Wrath:</passive> Attacks apply bonus damage <OnHit>On-Hit</OnHit>. Your Critical Strike Chance is converted into more.<li><passive>Seething Strike:</passive> Basic attacks grant bonus <attackSpeed>Attack Speed</attackSpeed>, stacking up to a cap. While fully stacked, every third Attack applies your <OnHit>On-Hit</OnHit> effects twice.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5%</attention> Armor Penetration and <attention>6%</attention> Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7030.png",
       sprite: "item4.png",
@@ -4773,7 +4773,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>95</ornnBonus> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>45%</attention> Critical Strike Damage</stats><br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.<br><br><flavorText>One cut is all it takes.</flavorText></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7031.png",
       sprite: "item4.png",
@@ -4790,7 +4790,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>85</ornnBonus> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Transcendence:</passive>  Your Attacks reduce your non-Ultimate Ability cooldowns.<li><passive>Impermanence:</passive> Your abilities deal increased damage based on Critical Strike Chance.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7032.png",
       sprite: "item4.png",
@@ -4807,7 +4807,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>60</ornnBonus> Ability Power<br><ornnBonus>300</ornnBonus> Health<br><ornnBonus>20</ornnBonus> Ability Haste<br><ornnBonus>225%</ornnBonus> Base Mana Regen</stats><br><li><passive>Soul Siphon:</passive> Damaging a champion grants a <passive>Soul Shard</passive>. Healing or Shielding an ally consumes all <passive>Soul Shards</passive> to restore Health and deals magic damage per Shard to the nearest enemy champion.<br><li><passive>Dissonance:</passive> Gain <scaleAP>Ability Power</scaleAP> per <scaleMana> Base Mana Regeneration</scaleMana>. Disables Harmony.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Ability Haste.</attention><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7033.png",
       sprite: "item4.png",
@@ -4823,7 +4823,7 @@ export const ITEMS = [
     name: "Gangplank Placeholder",
     description: "",
     plaintext: "New Gangplank interface coming soon!",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "7050.png",
       sprite: "item4.png",
@@ -4840,7 +4840,7 @@ export const ITEMS = [
     description:
       '<mainText><stats><attention>650</attention> Health<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Vow:</active> Choose a Nemesis to start building a Vendetta (90s).<br><li><passive>Vendetta:</passive> Take reduced damage from your Nemesis, increasing per Vendetta stack. You gain stacks over time, and reach the maximum number of stacks after 60 seconds.<li><passive>Vengeance:</passive> At maximum stacks, your Nemesis has reduced Tenacity while near you.<br><br><rules>Active can be cast while dead and at global range. Stacks reset upon choosing a new target. Cannot be cast for 15 seconds while in-combat with champions.</rules><br><br><flavorText>"She swore to dedicate her life to his destruction. The gauntlets heard."</flavorText></mainText><br>',
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "8001.png",
       sprite: "item4.png",
@@ -4857,7 +4857,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>300</attention> Health<br><attention>60</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Unmake:</passive> <status>Curse</status> nearby enemy champions, reducing their Magic Resist. For each <status>Cursed</status> enemy, gain Magic Resist.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item4.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item4.png",
     image: {
       full: "8020.png",
       sprite: "item4.png",
@@ -4874,7 +4874,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>200</buffedStat> Health</stats><br><li><passive>Recovery:</passive> Restores Health over time.<li><passive>Undaunted:</passive> Blocks damage from attacks and spells from champions.<li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "222051.png",
       sprite: "item0.png",
@@ -4891,7 +4891,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>45</buffedStat> Ability Power<br><buffedStat>500</buffedStat> Health<br><buffedStat>40</buffedStat> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><br><active>Active -</active> <active>Inspire:</active> Grants nearby allies Move Speed.<li><passive>Motivate:</passive> Empowering or Protecting another ally Champion grants both allies Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "222065.png",
       sprite: "item0.png",
@@ -4908,7 +4908,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>300</buffedStat> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Coruscation:</passive> After <status>Immobilizing</status> champions or being <status>Immobilized</status>, cause that target and all nearby enemy Champions to take increased damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223001.png",
       sprite: "item0.png",
@@ -4925,7 +4925,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>60</nerfedStat> Ability Power<br><attention>500</attention> Mana<br><attention>350</attention> Health<br><attention>10</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain Ability Power equal to bonus Mana.<li><passive>Mana Charge:</passive> <buffedStat>After 2 combat rounds</buffedStat>, this item transforms into <rarityLegendary>Seraph's Embrace</rarityLegendary>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223003.png",
       sprite: "item0.png",
@@ -4942,7 +4942,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>45</buffedStat> Attack Damage<br><attention>500</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus <scaleAD>Attack Damage equal to your max Mana</scaleAD>. <li><passive>Mana Charge:</passive> <buffedStat>After 2 combat rounds</buffedStat>, this item transforms into <rarityLegendary>Muramana</rarityLegendary>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223004.png",
       sprite: "item0.png",
@@ -4959,7 +4959,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Move Speed</stats><br><br><active>Active -</active> <active>Wall Walk:</active> Gain the ability to walk through walls for 6 seconds. While inside walls, gain 300 move speed. Casting a spell or attacking will end this effect. (15s ).</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223005.png",
       sprite: "item0.png",
@@ -4976,7 +4976,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>45%</buffedStat> Attack Speed<br><attention>30</attention> Move Speed</stats></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223006.png",
       sprite: "item0.png",
@@ -4993,7 +4993,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>70</buffedStat> Move Speed</stats><br><li>The strength of movement slowing effects is reduced by <buffedStat>40%</buffedStat>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223009.png",
       sprite: "item0.png",
@@ -5010,7 +5010,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Ability Power<br><buffedStat>16%</buffedStat> Heal and Shield Power<br><attention>75%</attention> Base Mana Regen<br><buffedStat>30</buffedStat> Ability Haste</stats><br><li><passive>Puffcap Toxin:</passive> Dealing damage applies <status>40% Grievous Wounds</status> to champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223011.png",
       sprite: "item0.png",
@@ -5027,7 +5027,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>20</buffedStat> Magic Penetration<br><buffedStat>55</buffedStat> Move Speed</stats></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223020.png",
       sprite: "item0.png",
@@ -5044,7 +5044,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>45</attention> Attack Damage<br><attention>40</attention> Armor</stats><br><li><passive>Saving Grace:</passive> Upon taking lethal damage, restores <healing>50% base Health</healing> and <scaleMana>30% max Mana</scaleMana> after 4 seconds of stasis. This effect has a one round cooldown.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223026.png",
       sprite: "item0.png",
@@ -5061,7 +5061,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>65</nerfedStat> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>45%</attention> Critical Strike Damage</stats><br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223031.png",
       sprite: "item0.png",
@@ -5078,7 +5078,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>45</buffedStat> Attack Damage<br><buffedStat>35%</buffedStat> Armor Penetration<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Sepsis:</passive> Dealing physical damage applies <status>40% Grievous Wounds</status> to enemy champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223033.png",
       sprite: "item0.png",
@@ -5095,7 +5095,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><buffedStat>35%</buffedStat> Armor Penetration</stats><br><li><passive>Giant Slayer:</passive> Deal bonus damage against champions with greater max Health than you.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223036.png",
       sprite: "item0.png",
@@ -5112,7 +5112,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>700</attention> Health<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Big Hands:</passive> Gain 1% critical chance per 100 bonus health, up to 30%.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223039.png",
       sprite: "item0.png",
@@ -5129,7 +5129,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>860</attention> Mana<br><attention>350</attention> Health<br><attention>10</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain Ability Power based on Mana.<li><passive>Lifeline:</passive> Upon taking damage that would reduce your Health below 30%, gain a Shield based on your current Mana.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223040.png",
       sprite: "item0.png",
@@ -5146,7 +5146,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>45</buffedStat> Attack Damage<br><attention>860</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus Attack Damage based on Mana. <li><passive>Shock:</passive> Attacks against champions deal additional physical damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223042.png",
       sprite: "item0.png",
@@ -5163,7 +5163,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>20</attention> Attack Damage<br><buffedStat>30%</buffedStat> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Spectral Waltz:</passive> Attacks grant <status>Ghosting</status> and stacking increased Move Speed. In addition, Attacking 4 times causes Spectral Waltz to also grant Attack Speed.<br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223046.png",
       sprite: "item0.png",
@@ -5180,7 +5180,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>25</buffedStat> Armor<br><attention>30</attention> Move Speed</stats><br><li>Reduces incoming damage from Attacks by <buffedStat>14%</buffedStat>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223047.png",
       sprite: "item0.png",
@@ -5197,7 +5197,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>400</buffedStat> Health<br><attention>250</attention> Mana<br><buffedStat>40</buffedStat> Armor<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Conduit:</active> Designate an <attention>Accomplice</attention>.<br><li><passive>Convergence:</passive> After you <status>Immobilize</status> an enemy, your <attention>Accomplice's</attention> Attacks and Ability hits apply additional damage to that enemy.<br><br><rules>Champions can only be linked by one Zeke's Convergence at a time.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223050.png",
       sprite: "item0.png",
@@ -5214,7 +5214,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>350</nerfedStat> Health</stats><br><li><passive>The Claws that Catch:</passive> Gain base AD as bonus Attack Damage.<li><passive>Lifeline:</passive> Upon taking damage that would reduce your Health below 30%, gain a Shield, decaying over time, and Tenacity.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223053.png",
       sprite: "item0.png",
@@ -5231,7 +5231,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>400</nerfedStat> Health<br><nerfedStat>40</nerfedStat> Magic Resist<br><attention>10</attention> Ability Haste<br><attention>100%</attention> Base Health Regen</stats><br><li><passive>Boundless Vitality:</passive> Increases all Healing and Shielding effectiveness on you.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223065.png",
       sprite: "item0.png",
@@ -5248,7 +5248,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>500</attention> Health<br><attention>50</attention> Armor</stats><br><li><passive>Immolate:</passive> Taking or dealing damage causes you to begin dealing <magicDamage> (15 + 1.75% bonus Health) magic damage</magicDamage> per second to nearby enemies (increased by 25% against minions) for 3 seconds. Damaging Champions or Epic Monsters with this effect adds a stack, increasing subsequent <passive>Immolate</passive> damage by 10% for 5 seconds (max stacks 10).<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223068.png",
       sprite: "item0.png",
@@ -5265,7 +5265,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>400</attention> Health<br><nerfedStat>25</nerfedStat> Ability Haste</stats><br><li><passive>Carve:</passive> Dealing physical damage to a champion applies a stack of Armor reduction.<li><passive>Rage:</passive> Dealing physical damage to a champion grants Move Speed per stack of <unique>Carve</unique> on them.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223071.png",
       sprite: "item0.png",
@@ -5282,7 +5282,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>50</nerfedStat> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>18%</attention> Life Steal</stats><br><li><passive>Engorge:</passive> While above 50% Health, gain additional Attack Damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223072.png",
       sprite: "item0.png",
@@ -5299,7 +5299,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>25</attention> Ability Haste<br><buffedStat>15%</buffedStat> Life Steal</stats><br><li><passive>Cleave:</passive> Attacks and Abilities deal physical damage to other nearby enemies.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223074.png",
       sprite: "item0.png",
@@ -5316,7 +5316,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health<br><attention>70</attention> Armor</stats><br><li><passive>Thorns:</passive> When struck by an Attack, deal damage to the attacker and apply 40% <status>Grievous Wounds</status> if they are a champion.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223075.png",
       sprite: "item0.png",
@@ -5333,7 +5333,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>30</nerfedStat> Attack Damage<br><attention>33%</attention> Attack Speed<br><nerfedStat>200</nerfedStat> Health<br><attention>20</attention> Ability Haste</stats><br><li><passive>Threefold Strike:</passive> Attacks grant Move Speed. If the target is a champion, increase your base Attack Damage, stacking.<li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Attack Damage, Ability Haste, and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223078.png",
       sprite: "item0.png",
@@ -5350,7 +5350,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>800</attention> Health<br><attention>200%</attention> Base Health Regen<br><nerfedStat>10</nerfedStat> Ability Haste</stats><br><li><passive>Colossal Consumption:</passive> Charge up a powerful attack against a champion over 3s while within 700 range of them. The charged attack deals 125 + <scalehealth>6%</scalehealth> of your max Health as bonus physical damage, and grants you 10% of that amount as permanent max Health. (20s) cooldown per target.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>1%</attention> Increased Health & <attention>6%</attention> Champion Size.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item0.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item0.png",
     image: {
       full: "223084.png",
       sprite: "item0.png",
@@ -5367,7 +5367,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>55%</buffedStat> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Peck:</passive> Attacks apply <magicDamage>magic damage</magicDamage> <OnHit>On-Hit</OnHit>.<li><passive>Wind's Fury:</passive> When Attacking, bolts are fired at up to 2 enemies near the target. Bolts apply On-Hit effects and can Critically Strike.<br><br><rules>Item is for Ranged champions only.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223085.png",
       sprite: "item1.png",
@@ -5384,7 +5384,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>30%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Electroshock:</passive> Fires chain lightning that bounces to nearby enemies, dealing increased damage to minions.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223087.png",
       sprite: "item1.png",
@@ -5401,7 +5401,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>80</nerfedStat> Ability Power</stats><br><li><passive>Magical Opus:</passive> Increases your total <scaleAP>Ability Power by 40%</scaleAP>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223089.png",
       sprite: "item1.png",
@@ -5418,7 +5418,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>40%</attention> Attack Speed<br><attention>40</attention> Magic Resist</stats><br><li><passive>Fray:</passive> Attacks apply magic damage On-Hit and grant Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223091.png",
       sprite: "item1.png",
@@ -5435,7 +5435,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>15%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Sharpshooter:</passive> Your Energized Attack applies bonus damage. In addition, Energized attacks gain Attack Range.<br><br><rules>Attack Range cannot increase more than 150 units.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223094.png",
       sprite: "item1.png",
@@ -5452,7 +5452,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>15%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Energized:</passive> Moving and Attacking will generate an Energized Attack.<li><passive>Bolt:</passive> Your Energized Attack applies bonus magic damage and grants Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223095.png",
       sprite: "item1.png",
@@ -5469,7 +5469,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>85</attention> Ability Power<br><attention>20</attention> Ability Haste<br><attention>10%</attention> Move Speed</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional magic damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223100.png",
       sprite: "item1.png",
@@ -5486,7 +5486,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>90</buffedStat> Ability Power<br><buffedStat>55</buffedStat> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Annul:</passive> Grants a Spell Shield that blocks the next enemy Ability.<br><br><rules>Item cooldown is restarted if you take damage from champions before it is completed.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223102.png",
       sprite: "item1.png",
@@ -5503,7 +5503,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>300</buffedStat> Health<br><buffedStat>100%</buffedStat> Base Mana Regen<br><attention>20%</attention> Heal and Shield Power</stats><br><br><active>Active -</active> <active>Intervention:</active> Target an area within. After 2.5 seconds, call down a beam of light to restore Health to allies and damage enemy champions.<br><li><passive>Harmony:</passive> Gain 25% Base Health Regeneration for every additional <scalemana>25% Base Mana Regeneration</scalemana>.<br><br><rules>Item can be activated whilst dead. Damage and healing reduced by 50% if the target has recently been affected by another <active>Intervention</active>. Strength of level-scaling effects are based on the ally's level.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223107.png",
       sprite: "item1.png",
@@ -5520,7 +5520,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>500</buffedStat> Health<br><attention>25</attention> Armor<br><buffedStat>15</buffedStat> Ability Haste<br><attention>125%</attention> Base Health Regen</stats><br><br><active>Active -</active> <active>Pledge:</active> Designate an ally who is <attention>Worthy</attention>..<br><li><passive>Sacrifice:</passive> While your <attention>Worthy</attention> ally is nearby, redirect damage they take to you and heal based on the damage dealt by your <attention>Worthy</attention> ally to Champions.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223109.png",
       sprite: "item1.png",
@@ -5537,7 +5537,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>100</buffedStat> Armor<br><attention>400</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Winter's Caress:</passive> Reduces the <attackSpeed>Attack Speed</attackSpeed> of nearby enemies.<li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223110.png",
       sprite: "item1.png",
@@ -5554,7 +5554,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>35</buffedStat> Magic Resist<br><attention>30</attention> Move Speed<br><buffedStat>35%</buffedStat> Tenacity</stats><br><br><rules>Tenacity reduces the duration of <status>Stun</status>, <status>Slow</status>, <status>Taunt</status>, <status>Fear</status>, <status>Silence</status>, <status>Blind</status>, <status>Polymorph</status> and <status>Immobilizing</status> effects. It has no effect on <status>Airborne</status> or <status>Suppression</status>.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223111.png",
       sprite: "item1.png",
@@ -5571,7 +5571,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Ability Power<br><attention>25</attention> Ability Haste</stats><br><li><passive>Recovery:</passive> Restores Mana over time. If you can't gain mana, restores Health instead.<li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223112.png",
       sprite: "item1.png",
@@ -5588,7 +5588,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><nerfedStat>45%</nerfedStat> Attack Speed<br><attention>15</attention> Ability Haste</stats><br><li><passive>Icathian Bite:</passive> Attacks apply magic damage <OnHit>On-Hit</OnHit>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223115.png",
       sprite: "item1.png",
@@ -5605,7 +5605,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>85</buffedStat> Ability Power<br><buffedStat>475</buffedStat> Health</stats><br><li><passive>Rimefrost:</passive> Damaging Abilities <status>Slow</status> enemies.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223116.png",
       sprite: "item1.png",
@@ -5622,7 +5622,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>500</attention> Mana<br><attention>15</attention> Ability Haste</stats><br><li><passive>Awe:</passive> Gain bonus <scaleHealth>Health equal to Total Mana</scaleHealth>.<li><passive>Mana Charge:</passive> <buffedStat>After 2 combat rounds</buffedStat>, this item transforms into <rarityLegendary>Fimbulwinter</rarityLegendary>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223119.png",
       sprite: "item1.png",
@@ -5639,7 +5639,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>500</buffedStat> Health<br><attention>860</attention> Mana<br><buffedStat>20</buffedStat> Ability Haste</stats><li><passive>Awe:</passive> Gain bonus Health based on Mana.<li><passive>Everlasting:</passive> <status>Immobilizing</status> or <status>Slowing</status> an enemy champion grants a Shield. The Shield is increased if more than one enemy is nearby.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223121.png",
       sprite: "item1.png",
@@ -5656,7 +5656,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage<br><attention>25</attention> Ability Power<br><buffedStat>30%</buffedStat> Attack Speed</stats><br><li><passive>Wrath:</passive> Attacks apply bonus damage <OnHit>On-Hit</OnHit>. Your Critical Strike Chance is converted into more.<li><passive>Seething Strike:</passive> Basic attacks grant bonus <attackSpeed>Attack Speed</attackSpeed>, stacking up to a cap. While fully stacked, every third Attack applies your <OnHit>On-Hit</OnHit> effects twice.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5%</attention> Armor Penetration and <attention>6%</attention> Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223124.png",
       sprite: "item1.png",
@@ -5673,7 +5673,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>75</buffedStat> Ability Power<br><buffedStat>40%</buffedStat> Magic Penetration</stats></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223135.png",
       sprite: "item1.png",
@@ -5690,7 +5690,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>50</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Remove all crowd control debuffs and gain Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223139.png",
       sprite: "item1.png",
@@ -5707,7 +5707,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>65</buffedStat> Attack Damage<br><buffedStat>21</buffedStat> Lethality<br><buffedStat>20</buffedStat> Ability Haste</stats><br><br><active>Active -</active> <active>Wraith Step:</active> Gain Move Speed and Ghosting.<br><li><passive>Haunt:</passive> Gain up to 100 Spectral Shards while moving. Gain <speed> Move Speed</speed> out of champion combat based on the number of Spectral Shards. While at max Shards, gain <scaleAD> Lethality</scaleAD>. Shards will reset 3 seconds after dealing damage to an enemy champion.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention></attention> Attack Damage. <br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223142.png",
       sprite: "item1.png",
@@ -5724,7 +5724,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>60</attention> Armor</stats><br><br><active>Active -</active> <active>Humility:</active> <status>Slow</status> nearby enemies.<br><li><passive>Rock Solid:</passive> Reduce incoming damage from Attacks.<li><passive>Critical Resilience:</passive> Critical Strikes deal 25% less damage to you.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223143.png",
       sprite: "item1.png",
@@ -5741,7 +5741,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Ability Power<br><attention>40</attention> Attack Damage<br><attention>20%</attention> Omnivamp</stats><br><br><active>Active -</active> <active>Lightning Bolt:</active> Shocks the target enemy champion, dealing 0 magic damage and slowing them by 40% for 2 seconds (30 second cooldown).</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223146.png",
       sprite: "item1.png",
@@ -5758,7 +5758,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>90</attention> Ability Power<br><attention>9</attention> Magic Penetration<br><attention>400</attention> Health<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Supersonic:</active> Dash in target direction, unleashing an arc of magic missiles that deal damage. Then, gain Move Speed towards enemy champions.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223152.png",
       sprite: "item1.png",
@@ -5775,7 +5775,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>40</nerfedStat> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>8%</attention> Life Steal</stats><br><li><passive>Mist's Edge:</passive> Attacks apply physical damage based off of the target's current Health. <li><passive>Siphon:</passive> Attacking a champion 3 times deals magic damage and steals Move Speed.<br><br>Item performance differs for melee and ranged users.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223153.png",
       sprite: "item1.png",
@@ -5792,7 +5792,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>50</attention> Magic Resist</stats><br><li><passive>Lifeline:</passive> Upon taking magic damage that would reduce Health below 30%, gain a magic damage Shield. When <passive>Lifeline</passive> triggers, gain Omnivamp until the end of combat.  </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223156.png",
       sprite: "item1.png",
@@ -5809,7 +5809,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>80</attention> Ability Power<br><attention>45</attention> Armor<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Stasis:</active> You become <status>Invulnerable</status> and <status>Untargetable</status> for 2.5 seconds, but are prevented from taking any other actions during this time <buffedStat>(30s )</buffedStat>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223157.png",
       sprite: "item1.png",
@@ -5826,7 +5826,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>40</buffedStat> Ability Haste<br><attention>45</attention> Move Speed</stats><br><li>Gain 12 Summoner Spell Haste.<br><br><flavorText>''This item is dedicated in honor of Ionia's victory over Noxus in the Rematch for the Southern Provinces on 10 December, 20 CLE.'</flavorText></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223158.png",
       sprite: "item1.png",
@@ -5843,7 +5843,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>60</nerfedStat> Attack Damage<br><nerfedStat>200</nerfedStat> Health<br><attention>20</attention> Ability Haste</stats><br><li><passive>Dragonforce:</passive> Your Non-Ultimate spells gain (8 (+0.08 per 100 Bonus AD) | 6 (+0.06 per 100 Bonus AD)) Ability Haste, reduced to (4 (+0.04 per 100 Bonus AD) | 3 (+0.03 per 100 Bonus AD))) Ability Haste for Immobilizing spells.<li><passive>Exigency:</passive> Gain up to (0.15 | 0.1) increased move speed, based on your missing health (Maxed when below 33% Health).<br><br>Item performance differs for melee and ranged users.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223161.png",
       sprite: "item1.png",
@@ -5860,7 +5860,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>100</buffedStat> Ability Power<br><buffedStat>250</buffedStat> Health<br><attention>10</attention> Magic Penetration</stats><br><li><passive>Affliction:</passive> Dealing magic damage applies <status>40% Grievous Wounds</status> to enemy champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223165.png",
       sprite: "item1.png",
@@ -5877,7 +5877,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50%</attention> Attack Speed<br><attention>10%</attention> Move Speed<br><attention>25</attention> Ability Haste<br><attention>30%</attention> Tenacity</stats><br><li><passive>Like the Wind:</passive> Gain 5% Attack Speed On-Hit for 6 seconds, stacking up to 30% Attack Speed.<br><br><rules>Tenacity reduces the duration of <status>Stun</status>, <status>Slow</status>, <status>Taunt</status>, <status>Fear</status>, <status>Silence</status>, <status>Blind</status>, <status>Polymorph</status> and <status>Immobilizing</status> effects. It has no effect on <status>Airborne</status> or <status>Suppression</status>.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223172.png",
       sprite: "item1.png",
@@ -5894,7 +5894,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>25</attention> Attack Damage<br><attention>300</attention> Health<br><attention>15</attention> Ability Haste</stats><br><li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223177.png",
       sprite: "item1.png",
@@ -5911,7 +5911,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><buffedStat>500</buffedStat> Health<br><attention>150%</attention> Base Health Regen<br><attention>5%</attention> Move Speed</stats><br><br><li><passive>Solo Party:</passive> While no allied champions are nearby you gain <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR> and Attacks deal increased damage to towers.<br><br><rules>Solo Party's resistances decay over 3 seconds when an ally gets too close.</rules><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223181.png",
       sprite: "item1.png",
@@ -5928,7 +5928,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>35%</attention> Attack Speed<br><attention>10%</attention> Life Steal</stats><br><li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223184.png",
       sprite: "item1.png",
@@ -5945,7 +5945,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>15</attention> Lethality<br><attention>10</attention> Ability Haste</stats><br><li><passive>Legendary:</passive> This item counts as a <rarityLegendary>Legendary</rarityLegendary> item.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223185.png",
       sprite: "item1.png",
@@ -5962,7 +5962,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>400</buffedStat> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>30</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Devotion:</active> Grant nearby allies a <shield>Shield</shield>, decaying over time.<br><li><passive>Consecrate:</passive> Grant nearby allied champions  <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor and Magic Resist increase to <passive>Consecrate</passive>.<br><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223190.png",
       sprite: "item1.png",
@@ -5979,7 +5979,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>35</nerfedStat> Armor<br><nerfedStat>35</nerfedStat> Magic Resist<br><attention>15</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Unbreakable:</active> Gain a Shield that decays and grow in size.<br><li><passive>Fortify:</passive> Taking damage from a champion grants a stack of <scaleArmor>bonus Armor</scaleArmor> and <scaleMR>bonus Magic Resist</scaleMR>.<br><br><rules>Max 5 stacks; 1 per champion.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223193.png",
       sprite: "item1.png",
@@ -5996,7 +5996,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>400</buffedStat> Health<br><attention>100%</attention> Base Mana Regen<br><buffedStat>20%</buffedStat> Heal and Shield Power</stats><br><br><active>Active -</active> <active>Purify:</active> Restore Health and Remove all crowd control debuffs (except <status>Knockups</status> and <status>Suppression</status>) from an ally champion.<br><li><passive>Harmony:</passive> Gain 25% Base Health Regeneration for every additional <scalemana>25% Base Mana Regeneration</scalemana>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223222.png",
       sprite: "item1.png",
@@ -6013,7 +6013,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>35</attention> Ability Power<br><buffedStat>12%</buffedStat> Heal and Shield Power<br><attention>75%</attention> Base Mana Regen<br><attention>5%</attention> Move Speed</stats><br><li><passive>Sanctify:</passive> Healing or Shielding another ally enhances you both, granting Attack Speed and magic damage <OnHit>On-Hit</OnHit>. <br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223504.png",
       sprite: "item1.png",
@@ -6030,7 +6030,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><buffedStat>25</buffedStat> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack deals additional damage and restores Mana.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223508.png",
       sprite: "item1.png",
@@ -6047,7 +6047,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>350</buffedStat> Health<br><buffedStat>50</buffedStat> Armor<br><buffedStat>7%</buffedStat> Move Speed</stats><li><passive>Shipwrecker:</passive> While moving, build up  Move Speed. Your next Attack discharges built up Move Speed to deal damage. If dealt by a Melee champion at top speed, the Attack also <status>Slows</status> the target.<br><br><flavorText>''There's only one way you'll get this armor from me...'' - forgotten namesake</flavorText></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223742.png",
       sprite: "item1.png",
@@ -6064,7 +6064,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Attack Damage<br><attention>500</attention> Health</stats><br><li><passive>Colossus:</passive> Gain bonus <scaleAD>Attack Damage based off of bonus Health</scaleAD>.<li><passive>Cleave:</passive> Attacks apply additional damage <OnHit>On-Hit</OnHit>, creating a shockwave that deals damage to enemies behind the target.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223748.png",
       sprite: "item1.png",
@@ -6081,7 +6081,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>55</buffedStat> Attack Damage<br><buffedStat>17</buffedStat> Lethality<br><attention>400</attention> Health</stats><br><li><passive>Annul:</passive> Gain a Spell Shield that blocks the next enemy Ability.<br><br><rules>Item's cooldown is restarted if you take damage before it is completed.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "223814.png",
       sprite: "item1.png",
@@ -6098,7 +6098,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Attack Damage<br><attention>21</attention> Lethality</stats><br><br><active>Active -</active> <active>Soul Anchor:</active> Mark your current location. After 5 seconds, return to that location (30s ).</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224004.png",
       sprite: "item1.png",
@@ -6115,7 +6115,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Ability Power<br><buffedStat>30</buffedStat> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Coordinated Fire:</passive> Abilities that <status>Slow</status> or <status>Immobilize</status> a champion deal <magicDamage>bonus magic damage</magicDamage> and marks them. Ally champion damage detonates the mark, dealing additional magic damage and granting you both Move Speed. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224005.png",
       sprite: "item1.png",
@@ -6132,7 +6132,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>60</attention> Magic Resist<br><attention>5%</attention> Move Speed</stats><br><li><passive>Absorb:</passive> Taking <magicDamage>magic damage</magicDamage> from enemy Champions grants a stack of <attention>Steadfast</attention>. Enemy <status>Immobilizing</status> effects grant additional stacks.<li><passive>Dissipate:</passive> While at max stacks of <attention>Steadfast</attention>, gain increased Magic Resist and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224401.png",
       sprite: "item1.png",
@@ -6149,7 +6149,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Attack Damage<br><attention>120</attention> Ability Power<br><attention>50%</attention> Attack Speed<br><attention>30%</attention> Critical Strike Chance<br><attention>250</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>250</attention> Mana<br><attention>20</attention> Ability Haste<br><attention>10%</attention> Move Speed<br><attention>10%</attention> Life Steal<br><attention>100%</attention> Base Health Regen<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Doing Something:</passive> You are permanently On Fire!</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224403.png",
       sprite: "item1.png",
@@ -6166,7 +6166,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><buffedStat>300</buffedStat> Health<br><buffedStat>20</buffedStat> Ability Haste</stats><br><li><passive>Hypershot:</passive> Damaging a champion with a non-targeted Ability at over 700 range or <status>Slowing or Immobilizing</status> them <keywordStealth>Reveals</keywordStealth> them and increases their damage taken from you.<br><br><rules>The Ability that triggers <passive>Hypershot</passive> also benefits from the damage increase. Pets and non-immobilizing traps do not trigger this effect. Only the initial placement of zone Abilities will trigger this effect. Distance is measured from the Ability cast position. </rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224628.png",
       sprite: "item1.png",
@@ -6183,7 +6183,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><buffedStat>35</buffedStat> Ability Haste<br><attention>5%</attention> Move Speed</stats><br><li><passive>Spelldance:</passive> Damaging a champion generates a stack of <speed>2.5% Move Speed</speed> every 1.5 seconds for the next 5 seconds up to <speed>10% Move Speed</speed>. At 4 stacks, gain an additional <speed>10% Move Speed</speed> (<speed>20% Move Speed</speed> total). Dealing damage refreshes this effect.<br> <br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224629.png",
       sprite: "item1.png",
@@ -6200,7 +6200,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><attention>300</attention> Health<br><attention>15</attention> Ability Haste<br><attention>7%</attention> Omnivamp</stats><br><li><passive>Void Corruption:</passive> For each second damaging enemy champions, deal bonus damage. At maximum strength, the bonus damage is dealt as <trueDamage>true damage</trueDamage> instead. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Omnivamp and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224633.png",
       sprite: "item1.png",
@@ -6217,7 +6217,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>90</attention> Ability Power<br><attention>400</attention> Health<br><attention>25</attention> Ability Haste</stats><br><li><passive>Soulrend:</passive> Damaging a champion with Attacks or Abilities deals additional magic damage and grants you Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224636.png",
       sprite: "item1.png",
@@ -6234,7 +6234,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>75</attention> Ability Power<br><attention>350</attention> Health</stats><br><li><passive>Azakana's Gaze:</passive> Dealing Ability damage burns enemies for max Health magic damage every second.<li><passive>Dark Pact:</passive> Gain <scaleHealth>bonus Health</scaleHealth> as <scaleAP>Ability Power</scaleAP>. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224637.png",
       sprite: "item1.png",
@@ -6251,7 +6251,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>100</buffedStat> Ability Power<br><attention>250</attention> Health<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Safeguard:</passive> You are <keywordMajor>Safeguarded</keywordMajor>, reducing incoming champion damage. <keywordMajor>Safeguard</keywordMajor> persists for 2.5 seconds after taking champion damage. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224644.png",
       sprite: "item1.png",
@@ -6268,7 +6268,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>100</attention> Ability Power<br><attention>200</attention> Health</stats><br><li><passive>Cinderbloom:</passive> Damage to champions benefits from additional <keywordStealth>Magic Penetration</keywordStealth> based on their current <scaleHealth>Health</scaleHealth>. If the target was recently affected by Shields, gain the maximum benefit against that target. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "224645.png",
       sprite: "item1.png",
@@ -6285,7 +6285,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><buffedStat>400</buffedStat> Health<br><attention>40</attention> Magic Resist</stats><br><br><active>Active -</active> <active>Quicksilver:</active> Remove all crowd control debuffs and gain Tenacity and Slow Resistance.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226035.png",
       sprite: "item1.png",
@@ -6302,7 +6302,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>15</attention> Ability Haste<br><attention>45</attention> Armor</stats><br><li><passive>Ignore Pain:</passive> Damage taken is dealt to you over time instead.<li><passive>Defy:</passive> Champion takedowns cleanse <passive>Ignore Pain's</passive> remaining damage pool and restore Health over time.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226333.png",
       sprite: "item1.png",
@@ -6319,7 +6319,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><buffedStat>400</buffedStat> Health<br><attention>25</attention> Ability Haste</stats><br><li><passive>Hackshorn:</passive> Dealing physical damage applies 40% <status>Grievous Wounds</status> to enemy champions for 3 seconds.<br><br><rules><status>Grievous Wounds</status> reduces the effectiveness of Healing and Regeneration effects.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226609.png",
       sprite: "item1.png",
@@ -6336,7 +6336,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>35</buffedStat> Ability Power<br><buffedStat>12%</buffedStat> Heal and Shield Power<br><attention>75%</attention> Base Mana Regen<br><buffedStat>15%</buffedStat> Move Speed</stats><br><li><passive>Rapids:</passive> Healing or Shielding another ally grants you both Ability Power and Ability Haste.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226616.png",
       sprite: "item1.png",
@@ -6353,7 +6353,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>45</buffedStat> Ability Power<br><attention>200</attention> Health<br><buffedStat>30</buffedStat> Ability Haste<br><attention>100%</attention> Base Mana Regen</stats><br><li><passive>Starlit Grace:</passive> Healing or shielding an ally chains to the nearest ally champion (excluding yourself), healing or shielding based on the original amount<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Heal and Shield Power.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226617.png",
       sprite: "item1.png",
@@ -6370,7 +6370,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>30</attention> Ability Power<br><attention>200</attention> Health<br><attention>30</attention> Ability Haste<br><attention>125%</attention> Base Mana Regen</stats><br><li><passive>Soul Siphon:</passive> Damaging a champion grants a <passive>Soul Shard</passive>. Healing or Shielding an ally consumes all <passive>Soul Shards</passive> to restore Health and deals magic damage per Shard to the nearest enemy champion.<br><li><passive>Dissonance:</passive> Gain <scaleAP>Ability Power</scaleAP> per <scaleMana> Base Mana Regeneration</scaleMana>. Disables Harmony.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Ability Haste.</attention><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226620.png",
       sprite: "item1.png",
@@ -6387,7 +6387,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>400</attention> Health<br><attention>20</attention> Ability Haste<br><attention>8%</attention> Omnivamp</stats><br><br><active>Active -</active> <active>Thirsting Slash:</active> Deal damage to nearby enemies. Restore Health for each champion hit.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health and Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226630.png",
       sprite: "item1.png",
@@ -6404,7 +6404,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>50</nerfedStat> Attack Damage<br><attention>20%</attention> Attack Speed<br><attention>375</attention> Health<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Halting Slash:</active> Deal damage to nearby enemies, <status>Slowing</status> them. Can be cast while moving.<br><li><passive>Heroic Gait:</passive> Dealing physical damage grants Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226631.png",
       sprite: "item1.png",
@@ -6421,7 +6421,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>35</nerfedStat> Attack Damage<br><nerfedStat>200</nerfedStat> Health<br><attention>20</attention> Ability Haste</stats><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage <OnHit>On-Hit</OnHit>. If the target is a champion, also heal.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Magic Penetration.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226632.png",
       sprite: "item1.png",
@@ -6438,7 +6438,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>70</nerfedStat> Ability Power<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Agony:</passive> Deal bonus magic damage to Champions based on the target's bonus Health.<li><passive>Torment:</passive> Dealing damage with Abilities causes enemies to burn over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226653.png",
       sprite: "item1.png",
@@ -6455,7 +6455,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>100</buffedStat> Ability Power<br><buffedStat>9</buffedStat> Magic Penetration<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><li><passive>Echo:</passive> Damaging Abilities deal magic damage to the target and 3 nearby enemies and grants you Move Speed. Dealing ability damage to Champions reduces this item's cooldown.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226655.png",
       sprite: "item1.png",
@@ -6472,7 +6472,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>70</attention> Ability Power<br><buffedStat>400</buffedStat> Health<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Glaciate:</active> Deal damage in a cone, <status>Slowing</status> enemies hit. Enemies at the center of the cone are <status>Rooted</status> instead.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Power. <br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226656.png",
       sprite: "item1.png",
@@ -6489,7 +6489,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>70</buffedStat> Ability Power<br><attention>400</attention> Health<br><attention>400</attention> Mana</stats><br><br><buffedStat>After 2 combat rounds</buffedStat>, this item gains 300 Health, 300 Mana, 40 Ability Power. In addition, gain a level and all effects of Eternity are increased by 50%.<br><li><passive>Eternity:</passive> Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second. For every 200 Health or Mana restored this way, gain <speed>35% Decaying Move Speed</speed> for 3 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5 Ability Haste.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226657.png",
       sprite: "item1.png",
@@ -6506,7 +6506,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>400</attention> Health<br><attention>50</attention> Armor<br><nerfedStat>10</nerfedStat> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage and creates a frost field for 2.5s. Enemies that move across the field are <status>Slowed</status>. Your primary target is crippled, applying a 100% stronger slow on them and reducing their damage by 10% against you for 2.5s. (1.5s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>50 Health</attention>, <attention>5%</attention> Tenacity, and <attention>5%</attention> Slow Resist.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226662.png",
       sprite: "item1.png",
@@ -6523,7 +6523,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>600</buffedStat> Health<br><attention>50</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Supercharged:</active> Grants Move Speed towards enemies or enemy turrets. Once near an enemy (or after 4 seconds) a shockwave is emitted that <status>Slows</status> nearby champions.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226664.png",
       sprite: "item1.png",
@@ -6540,7 +6540,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>300</nerfedStat> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><nerfedStat>10</nerfedStat> Ability Haste</stats><br><li><passive>Voidborn Resilience:</passive> For each second in champion combat gain a stack granting <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>, up to 8 stacks max. At max stacks become empowered, instantly draining enemies around you for magic damage, healing yourself, and increasing your bonus resist until end of combat.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226665.png",
       sprite: "item1.png",
@@ -6557,7 +6557,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>350</attention> Health<br><attention>30</attention> Armor<br><attention>30</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Guiding Light:</passive> Upon casting your Ultimate you Transcend, increasing your Max Health. While Transcended you and allies heal over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226667.png",
       sprite: "item1.png",
@@ -6574,7 +6574,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>55</nerfedStat> Attack Damage<br><attention>25%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><attention>7%</attention> Move Speed</stats><br><br><active>Active -</active> <active>Cloudburst:</active> Dash in target direction, firing three missiles at the lowest Health enemy near your destination. Deals physical damage, increased against low Health targets.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.<br><br><rules>Maximum missile damage dealt when enemy Health is below 25%.<br>Cloudburst's dash cannot pass through terrain.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226671.png",
       sprite: "item1.png",
@@ -6591,7 +6591,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>40</attention> Attack Damage<br><attention>30%</attention> Attack Speed<br><attention>20%</attention> Critical Strike Chance</stats><br><li><passive>Bring It Down:</passive> Every third Attack deals additional physical damage. Repeated triggers on the same target increase the damage dealt.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226672.png",
       sprite: "item1.png",
@@ -6608,7 +6608,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>50</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>10%</attention> Life Steal</stats><br><li><passive>Lifeline:</passive> When taking damage that would reduce you below 30% Health, gain a Shield. In addition, gain Attack Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226673.png",
       sprite: "item1.png",
@@ -6625,7 +6625,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>55</nerfedStat> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>15</attention> Ability Haste</stats><br><li><passive>Transcendence:</passive>  Your Attacks reduce your non-Ultimate Ability cooldowns.<li><passive>Impermanence:</passive> Your abilities deal increased damage based on Critical Strike Chance.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226675.png",
       sprite: "item1.png",
@@ -6642,7 +6642,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>55</attention> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><buffedStat>18</buffedStat> Lethality</stats><br><li><passive>Death and Taxes:</passive> Dealing damage that would leave an enemy champion below 5% Health executes them.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226676.png",
       sprite: "item1.png",
@@ -6659,7 +6659,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>60</attention> Attack Damage<br><buffedStat>21</buffedStat> Lethality<br><attention>20</attention> Ability Haste</stats><br><li><passive>Nightstalker:</passive> Your Abilities deal up to an additional percent damage based on the target's missing health. When a champion that you have damaged within the last 3 seconds dies, you become <keywordStealth>Untargetable</keywordStealth> from non-structures for 1.5 seconds (10s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste and  Move Speed.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226691.png",
       sprite: "item1.png",
@@ -6676,7 +6676,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>50</nerfedStat> Attack Damage<br><buffedStat>15</buffedStat> Lethality<br><attention>15</attention> Ability Haste</stats><br><br><li><passive>Ever Rising Moon:</passive> Hitting a champion with 2 separate Attacks or Abilities within 1.5 seconds deals additional damage, grants you Move Speed and a Shield.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226692.png",
       sprite: "item1.png",
@@ -6693,7 +6693,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>60</buffedStat> Attack Damage<br><buffedStat>19</buffedStat> Lethality<br><buffedStat>20</buffedStat> Ability Haste</stats><br><br><li><passive>Sandstrike:</passive> After dashing, blinking, or exiting Stealth, your next Attack on a champion deals an additional physical damage. If dealt by a Melee champion, this Attack also <status>Slows</status> the target.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226693.png",
       sprite: "item1.png",
@@ -6710,7 +6710,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>45</attention> Attack Damage<br><buffedStat>40%</buffedStat> Armor Penetration<br><nerfedStat>15</nerfedStat> Ability Haste</stats><br><li><passive>Bitter Cold:</passive> Damaging Abilities <status>Slow</status> enemies.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226694.png",
       sprite: "item1.png",
@@ -6727,7 +6727,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>70</buffedStat> Attack Damage<br><buffedStat>18</buffedStat> Lethality</stats><br><li><passive>Shield Reaver:</passive> Dealing damage to an enemy champion reduces any shields they gain. When you damage an enemy who is unaffected by Shield Reaver, reduce all shields on them.<br><br>Item performance differs for melee and ranged users.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226695.png",
       sprite: "item1.png",
@@ -6744,7 +6744,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>60</buffedStat> Attack Damage<br><buffedStat>21</buffedStat> Lethality<br><attention>25</attention> Ability Haste</stats><br><li><passive>Apophthegm:</passive> <buffedStat>Your Ultimate Abilities deal 25% increased damage</buffedStat>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "226696.png",
       sprite: "item1.png",
@@ -6761,7 +6761,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>70</ornnBonus> Attack Damage<br><ornnBonus>20</ornnBonus> Lethality<br><ornnBonus>20</ornnBonus> Ability Haste</stats><br><br><li><passive>Ever Rising Moon:</passive> Hitting a champion with 2 separate Attacks or Abilities within 1.5 seconds deals additional damage, grants you Move Speed and a Shield.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227001.png",
       sprite: "item1.png",
@@ -6778,7 +6778,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>75</ornnBonus> Attack Damage<br><ornnBonus>26</ornnBonus> Lethality<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Nightstalker:</passive> Your Abilities deal up to an additional percent damage based on the target's missing health. When a champion that you have damaged within the last 3 seconds dies, you become <keywordStealth>Untargetable</keywordStealth> from non-structures for 1.5 seconds (10s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste and  Move Speed.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227002.png",
       sprite: "item1.png",
@@ -6795,7 +6795,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>550</ornnBonus> Health<br><ornnBonus>70</ornnBonus> Armor<br><ornnBonus>15</ornnBonus> Ability Haste</stats><br><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage and creates a frost field for 2.5s. Enemies that move across the field are <status>Slowed</status>. Your primary target is crippled, applying a 100% stronger slow on them and reducing their damage by 10% against you for 2.5s. (1.5s ).<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>50 Health</attention>, <attention>5%</attention> Tenacity, and <attention>5%</attention> Slow Resist.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227005.png",
       sprite: "item1.png",
@@ -6812,7 +6812,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>70</nerfedStat> Attack Damage<br><ornnBonus>40%</ornnBonus> Attack Speed<br><attention>20%</attention> Critical Strike Chance<br><ornnBonus>10%</ornnBonus> Move Speed</stats><br><br><active>Active -</active> <active>Cloudburst:</active> Dash in target direction, firing three missiles at the lowest Health enemy near your destination. Deals physical damage, increased against low Health targets.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.<br><br><rules>Maximum missile damage dealt when enemy Health is below 25%.<br>Cloudburst's dash cannot pass through terrain.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227006.png",
       sprite: "item1.png",
@@ -6829,7 +6829,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>90</ornnBonus> Ability Power<br><ornnBonus>450</ornnBonus> Health<br><ornnBonus>20</ornnBonus> Ability Haste<br><ornnBonus>8%</ornnBonus> Omnivamp</stats><br><li><passive>Void Corruption:</passive> For each second damaging enemy champions, deal bonus damage. At maximum strength, the bonus damage is dealt as <trueDamage>true damage</trueDamage> instead. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Omnivamp and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227009.png",
       sprite: "item1.png",
@@ -6846,7 +6846,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>120</ornnBonus> Ability Power<br><ornnBonus>500</ornnBonus> Health<br><ornnBonus>30</ornnBonus> Ability Haste</stats><br><li><passive>Soulrend:</passive> Damaging a champion with Attacks or Abilities deals additional magic damage and grants you Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227010.png",
       sprite: "item1.png",
@@ -6863,7 +6863,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>120</ornnBonus> Ability Power<br><ornnBonus>10</ornnBonus> Magic Penetration<br><ornnBonus>500</ornnBonus> Health<br><ornnBonus>20</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Supersonic:</active> Dash in target direction, unleashing an arc of magic missiles that deal damage. Then, gain Move Speed towards enemy champions.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227011.png",
       sprite: "item1.png",
@@ -6880,7 +6880,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>100</ornnBonus> Ability Power<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Agony:</passive> Deal bonus magic damage to Champions based on the target's bonus Health.<li><passive>Torment:</passive> Dealing damage with Abilities causes enemies to burn over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227012.png",
       sprite: "item1.png",
@@ -6897,7 +6897,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>120</ornnBonus> Ability Power<br><ornnBonus>13</ornnBonus> Magic Penetration<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Echo:</passive> Damaging Abilities deal magic damage to the target and 3 nearby enemies and grants you Move Speed. Dealing ability damage to Champions reduces this item's cooldown.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Magic Penetration. </mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227013.png",
       sprite: "item1.png",
@@ -6914,7 +6914,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>90</ornnBonus> Ability Power<br><ornnBonus>550</ornnBonus> Health<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Glaciate:</active> Deal damage in a cone, <status>Slowing</status> enemies hit. Enemies at the center of the cone are <status>Rooted</status> instead.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Power. <br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227014.png",
       sprite: "item1.png",
@@ -6931,7 +6931,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><attention>65</attention> Attack Damage<br><attention>600</attention> Health<br><ornnBonus>25</ornnBonus> Ability Haste<br><ornnBonus>12%</ornnBonus> Omnivamp</stats><br><br><active>Active -</active> <active>Thirsting Slash:</active> Deal damage to nearby enemies. Restore Health for each champion hit.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health and Ability Haste.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227015.png",
       sprite: "item1.png",
@@ -6948,7 +6948,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>60</nerfedStat> Attack Damage<br><ornnBonus>30%</ornnBonus> Attack Speed<br><ornnBonus>400</ornnBonus> Health<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Halting Slash:</active> Deal damage to nearby enemies, <status>Slowing</status> them. Can be cast while moving.<br><li><passive>Heroic Gait:</passive> Dealing physical damage grants Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227016.png",
       sprite: "item1.png",
@@ -6965,7 +6965,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>55</nerfedStat> Attack Damage<br><nerfedStat>350</nerfedStat> Health<br><ornnBonus>25</ornnBonus> Ability Haste</stats><li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage <OnHit>On-Hit</OnHit>. If the target is a champion, also heal.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor Penetration and Magic Penetration.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227017.png",
       sprite: "item1.png",
@@ -6982,7 +6982,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>40</nerfedStat> Attack Damage<br><ornnBonus>45%</ornnBonus> Attack Speed<br><nerfedStat>300</nerfedStat> Health<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Threefold Strike:</passive> Attacks grant Move Speed. If the target is a champion, increase your base Attack Damage, stacking.<li><passive>Spellblade:</passive> After using an Ability, your next Attack is enhanced with additional damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Attack Damage, Ability Haste, and Move Speed.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227018.png",
       sprite: "item1.png",
@@ -6999,7 +6999,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>600</buffedStat> Health<br><ornnBonus>35</ornnBonus> Ability Haste<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist</stats><br><br><active>Active -</active> <active>Devotion:</active> Grant nearby allies a <shield>Shield</shield>, decaying over time.<br><li><passive>Consecrate:</passive> Grant nearby allied champions  <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Armor and Magic Resist increase to <passive>Consecrate</passive>.<br><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227019.png",
       sprite: "item1.png",
@@ -7016,7 +7016,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>75</ornnBonus> Ability Power<br><ornnBonus>600</ornnBonus> Health<br><buffedStat>45</buffedStat> Ability Haste<br><ornnBonus>200%</ornnBonus> Base Mana Regen</stats><br><br><active>Active -</active> <active>Inspire:</active> Grants nearby allies Move Speed.<li><passive>Motivate:</passive> Empowering or Protecting another ally Champion grants both allies Move Speed.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Ability Haste.<br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227020.png",
       sprite: "item1.png",
@@ -7033,7 +7033,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>80</ornnBonus> Ability Power<br><ornnBonus>300</ornnBonus> Health<br><ornnBonus>35</ornnBonus> Ability Haste<br><ornnBonus>200%</ornnBonus> Base Mana Regen</stats><br><li><passive>Starlit Grace:</passive> Healing or shielding an ally chains to the nearest ally champion (excluding yourself), healing or shielding based on the original amount<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Heal and Shield Power.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227021.png",
       sprite: "item1.png",
@@ -7050,7 +7050,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>500</ornnBonus> Health<br><attention>40</attention> Armor<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist</stats><br><li><passive>Coruscation:</passive> After <status>Immobilizing</status> champions or being <status>Immobilized</status>, cause that target and all nearby enemy Champions to take increased damage.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item1.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item1.png",
     image: {
       full: "227023.png",
       sprite: "item1.png",
@@ -7067,7 +7067,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>120</ornnBonus> Ability Power<br><ornnBonus>350</ornnBonus> Health<br><ornnBonus>800</ornnBonus> Mana<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Safeguard:</passive> You are <keywordMajor>Safeguarded</keywordMajor>, reducing incoming champion damage. <keywordMajor>Safeguard</keywordMajor> persists for 2.5 seconds after taking champion damage. <br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Move Speed and Ability Power.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227024.png",
       sprite: "item2.png",
@@ -7084,7 +7084,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>1050</ornnBonus> Health<br><ornnBonus>300%</ornnBonus> Base Health Regen<br><ornnBonus>15</ornnBonus> Ability Haste</stats><br><li><passive>Colossal Consumption:</passive> Charge up a powerful attack against a champion over 3s while within 700 range of them. The charged attack deals 125 + <scalehealth>6%</scalehealth> of your max Health as bonus physical damage, and grants you 10% of that amount as permanent max Health. (20s) cooldown per target.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>1%</attention> Increased Health & <attention>6%</attention> Champion Size.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227025.png",
       sprite: "item2.png",
@@ -7101,7 +7101,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><nerfedStat>450</nerfedStat> Health<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist<br><ornnBonus>15</ornnBonus> Ability Haste</stats><br><li><passive>Voidborn Resilience:</passive> For each second in champion combat gain a stack granting <scaleArmor>Armor</scaleArmor> and <scaleMR>Magic Resist</scaleMR>, up to 8 stacks max. At max stacks become empowered, instantly draining enemies around you for magic damage, healing yourself, and increasing your bonus resist until end of combat.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention> Armor and Magic Resist</attention>.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227026.png",
       sprite: "item2.png",
@@ -7118,7 +7118,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>550</ornnBonus> Health<br><ornnBonus>40</ornnBonus> Armor<br><ornnBonus>40</ornnBonus> Magic Resist<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Guiding Light:</passive> Upon casting your Ultimate you Transcend, increasing your Max Health. While Transcended you and allies heal over time.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items Health.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227027.png",
       sprite: "item2.png",
@@ -7135,7 +7135,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>90</ornnBonus> Ability Power<br><ornnBonus>550</ornnBonus> Health<br><ornnBonus>550</ornnBonus> Mana</stats><br><br><buffedStat>After 2 combat rounds</buffedStat>, this item gains 300 Health, 300 Mana, 40 Ability Power. In addition, gain a level and all effects of Eternity are increased by 50%.<br><li><passive>Eternity:</passive> Restore Mana equal to 7% of premitigation damage taken from champions, and Health equal to 25% of Mana spent, up to 20 Health per cast, per second. For every 200 Health or Mana restored this way, gain <speed>35% Decaying Move Speed</speed> for 3 seconds.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5 Ability Haste.</attention></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227028.png",
       sprite: "item2.png",
@@ -7152,7 +7152,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>75</ornnBonus> Attack Damage<br><ornnBonus>26</ornnBonus> Lethality<br><ornnBonus>20</ornnBonus> Ability Haste</stats><br><br><active>Active -</active> <active>Wraith Step:</active> Gain Move Speed and Ghosting.<br><li><passive>Haunt:</passive> Gain up to 100 Spectral Shards while moving. Gain <speed> Move Speed</speed> out of champion combat based on the number of Spectral Shards. While at max Shards, gain <scaleAD> Lethality</scaleAD>. Shards will reset 3 seconds after dealing damage to an enemy champion.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention></attention> Attack Damage. <br><br><rules><status>Ghosted</status> units ignore collision with other units.</rules></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227029.png",
       sprite: "item2.png",
@@ -7169,7 +7169,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>35</ornnBonus> Attack Damage<br><ornnBonus>35</ornnBonus> Ability Power<br><ornnBonus>40%</ornnBonus> Attack Speed</stats><br><li><passive>Wrath:</passive> Attacks apply bonus damage <OnHit>On-Hit</OnHit>. Your Critical Strike Chance is converted into more.<li><passive>Seething Strike:</passive> Basic attacks grant bonus <attackSpeed>Attack Speed</attackSpeed>, stacking up to a cap. While fully stacked, every third Attack applies your <OnHit>On-Hit</OnHit> effects twice.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5%</attention> Armor Penetration and <attention>6%</attention> Magic Penetration.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227030.png",
       sprite: "item2.png",
@@ -7186,7 +7186,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>105</ornnBonus> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><attention>45%</attention> Critical Strike Damage</stats><br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.<br><br><flavorText>One cut is all it takes.</flavorText></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227031.png",
       sprite: "item2.png",
@@ -7203,7 +7203,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>90</ornnBonus> Attack Damage<br><attention>20%</attention> Critical Strike Chance<br><ornnBonus>25</ornnBonus> Ability Haste</stats><br><li><passive>Transcendence:</passive>  Your Attacks reduce your non-Ultimate Ability cooldowns.<li><passive>Impermanence:</passive> Your abilities deal increased damage based on Critical Strike Chance.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>5</attention> Attack Damage.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227032.png",
       sprite: "item2.png",
@@ -7220,7 +7220,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><ornnBonus>60</ornnBonus> Ability Power<br><ornnBonus>300</ornnBonus> Health<br><ornnBonus>35</ornnBonus> Ability Haste<br><ornnBonus>225%</ornnBonus> Base Mana Regen</stats><br><li><passive>Soul Siphon:</passive> Damaging a champion grants a <passive>Soul Shard</passive>. Healing or Shielding an ally consumes all <passive>Soul Shards</passive> to restore Health and deals magic damage per Shard to the nearest enemy champion.<br><li><passive>Dissonance:</passive> Gain <scaleAP>Ability Power</scaleAP> per <scaleMana> Base Mana Regeneration</scaleMana>. Disables Harmony.<br><br><rarityMythic>Mythic Passive:</rarityMythic> Grants all other <rarityLegendary>Legendary</rarityLegendary> items <attention>Ability Haste.</attention><br></mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "227033.png",
       sprite: "item2.png",
@@ -7237,7 +7237,7 @@ export const ITEMS = [
     description:
       '<mainText><stats><attention>650</attention> Health<br><attention>20</attention> Ability Haste</stats><br><br><active>Active -</active> <active>Vow:</active> Choose a Nemesis (90s ).<br><li><passive>Vendetta:</passive> Take reduced damage against your Nemesis. They have reduced Tenacity while near you.<br><br><rules>Active can be cast at global range.</rules><br><br><flavorText>"She swore to dedicate her life to his destruction..."</flavorText></mainText><br>',
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "228001.png",
       sprite: "item2.png",
@@ -7254,7 +7254,7 @@ export const ITEMS = [
     description:
       "<mainText><stats><buffedStat>350</buffedStat> Health<br><attention>60</attention> Magic Resist<br><attention>10</attention> Ability Haste</stats><br><li><passive>Unmake:</passive> <status>Curse</status> nearby enemy champions, reducing their Magic Resist. For each <status>Cursed</status> enemy, gain Magic Resist.</mainText><br>",
     plaintext: "",
-    url: "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/sprite/item2.png",
+    url: "https://luvnkhalcwlxffzuwzts.supabase.co/storage/v1/object/public/LoLFriends/sprite/item2.png",
     image: {
       full: "228020.png",
       sprite: "item2.png",

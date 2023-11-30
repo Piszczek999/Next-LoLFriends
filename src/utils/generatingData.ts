@@ -1,7 +1,6 @@
 import { CHAMPIONS, ITEMS, SUMMONERS } from "./LoL-data";
 
-const URL =
-  "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/";
+const URL = `${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/`;
 
 type Item = {
   id: string;

@@ -32,7 +32,7 @@ export default function SummonerLoadout({ ...props }: Props) {
         <Tippy content={participant.championName}>
           <Image
             className={`rounded-full`}
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/champion/${participant.championName}.png`}
+            src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/champion/${participant.championName}.png`}
             alt={"image of" + participant.championName}
             width={48}
             height={48}
@@ -42,7 +42,9 @@ export default function SummonerLoadout({ ...props }: Props) {
         <div className="flex gap-1 items-center justify-center">
           <Image
             className="bg-slate-800 rounded-full"
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
+            src={`${
+              process.env.NEXT_PUBLIC_SUPABASE_URL
+            }/storage/v1/object/public/LoLFriends/Styles/${
               runes[getPrimaryRune(participant)]
             }`}
             alt=""
@@ -51,7 +53,9 @@ export default function SummonerLoadout({ ...props }: Props) {
           />
           <Image
             className="bg-slate-800 rounded-full p-1"
-            src={`https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/Styles/${
+            src={`${
+              process.env.NEXT_PUBLIC_SUPABASE_URL
+            }/storage/v1/object/public/LoLFriends/Styles/${
               runes[getSecondaryRune(participant)]
             }`}
             alt=""
@@ -84,9 +88,7 @@ export default function SummonerLoadout({ ...props }: Props) {
         >
           <Image
             className={`rounded summoner-${participant.summoner1Id}-24`}
-            src={
-              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
-            }
+            src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/fond_sprite.png`}
             alt=""
             width={24}
             height={24}
@@ -115,9 +117,7 @@ export default function SummonerLoadout({ ...props }: Props) {
         >
           <Image
             className={`rounded summoner-${participant.summoner2Id}-24`}
-            src={
-              "https://dtneqrqtsogjewiotxnf.supabase.co/storage/v1/object/public/lolassets/fond_sprite.png"
-            }
+            src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/fond_sprite.png`}
             alt=""
             width={24}
             height={24}
