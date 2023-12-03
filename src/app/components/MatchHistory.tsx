@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import type { Match, MatchData } from "@/types/types";
 import { servers } from "@/utils/constants";
 import MatchTile from "./MatchTile/MatchTile";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCircleNotch } from "@fortawesome/free-solid-svg-icons";
 
 async function fetchMatches(matchIds: string[], region: string) {
   const res = await fetch(
@@ -60,10 +62,11 @@ export default function MatchHistory({
         .map((match, index) => (
           <MatchTile key={index} puuid={puuid} match={match} />
         ))}
-      {loadingMatches &&
-        [...Array(5)].map((_, index) => (
-          <div key={index} className="loading-placeholder"></div>
-        ))}
+      {loadingMatches && (
+        <div>
+          <FontAwesomeIcon icon={faCircleNotch} size="2xl" spin color="gray" />
+        </div>
+      )}
       <button
         className="bg-blue-500 text-white w-full mt-2 py-2 rounded-md hover:bg-blue-600 transition"
         onClick={loadMoreMatches}

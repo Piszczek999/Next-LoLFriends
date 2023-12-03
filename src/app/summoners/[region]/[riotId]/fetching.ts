@@ -27,17 +27,30 @@ export async function getSummoner(
 
   try {
     // Account
-    const resAccount = await fetch(
-      `https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/${name}/${tag}?api_key=${process.env.RIOT_API_KEY}`
-    );
+    let account: Account;
+    const { data: accDataFromSupa } = await serviceSupabase
+      .from("account")
+      .select("*")
+      .eq("gameName", name)
+      .eq("tagLine", tag)
+      .single();
 
-    if (!resAccount.ok) return handleApiError(resAccount);
+    if (accDataFromSupa) account = accDataFromSupa;
+    else {
+      const resAccount = await fetch(
+        `https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/${name}/${tag}?api_key=${process.env.RIOT_API_KEY}`
+      );
 
-    const account: Account = await resAccount.json();
+      if (!resAccount.ok) return handleApiError(resAccount);
+
+      account = await resAccount.json();
+      await serviceSupabase.from("account").insert(account);
+      console.log("new account inserted");
+    }
 
     // Summoner
     const resSummoner = await fetch(
-      `https://eun1.api.riotgames.com/lol/summoner/v4/summoners/by-puuid/${account.puuid}?api_key=${process.env.RIOT_API_KEY}`
+      `https://${regions[region]}.api.riotgames.com/lol/summoner/v4/summoners/by-puuid/${account.puuid}?api_key=${process.env.RIOT_API_KEY}`
     );
 
     if (!resSummoner.ok) return handleApiError(resSummoner);
@@ -63,7 +76,9 @@ export async function getSummoner(
     // Update leagues data in Supabase
     await Promise.all(
       leagues.map(async (league) => {
-        const res = await serviceSupabase.from("league").upsert(league);
+        const res = await serviceSupabase
+          .from("league")
+          .upsert({ ...league, region });
         if (res.error)
           console.warn(`Failed to upsert league: ${res.error.message}`);
         return res;

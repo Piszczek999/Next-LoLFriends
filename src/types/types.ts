@@ -1,4 +1,4 @@
-import { Database } from "./supabase";
+import { Database, Json } from "./supabase";
 
 export type SummonerDB = Database["public"]["Tables"]["summoner"]["Row"];
 export type FriendshipDB = Database["public"]["Tables"]["friendship"]["Row"];
@@ -6,6 +6,23 @@ export type MatchDB = Database["public"]["Tables"]["match"]["Row"];
 export type LeagueDB = Database["public"]["Tables"]["league"]["Row"];
 export type ParticipantDB = Database["public"]["Tables"]["participant"]["Row"];
 export type ProfileDB = Database["public"]["Tables"]["profile"]["Row"];
+
+export type League = {
+  freshBlood: boolean;
+  hotStreak: boolean;
+  inactive: boolean;
+  leagueId: string;
+  leaguePoints: number;
+  losses: number;
+  miniSeries: Json | null;
+  queueType: string;
+  rank: string;
+  summonerId: string;
+  summonerName: string;
+  tier: string;
+  veteran: boolean;
+  wins: number;
+};
 
 export type MatchData = {
   error?: any;

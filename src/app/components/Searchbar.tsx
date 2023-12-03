@@ -1,7 +1,7 @@
 "use client";
 
 import { Database } from "@/types/supabase";
-import { SummonerDB } from "@/types/types";
+import { Account, SummonerDB } from "@/types/types";
 import { regions } from "@/utils/constants";
 import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import Image from "next/image";
@@ -14,25 +14,36 @@ export default function Searchbar() {
   const [region, setRegion] = useState("eune");
   const [isInputVisible, setIsInputVisible] = useState(false);
   const [isRegionVisible, setIsRegionVisible] = useState(false);
-  const [summoners, setSummoners] = useState<SummonerDB[] | null>(null);
+  const [accounts, setAccounts] = useState<AccSumm[] | null>(null);
   const router = useRouter();
 
   const supabase = createClientComponentClient<Database>();
 
+  type AccSumm = Account & {
+    summoner: SummonerDB[];
+  };
+
   useEffect(() => {
     const getSummoners = async () => {
-      const { data } = await supabase
-        .from("summoner")
-        .select()
-        .ilike("name", `%${inputValue}%`)
-        .limit(5);
-      setSummoners(data);
+      try {
+        const { data } = await supabase
+          .from("account")
+          .select("*, summoner(*)")
+          .ilike("gameName", `%${inputValue}%`)
+          .limit(5);
+
+        setAccounts(data);
+      } catch (error) {
+        console.error("Error fetching summoners:", error);
+      }
     };
     getSummoners();
   }, [supabase, inputValue]);
 
   function onSubmit(e: React.KeyboardEvent<HTMLInputElement>) {
-    if (e.key === "Enter") router.push(`/summoners/${region}/${inputValue}`);
+    let [name, tag] = inputValue.split("#");
+    if (!tag) tag = region;
+    if (e.key === "Enter") router.push(`/summoners/${region}/${name}-${tag}`);
   }
 
   return (
@@ -78,30 +89,32 @@ export default function Searchbar() {
         />
         {isInputVisible && (
           <div className="absolute bg-slate-700 flex flex-col border-[1px] border-slate-800 shadow-lg gap-1">
-            {summoners
-              ?.filter((summoner) =>
-                summoner.name?.toLowerCase().includes(inputValue.toLowerCase())
-              )
-              .map((summoner) => (
-                <Link
-                  key={summoner.id}
-                  href={`/summoners/${summoner.region}/${summoner.name}`}
-                  onClick={() => {
-                    setInputValue("");
-                    setIsInputVisible(false);
-                  }}
-                >
-                  <div className="flex gap-1">
-                    <Image
-                      src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/profileicon/${summoner.profileIconId}.png`}
-                      alt="icon"
-                      width={25}
-                      height={25}
-                    />
-                    <span>{`${summoner.name} (${summoner.region})`}</span>
-                  </div>
-                </Link>
-              ))}
+            {accounts
+              // .filter((summoner) =>
+              //   summoner.name?.toLowerCase().includes(inputValue.toLowerCase())
+              // )
+              ?.map((account) =>
+                account.summoner.map((summoner, i) => (
+                  <Link
+                    key={i}
+                    href={`/summoners/${summoner.region}/${account.gameName}-${account.tagLine}`}
+                    onClick={() => {
+                      setInputValue("");
+                      setIsInputVisible(false);
+                    }}
+                  >
+                    <div className="flex gap-1">
+                      <Image
+                        src={`${process.env.NEXT_PUBLIC_SUPABASE_URL}/storage/v1/object/public/LoLFriends/profileicon/${summoner.profileIconId}.png`}
+                        alt="icon"
+                        width={25}
+                        height={25}
+                      />
+                      <span>{`${account.gameName}#${account.tagLine} (${summoner.region})`}</span>
+                    </div>
+                  </Link>
+                ))
+              )}
           </div>
         )}
       </div>
@@ -111,7 +124,11 @@ export default function Searchbar() {
         alt="Search"
         width={25}
         height={25}
-        onClick={() => router.push(`/summoners/${region}/${inputValue}`)}
+        onClick={() => {
+          let [name, tag] = inputValue.split("#");
+          if (!tag) tag = region;
+          router.push(`/summoners/${region}/${name}-${tag}`);
+        }}
       />
     </div>
   );

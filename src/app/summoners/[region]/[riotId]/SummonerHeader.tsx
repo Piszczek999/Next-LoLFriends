@@ -26,7 +26,7 @@ export default function SummonerHeader({
 
       <div className="flex flex-col gap-2">
         <h1 className="text-2xl">{account.gameName}</h1>
-        <p>#friends rank</p>
+        {/* <p>#friends rank</p> */}
       </div>
     </div>
   );
