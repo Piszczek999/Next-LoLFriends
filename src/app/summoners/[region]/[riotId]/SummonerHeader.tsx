@@ -1,5 +1,6 @@
 import { Account, SummonerDB } from "@/types/types";
 import Image from "next/image";
+import AddButton from "./AddButton";
 
 export default function SummonerHeader({
   summoner,
@@ -27,6 +28,9 @@ export default function SummonerHeader({
       <div className="flex flex-col gap-2">
         <h1 className="text-2xl">{account.gameName}</h1>
         {/* <p>#friends rank</p> */}
+      </div>
+      <div>
+        <AddButton />
       </div>
     </div>
   );
