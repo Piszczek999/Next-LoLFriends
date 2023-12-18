@@ -2,8 +2,9 @@ import MatchHistory from "@/app/components/MatchHistory";
 import SummonerHeader from "./SummonerHeader";
 import SummonerStatistics from "./SummonerStatistics";
 import { getSummoner } from "./fetching";
+import { serviceSupabase } from "@/utils/supabase";
 
-export const revalidate = 60;
+export const dynamic = "force-dynamic";
 
 type Route = {
   region: string;
@@ -33,11 +34,20 @@ export default async function Page({
   // return <pre>{data}</pre>;
 
   if (!summoner || !account) return <main>Summoner not found</main>;
+  const { data: profile } = await serviceSupabase
+    .from("profile")
+    .select()
+    .eq("puuid", account.puuid)
+    .single();
 
   return (
     <main className="flex flex-col gap-2">
       <div className="bg-slate-800 p-4 shadow-lg">
-        <SummonerHeader summoner={summoner} account={account} />
+        <SummonerHeader
+          summoner={summoner}
+          account={account}
+          profile={profile}
+        />
       </div>
       <div className="flex flex-col lg:flex-row gap-2">
         <div className="basis-[256px] bg-slate-750 p-2 shadow-lg">

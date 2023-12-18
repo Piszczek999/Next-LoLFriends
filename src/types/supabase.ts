@@ -556,16 +556,19 @@ export interface Database {
           email: string | null
           id: string
           name: string | null
+          puuid: string | null
         }
         Insert: {
           email?: string | null
           id: string
           name?: string | null
+          puuid?: string | null
         }
         Update: {
           email?: string | null
           id?: string
           name?: string | null
+          puuid?: string | null
         }
         Relationships: [
           {

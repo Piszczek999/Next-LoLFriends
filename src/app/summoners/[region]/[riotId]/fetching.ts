@@ -44,8 +44,10 @@ export async function getSummoner(
       if (!resAccount.ok) return handleApiError(resAccount);
 
       account = await resAccount.json();
-      await serviceSupabase.from("account").insert(account);
-      console.log("new account inserted");
+      const sdasda = await serviceSupabase
+        .from("account")
+        .insert(account)
+        .select();
     }
 
     // Summoner
@@ -55,7 +57,7 @@ export async function getSummoner(
 
     if (!resSummoner.ok) return handleApiError(resSummoner);
 
-    const summoner: SummonerDB = await resSummoner.json();
+    const summoner: SummonerDB = { ...(await resSummoner.json()), region };
 
     // Update summoner data in Supabase
     const { error: summError } = await serviceSupabase

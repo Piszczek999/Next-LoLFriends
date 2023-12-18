@@ -1,10 +1,9 @@
 "use client";
 
-import { ProfileDB } from "@/types/types";
 import Image from "next/image";
-import { useRouter } from "next/navigation";
 import { useState, type DetailedHTMLProps, type HTMLAttributes } from "react";
 import { useAuth } from "../auth/Auth";
+import Link from "next/link";
 
 type Props = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement>;
 
@@ -45,6 +44,12 @@ export default function UserButton({ ...props }: Props) {
                 <p className="text-lg">{profile.name}</p>
                 <p className="text-sm text-slate-400">{profile.email}</p>
               </div>
+              <Link
+                href={`/profile/${profile.name}`}
+                className="w-full text-center hover:bg-slate-750"
+              >
+                Profile
+              </Link>
               <form action="/auth/sign-out" method="post">
                 <button className="w-full text-center hover:bg-slate-750">
                   Logout

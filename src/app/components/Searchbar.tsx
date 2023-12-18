@@ -47,7 +47,7 @@ export default function Searchbar() {
   }
 
   return (
-    <div className="flex items-center bg-slate-700 border-[1px] border-slate-900">
+    <div className="flex items-center bg-slate-700 border-[1px] border-slate-900 max-w-[222px]">
       <div
         onFocus={() => setIsRegionVisible(true)}
         onBlur={(e) => {

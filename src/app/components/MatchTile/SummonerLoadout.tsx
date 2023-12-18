@@ -45,7 +45,7 @@ export default function SummonerLoadout({ ...props }: Props) {
             src={`${
               process.env.NEXT_PUBLIC_SUPABASE_URL
             }/storage/v1/object/public/LoLFriends/Styles/${
-              runes[getPrimaryRune(participant)]
+              runes[getPrimaryRune(participant)] || "RunesIcon.png"
             }`}
             alt=""
             width={20}
@@ -56,7 +56,7 @@ export default function SummonerLoadout({ ...props }: Props) {
             src={`${
               process.env.NEXT_PUBLIC_SUPABASE_URL
             }/storage/v1/object/public/LoLFriends/Styles/${
-              runes[getSecondaryRune(participant)]
+              runes[getSecondaryRune(participant)] || "RunesIcon.png"
             }`}
             alt=""
             width={20}

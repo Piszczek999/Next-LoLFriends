@@ -36,7 +36,7 @@ export default function Login() {
           </button>
         </form>
 
-        <form
+        {/* <form
           className="flex-1 flex flex-col w-full justify-center gap-2 text-foreground"
           action="/auth/sign-in"
           method="post"
@@ -71,7 +71,7 @@ export default function Login() {
             Sign Up
           </button>
           <Messages />
-        </form>
+        </form> */}
       </div>
     </main>
   );
