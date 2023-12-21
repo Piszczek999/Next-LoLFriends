@@ -9,7 +9,6 @@ import "@fortawesome/fontawesome-svg-core/styles.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Navbar from "./components/Navbar";
-import FriendList from "./components/FriendList";
 import { AuthProvider } from "./auth/Auth";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -33,7 +32,6 @@ export default function RootLayout({
             <div className="mx-auto xl:basis-[1024px] w-full bg-slate-700">
               {children}
             </div>
-            <FriendList className="relative right-0 basis-[200px] h-auto from-slate-700 bg-gradient-to-b to-slate-800 shrink-0" />
           </div>
         </AuthProvider>
       </body>
