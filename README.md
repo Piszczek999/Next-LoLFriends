@@ -1,34 +1,103 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LoL Match Tracker
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Overview
+
+LoL Match Tracker is a web application that allows users to search for **League of Legends** players and view their in-game statistics, match history, and ranked progression.
+
+The application provides a clear and structured overview of a player’s performance, including detailed match data and overall ranking information.
+
+---
+
+## Features
+
+* Search League of Legends players by nickname
+* View player profile and ranked information
+* Display match history
+* View detailed statistics for individual matches
+* Responsive and fast UI optimized for real-time lookup
+
+---
+
+## Tech Stack
+
+* Next.js
+* TypeScript
+* Supabase (backend & data storage)
+* Vercel (deployment)
+
+---
+
+## Installation
+
+```bash id="inst1"
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Create a `.env.local` file based on `.env.local.example`.
 
-## Learn More
+Required variables typically include:
 
-To learn more about Next.js, take a look at the following resources:
+* Supabase URL
+* Supabase anon key
+* Riot API key
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Running Locally
 
-## Deploy on Vercel
+```bash id="dev1"
+npm run dev
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Application will be available at:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```text id="dev2"
+http://localhost:3000
+```
+
+---
+
+## Screenshots
+
+### Player Search
+
+Search interface for finding League of Legends players by nickname.
+
+![Search Players](./screenshots/search-players.png)
+
+---
+
+### Player Details
+
+Displays ranked information, match history, and detailed match statistics.
+
+![Player Details](./screenshots/player-details.png)
+
+---
+
+## Project Purpose
+
+This project was developed as a portfolio piece to demonstrate:
+
+* Integration with external gaming data (Riot Games API)
+* Full-stack development using Next.js
+* Database-backed application using Supabase
+* Real-time data fetching and presentation
+* Clean UI design for analytical dashboards
+
+---
+
+## License
+
+Portfolio / educational project.
